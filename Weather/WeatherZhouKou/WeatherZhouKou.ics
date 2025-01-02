@@ -18,7 +18,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250103
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ Overcast clouds\n\n🌅 Sunrise 7:26 and sets 17:24\n\n⚡️ Pressure 1030 hPa\n\n💧 Humidity 39%\n\n💨 Wind speed up to 5 m/s\n🚩 from N ↓\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:26 日落 17:24\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 39%\n\n💨 风速 5 m/s\n🚩 来自北 ↓\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 8°
@@ -34,7 +34,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250104
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ Scattered clouds\n\n🌅 Sunrise 7:26 and sets 17:25\n\n⚡️ Pressure 1030 hPa\n\n💧 Humidity 47%\n\n💨 Wind speed up to 3 m/s\n🚩 from N ↓\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:26 日落 17:25\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 47%\n\n💨 风速 3 m/s\n🚩 来自北 ↓\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 10°
@@ -50,7 +50,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250105
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ Scattered clouds\n\n🌅 Sunrise 7:26 and sets 17:25\n\n⚡️ Pressure 1026 hPa\n\n💧 Humidity 45%\n\n💨 Wind speed up to 2 m/s\n🚩 from WSW ↗\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:26 日落 17:25\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 45%\n\n💨 风速 2 m/s\n🚩 from WSW ↗\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 13°
@@ -66,7 +66,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250106
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ Sky is clear\n\n🌅 Sunrise 7:26 and sets 17:26\n\n⚡️ Pressure 1022 hPa\n\n💧 Humidity 25%\n\n💨 Wind speed up to 6 m/s\n🚩 from W →\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 7:26 日落 17:26\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 25%\n\n💨 风速 6 m/s\n🚩 来自西 →\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 8°
@@ -82,7 +82,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250107
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ Sky is clear\n\n🌅 Sunrise 7:26 and sets 17:27\n\n⚡️ Pressure 1029 hPa\n\n💧 Humidity 29%\n\n💨 Wind speed up to 4 m/s\n🚩 from NE ↙\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 7:26 日落 17:27\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 29%\n\n💨 风速 4 m/s\n🚩 来自东北 ↙\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 7°
@@ -98,7 +98,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250108
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ Overcast clouds\n\n🌅 Sunrise 7:26 and sets 17:28\n\n⚡️ Pressure 1028 hPa\n\n💧 Humidity 22%\n\n💨 Wind speed up to 2 m/s\n🚩 from NW ↘\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:26 日落 17:28\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 22%\n\n💨 风速 2 m/s\n🚩 来自西北 ↘\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 4°
@@ -114,7 +114,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250109
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ Overcast clouds\n\n🌅 Sunrise 7:26 and sets 17:29\n\n⚡️ Pressure 1034 hPa\n\n💧 Humidity 19%\n\n💨 Wind speed up to 4 m/s\n🚩 from NE ↙\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:26 日落 17:29\n\n⚡️ 气压 1034 hPa\n\n💧 湿度 19%\n\n💨 风速 4 m/s\n🚩 来自东北 ↙\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 3°
@@ -130,7 +130,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250110
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ Broken clouds\n\n🌅 Sunrise 7:26 and sets 17:29\n\n⚡️ Pressure 1039 hPa\n\n💧 Humidity 20%\n\n💨 Wind speed up to 2 m/s\n🚩 from ENE ↙\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:26 日落 17:29\n\n⚡️ 气压 1039 hPa\n\n💧 湿度 20%\n\n💨 风速 2 m/s\n🚩 from ENE ↙\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 4°
@@ -146,7 +146,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250111
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ Overcast clouds\n\n🌅 Sunrise 7:26 and sets 17:30\n\n⚡️ Pressure 1037 hPa\n\n💧 Humidity 22%\n\n💨 Wind speed up to 3 m/s\n🚩 from SSW ↑\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:26 日落 17:30\n\n⚡️ 气压 1037 hPa\n\n💧 湿度 22%\n\n💨 风速 3 m/s\n🚩 来自南西南 ↑\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 6°
@@ -162,7 +162,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250112
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ Sky is clear\n\n🌅 Sunrise 7:26 and sets 17:31\n\n⚡️ Pressure 1033 hPa\n\n💧 Humidity 21%\n\n💨 Wind speed up to 4 m/s\n🚩 from WNW →\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 7:26 日落 17:31\n\n⚡️ 气压 1033 hPa\n\n💧 湿度 21%\n\n💨 风速 4 m/s\n🚩 from WNW →\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 8°
@@ -178,7 +178,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250113
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ Sky is clear\n\n🌅 Sunrise 7:26 and sets 17:32\n\n⚡️ Pressure 1031 hPa\n\n💧 Humidity 26%\n\n💨 Wind speed up to 6 m/s\n🚩 from WNW ↘\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 7:26 日落 17:32\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 26%\n\n💨 风速 6 m/s\n🚩 from WNW ↘\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 12°
@@ -194,7 +194,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250114
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ Sky is clear\n\n🌅 Sunrise 7:26 and sets 17:33\n\n⚡️ Pressure 1022 hPa\n\n💧 Humidity 14%\n\n💨 Wind speed up to 7 m/s\n🚩 from WNW →\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 7:26 日落 17:33\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 14%\n\n💨 风速 7 m/s\n🚩 from WNW →\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 5°
@@ -210,7 +210,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250115
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ Sky is clear\n\n🌅 Sunrise 7:26 and sets 17:34\n\n⚡️ Pressure 1037 hPa\n\n💧 Humidity 18%\n\n💨 Wind speed up to 4 m/s\n🚩 from NNW ↘\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 7:26 日落 17:34\n\n⚡️ 气压 1037 hPa\n\n💧 湿度 18%\n\n💨 风速 4 m/s\n🚩 来自北西北 ↘\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 7°
@@ -226,7 +226,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250116
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ Sky is clear\n\n🌅 Sunrise 7:25 and sets 17:35\n\n⚡️ Pressure 1033 hPa\n\n💧 Humidity 18%\n\n💨 Wind speed up to 3 m/s\n🚩 from SSW ↑\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 7:25 日落 17:35\n\n⚡️ 气压 1033 hPa\n\n💧 湿度 18%\n\n💨 风速 3 m/s\n🚩 来自南西南 ↑\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 8°
@@ -242,7 +242,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250117
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ Broken clouds\n\n🌅 Sunrise 7:25 and sets 17:36\n\n⚡️ Pressure 1028 hPa\n\n💧 Humidity 20%\n\n💨 Wind speed up to 3 m/s\n🚩 from SSE ↖\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:25 日落 17:36\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 20%\n\n💨 风速 3 m/s\n🚩 来自南东南 ↖\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 9°
@@ -258,6 +258,6 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250118
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ Sky is clear\n\n🌅 Sunrise 7:25 and sets 17:37\n\n⚡️ Pressure 1027 hPa\n\n💧 Humidity 22%\n\n💨 Wind speed up to 2 m/s\n🚩 from ESE ↖\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 7:25 日落 17:37\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 22%\n\n💨 风速 2 m/s\n🚩 from ESE ↖\n\nView full weather report https://openweathermap.org/city/1784130\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
 END:VEVENT
 END:VCALENDAR
