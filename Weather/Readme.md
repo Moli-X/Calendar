@@ -32,5 +32,5 @@ AutoWeatherCalendar 项目会自动从 weather-in-calendar.com 获取指定城�
 ## 数据源：从 weather-in-calendar.com 获取天气数据。
 更新频率：通过 Cron 表达式配置，默认每小时更新一次。
 
-##　贡献
+## 贡献
 欢迎提交 PR、报告问题或提出建议。如果您有更好的功能或想法，欢迎贡献代码。
