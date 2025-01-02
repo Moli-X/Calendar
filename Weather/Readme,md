@@ -1,1 +1,44 @@
+项目简介
+AutoWeatherCalendar 是一个自动化天气数据导入和处理项目，旨在将全球各大城市的天气信息自动转换为 .ics 格式，并通过 GitHub Actions 定期更新。该项目将城市天气数据转换为日历格式，方便在日历应用程序中查看天气预报。
 
+功能
+自动获取天气数据：通过 weather-in-calendar.com 获取全球范围内城市的天气信息。
+支持多城市数据：支持中国所有主要城市的天气信息，并按城市首字母排列。
+风向翻译：自动将风向信息转换为中文描述，支持多种风向箭头。
+天气描述翻译：将天气状况（如：晴天、多云、小雨等）翻译为中文。
+天气数据格式处理：定期将获取的天气数据保存为 .ics 格式，方便导入到日历应用程序中。
+支持定时更新：通过 GitHub Actions 定时更新天气数据。
+使用方法
+1. 获取天气数据
+AutoWeatherCalendar 项目会自动从 weather-in-calendar.com 获取指定城市的天气数据，并按城市名称保存为 .ics 文件。每个城市的文件会存储在 Calendar-repo/Weather/Record/ 文件夹下。
+
+2. 数据处理与翻译
+该项目会将获取的天气数据进行以下处理：
+
+翻译天气状态（例如：Sky is clear → 晴）。
+将风向信息转换为中文描述（例如：from N → → 风向北 →）。
+更新文件内容，将文件中的 URL 更换为指向 GitHub 项目的链接。
+3. 部署和更新
+通过 GitHub Actions，项目会定时自动执行天气数据的下载、翻译与更新操作。
+
+4. 文件路径
+所有处理后的天气文件将按城市名称存储在 Calendar-repo/Weather/ 目录下。例如，上海的天气数据会存储在 Calendar-repo/Weather/ShangHai/ShangHai.ics 文件中。
+
+5. 支持城市
+当前支持中国所有主要城市的天气数据。未来可能会加入更多国际城市的天气数据。
+
+如何运行
+使用 GitHub Actions 自动运行
+将项目 Fork 到您的 GitHub 仓库。
+设置 GitHub Actions，项目会自动定期运行。
+手动触发工作流
+您可以手动触发 GitHub Actions 工作流来更新天气数据。在 GitHub 仓库中，前往 "Actions" 选项卡，选择 "AutoWeatherCalendar" 工作流，然后点击 "Run workflow" 按钮。
+
+配置说明
+在 .github/workflows/AutoCalendar.yml 文件中配置了以下内容：
+
+数据源：从 weather-in-calendar.com 获取天气数据。
+更新频率：通过 Cron 表达式配置，默认每小时更新一次。
+风向翻译：风向信息根据指定的风向词典进行翻译。
+贡献
+欢迎提交 PR、报告问题或提出建议。如果您有更好的功能或想法，欢迎贡献代码。
