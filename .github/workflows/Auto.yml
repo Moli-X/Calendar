@@ -36,6 +36,7 @@ jobs:
     - name: 修改并移动天气文件
     run: |
         mkdir -p Calendar-repo/Weather/ShangHai
+
         declare -A wind_directions=(
         ["N"]="北"
         ["S"]="南"
