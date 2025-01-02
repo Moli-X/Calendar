@@ -92,10 +92,10 @@ jobs:
           "xi'an" "xiamen" "xingtai" "xiangyang" "xuzhou"
           
           # Y
-          "yantai" "yichang" "yunnan" "yuxi" "yibin"
+          "yantai" "yichang" "yunnan" "yuxi" "yibin" "yuncheng"
           
           # Z
-          "zhuhai" "zhengzhou" "zunyi" "zhongshan" "zibo"
+          "zhuhai" "zhengzhou" "zunyi" "zhongshan" "zibo" "zhoukou"
         )
         
         # 下载每个城市的天气数据
@@ -134,21 +134,21 @@ jobs:
           # 遍历所有风向和箭头组合，动态生成替换规则
           for key in "${!wind_directions[@]}"; do
             sed -i \
-              -e "s/from $key →/来自${wind_directions[$key]} →/g" \
-              -e "s/from $key ←/来自${wind_directions[$key]} ←/g" \
-              -e "s/from $key ↑/来自${wind_directions[$key]} ↑/g" \
-              -e "s/from $key ↓/来自${wind_directions[$key]} ↓/g" \
-              -e "s/from $key ↘/来自${wind_directions[$key]} ↘/g" \
-              -e "s/from $key ↙/来自${wind_directions[$key]} ↙/g" \
-              -e "s/from $key ↖/来自${wind_directions[$key]} ↖/g" \
-              -e "s/from $key ↗/来自${wind_directions[$key]} ↗/g" \
+              -e "s/from $key →/风向${wind_directions[$key]} →/g" \
+              -e "s/from $key ←/风向${wind_directions[$key]} ←/g" \
+              -e "s/from $key ↑/风向${wind_directions[$key]} ↑/g" \
+              -e "s/from $key ↓/风向${wind_directions[$key]} ↓/g" \
+              -e "s/from $key ↘/风向${wind_directions[$key]} ↘/g" \
+              -e "s/from $key ↙/风向${wind_directions[$key]} ↙/g" \
+              -e "s/from $key ↖/风向${wind_directions[$key]} ↖/g" \
+              -e "s/from $key ↗/风向${wind_directions[$key]} ↗/g" \
               "$file_path"
           done
 
           # 针对其他天气描述的替换规则
           sed -i \
             -e 's/Overcast clouds/多云/g' \
-            -e 's/Sky is clear/天气晴朗/g' \
+            -e 's/Sky is clear/晴/g' \
             -e 's/Scattered clouds/局部多云/g' \
             -e 's/Broken clouds/部分多云/g' \
             -e 's/Few clouds/少量云/g' \
@@ -163,6 +163,11 @@ jobs:
             -e 's/Humidity/湿度/g' \
             -e 's/Wind speed up to/风速/g' \
             -e 's/Pressure/气压/g' \
+            -e 's/View full weather report/其他城市天气报告/g' \
+            -e 's/https:\/\/openweathermap.org\/city\/1796236/https:\/\/github.com\/Moli-X\/Calendar\/tree\/main\/Weather/g' \
+            -e 's/Thanks for using Weather in Your Calendar, please consider supporting/更多日历订阅请点击/g' \
+            -e 's/https:\/\/weather-in-calendar.com/https:\/\/github.com\/Moli-X\/Calendar/g' \
+            sed -i '/^URL;VALUE=URI:https:\/\/www\.vejnoe\.dk$/d' 
             "$file_path"
 
           # 将修改后的文件移动到目标目录
