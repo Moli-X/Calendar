@@ -35,73 +35,43 @@ jobs:
       run: |
         mkdir -p Calendar-repo/Weather/Record
         
-        # 中国所有城市按首字母排序（部分，示例城市）
+        # 中国所有城市，首字母大写
         cities=(
-          # A
-          "aomen" "anshun" "anquan" "anzhou"
-          
-          # B
-          "beijing" "baoding" "baotou" "bengbu" "bingzhou" "bozhou"
-          
-          # C
-          "chongqing" "changchun" "changsha" "chengdu" "chuzhou"
-          
-          # D
-          "dalian" "dongguan" "dandong" "dezhou" "dongying"
-          
-          # F
-          "fuzhou" "foshan" "fuyang" "fujian" "fushun"
-          
-          # G
-          "guangzhou" "guizhou" "guilin" "gansu" "guangxi"
-          
-          # H
-          "hangzhou" "hefei" "hebei" "hainan" "hunan"
-          
-          # J
-          "jinan" "jiujiang" "jiangxi" "jiangsu" "jilin"
-          
-          # K
-          "kunming" "kaiyuan" "kaili"
-          
-          # L
-          "lianyungang" "lijiang" "longyan" "liangping" "luzhou"
-          
-          # M
-          "meizhou" "mianyang" "macau"
-          
-          # N
-          "nanjing" "nanchang" "nanning" "nanyang" "ningbo"
-          
-          # P
-          "pingdingshan" "pingxiang" "putian" "pingyang"
-          
-          # Q
-          "qingdao" "qinghai" "qiannan" "qinzhou"
-          
-          # S
-          "shenzhen" "shanghai" "suzhou" "shijiazhuang" "shaoxing" 
-          
-          # T
-          "tianjin" "taiyuan" "taizhou" "tonghua" "taian"
-          
-          # W
-          "wuhan" "wenzhou" "weifang" "wulumuqi" "wuxi"
-          
-          # X
-          "xi'an" "xiamen" "xingtai" "xiangyang" "xuzhou"
-          
-          # Y
-          "yantai" "yichang" "yunnan" "yuxi" "yibin"
-          
-          # Z
-          "zhuhai" "zhengzhou" "zunyi" "zhongshan" "zibo" "zhoukou"
+          "Aomen" "Anshun" "Anquan" "Anzhou"
+          "BeiJing" "BaoDing" "BaoTou" "BengBu" "BingZhou" "BoZhou"
+          "ChongQing" "ChangChun" "ChangSha" "ChengDu" "ChuZhou"
+          "DaLian" "DongGuan" "DanDong" "DeZhou" "DongYing"
+          "FuZhou" "FoShan" "FuYang" "FuJian" "FuShun"
+          "GuangZhou" "GuiZhou" "GuiLin" "GanSu" "GuangXi"
+          "HangZhou" "HeFei" "HeBei" "HaiNan" "HuNan"
+          "JiNan" "JiuJiang" "JiangXi" "JiangSu" "JiLin"
+          "KunMing" "KaiYuan" "KaiLi"
+          "LianYunGang" "LiJiang" "LongYan" "LiangPing" "LuZhou"
+          "MeiZhou" "MianYang" "Macau"
+          "NanJing" "NanChang" "NanNing" "NanYang" "NingBo"
+          "PingDingShan" "PingXiang" "PuTian" "PingYang"
+          "QingDao" "QingHai" "QianNan" "QinZhou"
+          "ShenZhen" "ShangHai" "SuZhou" "ShiJiaZhuang" "ShaoXing"
+          "TianJin" "TaiYuan" "TaiZhou" "TongHua" "TaiAn"
+          "WuHan" "WenZhou" "WeiFang" "WuLuMuQi" "WuXi"
+          "XiAn" "XiaMen" "XingTai" "XiangYang" "XuZhou"
+          "YanTai" "YiChang" "YuNan" "YuXi" "YiBin"
+          "ZhuHai" "ZhengZhou" "ZunYi" "ZhongShan" "ZiBo"
         )
         
         # 下载每个城市的天气数据
         for city in "${cities[@]}"; do
-          curl -L -o "Calendar-repo/Weather/Record/${city}.ics" "https://weather-in-calendar.com/cal/weather-cal.php?city=${city}&units=metric&temperature=day"
+          # 获取城市名称的文件夹和文件名，确保首字母大写
+          folder_name="Calendar-repo/Weather/Record/$city"  # 使用首字母大写的城市名称作为文件夹
+          file_name="${city}.ics"  # 文件名也是首字母大写的城市名称加 .ics 后缀
+          
+          # 创建相应的文件夹
+          mkdir -p "$folder_name"
+          
+          # 下载天气数据文件
+          curl -L -o "$folder_name/$file_name" "https://weather-in-calendar.com/cal/weather-cal.php?city=${city}&units=metric&temperature=day"
         done
+
 
     # 修改并移动所有天气文件
     - name: 修改并移动所有天气文件
