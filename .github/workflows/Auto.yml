@@ -1,4 +1,3 @@
-
 name: AutoCalendar
 
 on:
@@ -16,7 +15,7 @@ jobs:
     env:
       TZ: 'Asia/Shanghai'
     
-    steps: 
+    steps:
     - name: 验证目标存储库
       uses: actions/checkout@v4.2.2
       with:
@@ -24,19 +23,18 @@ jobs:
         path: Calendar-repo
         token: ${{ secrets.GitHub_TOKEN }}  
     
-###### Fork
-
-    - name: 复刻原始文件
+    # 复刻天气原始文件
+    - name: 复刻天气原始文件
       run: |
         mkdir -p Calendar-repo/.github/Record
         curl -L -o Calendar-repo/.github/Record/ShangHai.ics "https://weather-in-calendar.com/cal/weather-cal.php?city=shanghai&units=metric&temperature=day"
         curl -L -o Calendar-repo/.github/Record/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics"
         curl -L -o Calendar-repo/.github/Record/HolidayCal.ics "https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics"
 
+    # 修改并移动天气文件
     - name: 修改并移动天气文件
-    run: |
+      run: |
         mkdir -p Calendar-repo/Weather/ShangHai
-
         declare -A wind_directions=(
         ["N"]="北"
         ["S"]="南"
@@ -88,20 +86,11 @@ jobs:
         -e 's/Wind speed up to/风速/g' \
         -e 's/Pressure/气压/g' \
         "$file_path"
-    
+
         # 将修改后的文件移动到目标目录
         mv Calendar-repo/.github/Record/ShangHai.ics Calendar-repo/Weather/ShangHai/ShangHai.ics
-    
-    - name: 复刻假期文件
-      run: |
-        mkdir -p Calendar-repo/Holiday
-        # 定义插件及其原链接
-        declare -A Icss=(
-            [HolidayCal]="https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics"
-            [ChinaHolidays]="https://calendars.icloud.com/holidays/cn_zh.ics"
-        )
 
-###### Commit
+    # 添加Commits
     - name: 添加Commits
       run: |
         cd Calendar-repo
@@ -115,6 +104,7 @@ jobs:
           echo "No changes to commit."
         fi
 
+    # 清理Workflow
     - name: 清理Workflow
       uses: Mattraks/delete-workflow-runs@main
       with:
