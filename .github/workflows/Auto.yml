@@ -34,7 +34,7 @@ jobs:
     - name: 复刻天气原始文件
       run: |
         mkdir -p Calendar-repo/Weather/Record
-          "AoMen" "AnShun" "AnQuan" "AnZhou"
+          "Aomen" "Anshun" "Anquan" "Anzhou"
           "BeiJing" "BaoDing" "BaoTou" "BengBu" "BingZhou" "BoZhou"
           "ChongQing" "ChangChun" "ChangSha" "ChengDu" "ChuZhou"
           "DaLian" "DongGuan" "DanDong" "DeZhou" "DongYing"
