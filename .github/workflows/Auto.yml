@@ -34,10 +34,7 @@ jobs:
     - name: 复刻天气原始文件
       run: |
         mkdir -p Calendar-repo/Weather/Record
-        
-        # 中国所有城市，首字母大写
-        cities=(
-          "Aomen" "Anshun" "Anquan" "Anzhou"
+          "AoMen" "AnShun" "AnQuan" "AnZhou"
           "BeiJing" "BaoDing" "BaoTou" "BengBu" "BingZhou" "BoZhou"
           "ChongQing" "ChangChun" "ChangSha" "ChengDu" "ChuZhou"
           "DaLian" "DongGuan" "DanDong" "DeZhou" "DongYing"
@@ -56,22 +53,13 @@ jobs:
           "WuHan" "WenZhou" "WeiFang" "WuLuMuQi" "WuXi"
           "XiAn" "XiaMen" "XingTai" "XiangYang" "XuZhou"
           "YanTai" "YiChang" "YuNan" "YuXi" "YiBin"
-          "ZhuHai" "ZhengZhou" "ZunYi" "ZhongShan" "ZiBo"
+          "ZhuHai" "ZhengZhou" "ZunYi" "ZhongShan" "ZiBo" "ZhouKou"
         )
         
         # 下载每个城市的天气数据
         for city in "${cities[@]}"; do
-          # 获取城市名称的文件夹和文件名，确保首字母大写
-          folder_name="Calendar-repo/Weather/Record/$city"  # 使用首字母大写的城市名称作为文件夹
-          file_name="${city}.ics"  # 文件名也是首字母大写的城市名称加 .ics 后缀
-          
-          # 创建相应的文件夹
-          mkdir -p "$folder_name"
-          
-          # 下载天气数据文件
-          curl -L -o "$folder_name/$file_name" "https://weather-in-calendar.com/cal/weather-cal.php?city=${city}&units=metric&temperature=day"
+          curl -L -o "Calendar-repo/Weather/Record/${city}.ics" "https://weather-in-calendar.com/cal/weather-cal.php?city=${city}&units=metric&temperature=day"
         done
-
 
     # 修改并移动所有天气文件
     - name: 修改并移动所有天气文件
