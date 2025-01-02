@@ -1,5 +1,5 @@
 # 项目简介
-AutoWeatherCalendar 是一个自动化天气数据导入和处理项目，旨在将全球各大城市的天气信息自动转换为 .ics 格式，并通过 GitHub Actions 定期更新。该项目将城市天气数据转换为日历格式，方便在日历应用程序中查看天气预报。
+WeatherCalendar 是一个自动化天气数据导入和处理项目，旨在将全球各大城市的天气信息自动转换为 .ics 格式，并通过 GitHub Actions 定期更新。该项目将城市天气数据转换为日历格式，方便在日历应用程序中查看天气预报。
 
 ## 功能
 自动获取天气数据：通过 weather-in-calendar.com 获取全球范围内城市的天气信息。
@@ -25,7 +25,7 @@ AutoWeatherCalendar 项目会自动从 weather-in-calendar.com 获取指定城�
 所有处理后的天气文件将按城市名称存储在 Weather目录下。例如，上海的天气数据会存储在 Weather/ShangHai/ShangHai.ics 文件中。
 
 ### 5. 支持城市
-当前支持中国部分主要城市的天气数据。未来可能会加入更多国际城市的天气数据。如需作者新增请联系：
+当前支持中国部分主要城市的天气数据。未来可能会加入更多国际城市的天气数据。如需作者新增请联系：https://t.me/GodMoliibot
 
 
 
