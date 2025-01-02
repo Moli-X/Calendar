@@ -131,7 +131,8 @@ jobs:
 
           mkdir -p "Calendar-repo/Weather/$city_name"  # 创建城市对应的文件夹
           # 删除指定的 URL 行
-          sed -i '/^URL;VALUE=URI:https:\/\/www\.vejnoe\.dk$/d' "$file_path"
+          sed -i '/URL;VALUE=URI:https:\/\/www\.vejnoe\.dk\s*/d' "$file_path"
+
           # 遍历所有风向和箭头组合，动态生成替换规则
           for key in "${!wind_directions[@]}"; do
             sed -i \
