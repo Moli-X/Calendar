@@ -1,1 +1,100 @@
+# 更新日期：2025-01-02
+
+name: Fork & Edit
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 * * * *"
+
+permissions:
+  actions: write  
+  contents: write  
+
+
+
+jobs:
+  ForkRepository:
+    runs-on: ubuntu-latest
+    env:
+      TZ: 'Asia/Shanghai'
+    
+    steps: 
+    - name: 验证目标存储库
+      uses: actions/checkout@v4.2.2
+      with:
+        repository: Moli-X/Calendar
+        path: Calendar-repo
+        token: ${{ secrets.PAT_TOKEN }}  
+    
+###### Fork
+
+    - name: 复刻原始文件
+      run: |
+        mkdir -p Calendar/.github/Record
+        curl -L -o Calendar-repo/.github/Record/ShangHai.ics "https://weather-in-calendar.com/cal/weather-cal.php?city=shanghai&units=metric&temperature=day"
+        curl -L -o Calendar-repo/.github/Record/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics"
+        curl -L -o Calendar-repo/.github/Record/HolidayCal.ics "https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics"
+
+    - name: 修改原始文件
+      run: |
+        mkdir -p Calendar-repo/Holiday
+        # 定义插件及其原链接
+        declare -A Icss=(
+            [HolidayCal]="https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics"
+            [ChinaHolidays]="https://calendars.icloud.com/holidays/cn_zh.ics"
+        )
+        
+
+    # - name: 编辑ICS文件
+      # run: |
+        # mkdir -p Calendar-repo/Holiday
+        # cd Calendar-repo/Holiday  # 进入 Plugin 目录
+        # for file in *.ics; do
+          # if [ "$file" ] ; then
+
+            # # 修改以 .js 结尾的脚本链接，删除一个文件夹部分
+            # sed -i 's|https://kelee\.one/Resource/Script/.*/\([^/]*\.js\)|https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/Script/\1|' "$file"
+
+            # # 修改 #!homepage 行（处理等号前可能有空格的情况）
+            # sed -i 's|#!homepage\s*=\s*.*|#!homepage=https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/'"$file"'|g' "$file"
+
+            # # 直接修改 #!openUrl 或 #!openurl 为 #App链接
+            # sed -i 's|^#!open[uU]rl\s*=\s*\(.*\)|#App链接=\1|' "$file"
+
+            # # 判断是否有 []，如果有就替换最后一个 []，否则直接添加
+            # sed -i '/^#!author/{
+            # # 如果没有 []，在末尾添加新的链接
+            # /^[^[]*$/ s|\(#!author\s*=\s*[^,]*\)$|\1[https://github.com/Moli-X/Tool/blob/X/Loon/Readme.md]|
+            # # 如果有 []，替换最后一个 [] 内容
+            # s|\(#!author\s*=\s*.*\)\[\([^]]*\)\]|\1[https://github.com/Moli-X/Tool/blob/X/Loon/Readme.md]|
+            # # 如果有多个作者，只替换最后一个作者的 [] 或者加到末尾
+            # s|\(#!author\s*=\s*.*\),\([^,]*\)\[\([^]]*\)\]|\1,\2[https://github.com/Moli-X/Tool/blob/X/Loon/Readme.md]|
+            # }' "$file"
+
+          # fi
+        # done
+
+       
+###### Commit
+    - name: 添加Commits
+      run: |
+        cd Tool-repo
+        if [[ -n $(git status -s) ]]; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
+          git push origin HEAD
+        else
+          echo "No changes to commit."
+        fi
+
+
+    - name: 清理Workflow
+      uses: Mattraks/delete-workflow-runs@main
+      with:
+        token: ${{ secrets.PAT_TOKEN }} 
+        retain_days: 0
+        keep_minimum_runs: 2
 
