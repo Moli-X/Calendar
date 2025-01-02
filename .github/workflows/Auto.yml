@@ -32,6 +32,19 @@ jobs:
         curl -L -o Calendar-repo/.github/Record/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics"
         curl -L -o Calendar-repo/.github/Record/HolidayCal.ics "https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics"
 
+    - name: 修改并移动天气文件
+      run: |
+        mkdir -p Calendar-repo/Weather/ShangHai
+        sed -i \
+          -e 's/Overcast clouds/多云/g' \
+          -e 's/Sky is clear/天气晴朗/g' \
+          -e 's/Sunrise/日出/g' \
+          -e 's/and sets/日落/g' \
+          -e 's/Humidity/湿度/g' \
+          -e 's/Wind speed up to/风速/g' \
+          Calendar-repo/.github/Record/ShangHai.ics
+        mv Calendar-repo/.github/Record/ShangHai.ics Calendar-repo/Weather/ShangHai/ShangHai.ics
+
     - name: 复刻假期文件
       run: |
         mkdir -p Calendar-repo/Holiday
@@ -40,11 +53,6 @@ jobs:
             [HolidayCal]="https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics"
             [ChinaHolidays]="https://calendars.icloud.com/holidays/cn_zh.ics"
         )
-
-    - name: 复刻天气原始文件
-      run: |
-        mkdir -p Calendar-repo/Weather/ShangHai
-        mv Calendar-repo/.github/Record/ShangHai.ics Calendar-repo/Weather/ShangHai/ShangHai.ics
 
 ###### Commit
     - name: 添加Commits
