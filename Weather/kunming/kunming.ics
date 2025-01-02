@@ -5,20 +5,19 @@ X-WR-CALNAME:Weather for Kunming
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 15°
+SUMMARY;LANGUAGE=en:🌦️ 16°
  
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250102@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250102
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250103
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:54 日落 18:31\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 48%\n\n💨 风速 3 m/s\n🚩 风向东 ←\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:54 日落 18:31\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 46%\n\n💨 风速 3 m/s\n🚩 风向东 ←\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 13°
@@ -26,12 +25,11 @@ SUMMARY;LANGUAGE=en:🌦️ 13°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250103@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250103
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250104
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
 DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:54 日落 18:32\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 63%\n\n💨 风速 4 m/s\n🚩 from WSW ↗\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
@@ -42,12 +40,11 @@ SUMMARY;LANGUAGE=en:🌤️ 16°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250104@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250104
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250105
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
 DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 7:54 日落 18:32\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 51%\n\n💨 风速 4 m/s\n🚩 风向西南 ↗\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
@@ -58,12 +55,11 @@ SUMMARY;LANGUAGE=en:☁️ 11°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250105@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250105
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250106
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
 DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:55 日落 18:33\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 62%\n\n💨 风速 6 m/s\n🚩 from ENE ↙\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
@@ -74,12 +70,11 @@ SUMMARY;LANGUAGE=en:☁️ 16°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250106@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250106
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250107
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
 DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:55 日落 18:34\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 48%\n\n💨 风速 4 m/s\n🚩 风向西南 ↗\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
@@ -90,12 +85,11 @@ SUMMARY;LANGUAGE=en:☀️ 18°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250107@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250107
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250108
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
 DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:55 日落 18:34\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 40%\n\n💨 风速 5 m/s\n🚩 from WSW ↗\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
@@ -106,12 +100,11 @@ SUMMARY;LANGUAGE=en:🌦️ 16°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250108@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250108
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250109
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
 DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:55 日落 18:35\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 42%\n\n💨 风速 6 m/s\n🚩 风向西南 ↗\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
@@ -122,12 +115,11 @@ SUMMARY;LANGUAGE=en:🌦️ 17°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250109@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250109
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250110
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
 DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:55 日落 18:36\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 40%\n\n💨 风速 6 m/s\n🚩 风向南西南 ↗\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
@@ -138,12 +130,11 @@ SUMMARY;LANGUAGE=en:🌦️ 8°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250110@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250110
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250111
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
 DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:55 日落 18:36\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 76%\n\n💨 风速 2 m/s\n🚩 from ESE ↖\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
@@ -154,12 +145,11 @@ SUMMARY;LANGUAGE=en:🌦️ 11°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250111@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250111
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250112
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
 DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:55 日落 18:37\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 64%\n\n💨 风速 2 m/s\n🚩 from ESE ←\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
@@ -170,12 +160,11 @@ SUMMARY;LANGUAGE=en:⛈️ 5°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250112@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250112
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250113
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
 DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 7:55 日落 18:38\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 66%\n\n💨 风速 4 m/s\n🚩 from ENE ←\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
@@ -186,12 +175,11 @@ SUMMARY;LANGUAGE=en:☁️ 10°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250113@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250113
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250114
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
 DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:55 日落 18:39\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 57%\n\n💨 风速 3 m/s\n🚩 风向南西南 ↗\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
@@ -202,12 +190,11 @@ SUMMARY;LANGUAGE=en:☁️ 8°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250114@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250114
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250115
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
 DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:55 日落 18:39\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 68%\n\n💨 风速 4 m/s\n🚩 from ENE ←\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
@@ -218,12 +205,11 @@ SUMMARY;LANGUAGE=en:☁️ 11°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250115@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250115
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250116
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
 DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:55 日落 18:40\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 55%\n\n💨 风速 4 m/s\n🚩 风向西 →\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
@@ -234,12 +220,11 @@ SUMMARY;LANGUAGE=en:🌤️ 16°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250116@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250116
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250117
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
 DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 7:55 日落 18:41\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 38%\n\n💨 风速 5 m/s\n🚩 风向西 →\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
@@ -250,12 +235,11 @@ SUMMARY;LANGUAGE=en:☀️ 16°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250117@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T090038
+DTSTAMP;VALUE=DATE:20250102T090852
 DTSTART;VALUE=DATE:20250117
 LOCATION:Kunming
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250118
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
 DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:55 日落 18:42\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 40%\n\n💨 风速 4 m/s\n🚩 from WSW ↗\n\n其他城市天气报告 https://openweathermap.org/city/1804651\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
