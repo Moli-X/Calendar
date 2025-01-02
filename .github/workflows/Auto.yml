@@ -165,7 +165,7 @@ jobs:
             -e 's/Humidity/湿度/g' \
             -e 's/Wind speed up to/风速/g' \
             -e 's/Pressure/气压/g' \
-            -e 's/View full weather report/其他城市天气报告/g' \
+            -e 's/View full weather report/其他城市天气订阅/g' \
             -e 's/https:\/\/openweathermap.org\/city\/1796236/https:\/\/github.com\/Moli-X\/Calendar\/tree\/main\/Weather/g' \
             -e 's/Thanks for using Weather in Your Calendar, please consider supporting/更多日历订阅请点击/g' \
             -e 's/https:\/\/weather-in-calendar.com/https:\/\/github.com\/Moli-X\/Calendar/g' \
