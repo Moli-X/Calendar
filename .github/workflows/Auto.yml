@@ -1,6 +1,6 @@
 # 更新日期：2025-01-02
 
-name: Fork & Edit
+name: AutoCalendar
 
 on:
   workflow_dispatch:
@@ -79,7 +79,7 @@ jobs:
 ###### Commit
     - name: 添加Commits
       run: |
-        cd Tool-repo
+        cd Calendar-repo
         if [[ -n $(git status -s) ]]; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
