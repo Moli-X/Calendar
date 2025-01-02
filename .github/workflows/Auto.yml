@@ -34,8 +34,8 @@ jobs:
     - name: 复刻天气原始文件
       run: |
         mkdir -p Calendar-repo/Weather/Record
-        curl -L -o Calendar-repo/Weather/Record/WeatherShangHai.ics "https://weather-in-calendar.com/cal/weather-cal.php?city=shanghai&units=metric&temperature=day"
-        curl -L -o Calendar-repo/Weather/Record/WeatherZhouKou.ics "https://weather-in-calendar.com/cal/weather-cal.php?city=zhoukou&units=metric&temperature=day"
+        curl -L -o Calendar-repo/Weather/Record/ShangHai.ics "https://weather-in-calendar.com/cal/weather-cal.php?city=shanghai&units=metric&temperature=day"
+        curl -L -o Calendar-repo/Weather/Record/ZhouKou.ics "https://weather-in-calendar.com/cal/weather-cal.php?city=zhoukou&units=metric&temperature=day"
 
     # 修改并移动所有天气文件
     - name: 修改并移动所有天气文件
@@ -58,7 +58,7 @@ jobs:
         )
         
         # 遍历 Record 文件夹中的所有 .ics 文件
-        for file_path in Calendar-repo/.github/Record/*.ics; do
+        for file_path in Calendar-repo/Weather/Record/*.ics; do
           file_name=$(basename "$file_path")  # 提取文件名
           city_name="${file_name%.ics}"  # 去掉后缀作为城市名
 
