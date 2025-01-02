@@ -10,7 +10,7 @@ SUMMARY;LANGUAGE=en:🌦️ 12°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250102@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250102
 LOCATION:Luzhou
  
@@ -18,7 +18,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250103
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:51 日落 18:12\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 75%\n\n💨 风速 2 m/s\n🚩 来自南东南 ↖\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:51 日落 18:12\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 75%\n\n💨 风速 2 m/s\n🚩 风向南东南 ↖\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 13°
@@ -26,7 +26,7 @@ SUMMARY;LANGUAGE=en:☁️ 13°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250103@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250103
 LOCATION:Luzhou
  
@@ -34,7 +34,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250104
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:51 日落 18:12\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 66%\n\n💨 风速 2 m/s\n🚩 来自东北 ↙\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:51 日落 18:12\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 66%\n\n💨 风速 2 m/s\n🚩 风向东北 ↙\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 12°
@@ -42,7 +42,7 @@ SUMMARY;LANGUAGE=en:🌦️ 12°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250104@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250104
 LOCATION:Luzhou
  
@@ -50,7 +50,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250105
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:52 日落 18:13\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 86%\n\n💨 风速 3 m/s\n🚩 来自北 ↓\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:52 日落 18:13\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 86%\n\n💨 风速 3 m/s\n🚩 风向北 ↓\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 15°
@@ -58,7 +58,7 @@ SUMMARY;LANGUAGE=en:☀️ 15°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250105@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250105
 LOCATION:Luzhou
  
@@ -66,7 +66,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250106
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 7:52 日落 18:14\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 56%\n\n💨 风速 2 m/s\n🚩 来自东北 ↙\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:52 日落 18:14\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 56%\n\n💨 风速 2 m/s\n🚩 风向东北 ↙\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 11°
@@ -74,7 +74,7 @@ SUMMARY;LANGUAGE=en:☁️ 11°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250106@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250106
 LOCATION:Luzhou
  
@@ -82,7 +82,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250107
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:52 日落 18:15\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 76%\n\n💨 风速 0 m/s\n🚩 from WNW ↘\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:52 日落 18:15\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 76%\n\n💨 风速 0 m/s\n🚩 from WNW ↘\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 9°
@@ -90,7 +90,7 @@ SUMMARY;LANGUAGE=en:🌦️ 9°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250107@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250107
 LOCATION:Luzhou
  
@@ -98,7 +98,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250108
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:52 日落 18:15\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 92%\n\n💨 风速 2 m/s\n🚩 from WNW ↘\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:52 日落 18:15\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 92%\n\n💨 风速 2 m/s\n🚩 from WNW ↘\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 7°
@@ -106,7 +106,7 @@ SUMMARY;LANGUAGE=en:🌦️ 7°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250108@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250108
 LOCATION:Luzhou
  
@@ -114,7 +114,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250109
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:52 日落 18:16\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 89%\n\n💨 风速 3 m/s\n🚩 来自北西北 ↘\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:52 日落 18:16\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 89%\n\n💨 风速 3 m/s\n🚩 风向北西北 ↘\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 6°
@@ -122,7 +122,7 @@ SUMMARY;LANGUAGE=en:🌦️ 6°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250109@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250109
 LOCATION:Luzhou
  
@@ -130,7 +130,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250110
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:52 日落 18:17\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 91%\n\n💨 风速 2 m/s\n🚩 来自西南 ↗\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:52 日落 18:17\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 91%\n\n💨 风速 2 m/s\n🚩 风向西南 ↗\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 7°
@@ -138,7 +138,7 @@ SUMMARY;LANGUAGE=en:🌦️ 7°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250110@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250110
 LOCATION:Luzhou
  
@@ -146,7 +146,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250111
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:52 日落 18:18\n\n⚡️ 气压 1032 hPa\n\n💧 湿度 80%\n\n💨 风速 2 m/s\n🚩 from WSW →\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:52 日落 18:18\n\n⚡️ 气压 1032 hPa\n\n💧 湿度 80%\n\n💨 风速 2 m/s\n🚩 from WSW →\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 11°
@@ -154,7 +154,7 @@ SUMMARY;LANGUAGE=en:☁️ 11°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250111@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250111
 LOCATION:Luzhou
  
@@ -162,7 +162,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250112
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:52 日落 18:19\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 60%\n\n💨 风速 1 m/s\n🚩 来自北 ↓\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:52 日落 18:19\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 60%\n\n💨 风速 1 m/s\n🚩 风向北 ↓\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 13°
@@ -170,7 +170,7 @@ SUMMARY;LANGUAGE=en:🌦️ 13°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250112@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250112
 LOCATION:Luzhou
  
@@ -178,7 +178,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250113
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:52 日落 18:19\n\n⚡️ 气压 1032 hPa\n\n💧 湿度 51%\n\n💨 风速 1 m/s\n🚩 from WNW →\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:52 日落 18:19\n\n⚡️ 气压 1032 hPa\n\n💧 湿度 51%\n\n💨 风速 1 m/s\n🚩 from WNW →\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 13°
@@ -186,7 +186,7 @@ SUMMARY;LANGUAGE=en:☁️ 13°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250113@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250113
 LOCATION:Luzhou
  
@@ -194,7 +194,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250114
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:52 日落 18:20\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 49%\n\n💨 风速 2 m/s\n🚩 from ENE ↙\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:52 日落 18:20\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 49%\n\n💨 风速 2 m/s\n🚩 from ENE ↙\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 14°
@@ -202,7 +202,7 @@ SUMMARY;LANGUAGE=en:☁️ 14°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250114@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250114
 LOCATION:Luzhou
  
@@ -210,7 +210,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250115
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:52 日落 18:21\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 49%\n\n💨 风速 1 m/s\n🚩 from ESE ↖\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:52 日落 18:21\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 49%\n\n💨 风速 1 m/s\n🚩 from ESE ↖\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 14°
@@ -218,7 +218,7 @@ SUMMARY;LANGUAGE=en:☀️ 14°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250115@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250115
 LOCATION:Luzhou
  
@@ -226,7 +226,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250116
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 7:52 日落 18:22\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 50%\n\n💨 风速 1 m/s\n🚩 来自东北 ↙\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:52 日落 18:22\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 50%\n\n💨 风速 1 m/s\n🚩 风向东北 ↙\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 13°
@@ -234,7 +234,7 @@ SUMMARY;LANGUAGE=en:☁️ 13°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250116@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250116
 LOCATION:Luzhou
  
@@ -242,7 +242,7 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250117
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:52 日落 18:23\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 52%\n\n💨 风速 1 m/s\n🚩 来自南西南 ↑\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:52 日落 18:23\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 52%\n\n💨 风速 1 m/s\n🚩 风向南西南 ↑\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 12°
@@ -250,7 +250,7 @@ SUMMARY;LANGUAGE=en:☁️ 12°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250117@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250102T084347
+DTSTAMP;VALUE=DATE:20250102T090041
 DTSTART;VALUE=DATE:20250117
 LOCATION:Luzhou
  
@@ -258,6 +258,6 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 URL;VALUE=URI:https://www.vejnoe.dk 
 DTEND;VALUE=DATE:20250118
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:52 日落 18:23\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 70%\n\n💨 风速 1 m/s\n🚩 来自南东南 ↑\n\nView full weather report https://openweathermap.org/city/1801640\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:52 日落 18:23\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 70%\n\n💨 风速 1 m/s\n🚩 风向南东南 ↑\n\n其他城市天气报告 https://openweathermap.org/city/1801640\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
