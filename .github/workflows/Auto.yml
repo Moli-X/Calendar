@@ -1,3 +1,4 @@
+
 name: AutoCalendar
 
 on:
@@ -33,18 +34,63 @@ jobs:
         curl -L -o Calendar-repo/.github/Record/HolidayCal.ics "https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics"
 
     - name: 修改并移动天气文件
-      run: |
+    run: |
         mkdir -p Calendar-repo/Weather/ShangHai
+        declare -A wind_directions=(
+        ["N"]="北"
+        ["S"]="南"
+        ["E"]="东"
+        ["W"]="西"
+        ["NE"]="东北"
+        ["NW"]="西北"
+        ["SE"]="东南"
+        ["SW"]="西南"
+        ["NNW"]="北西北"
+        ["NNE"]="北东北"
+        ["SSW"]="南西南"
+        ["SSE"]="南东南"
+        )
+        
+        # 定义需要处理的文件路径
+        file_path="Calendar-repo/.github/Record/ShangHai.ics"
+        
+        # 遍历所有风向和箭头组合，动态生成替换规则
+        for key in "${!wind_directions[@]}"; do
         sed -i \
-          -e 's/Overcast clouds/多云/g' \
-          -e 's/Sky is clear/天气晴朗/g' \
-          -e 's/Sunrise/日出/g' \
-          -e 's/and sets/日落/g' \
-          -e 's/Humidity/湿度/g' \
-          -e 's/Wind speed up to/风速/g' \
-          Calendar-repo/.github/Record/ShangHai.ics
+            -e "s/from $key →/来自${wind_directions[$key]} →/g" \
+            -e "s/from $key ←/来自${wind_directions[$key]} ←/g" \
+            -e "s/from $key ↑/来自${wind_directions[$key]} ↑/g" \
+            -e "s/from $key ↓/来自${wind_directions[$key]} ↓/g" \
+            -e "s/from $key ↘/来自${wind_directions[$key]} ↘/g" \
+            -e "s/from $key ↙/来自${wind_directions[$key]} ↙/g" \
+            -e "s/from $key ↖/来自${wind_directions[$key]} ↖/g" \
+            -e "s/from $key ↗/来自${wind_directions[$key]} ↗/g" \
+            "$file_path"
+        done
+        
+        # 针对其他天气描述的替换规则
+        sed -i \
+        -e 's/Overcast clouds/多云/g' \
+        -e 's/Sky is clear/天气晴朗/g' \
+        -e 's/Scattered clouds/局部多云/g' \
+        -e 's/Broken clouds/部分多云/g' \
+        -e 's/Few clouds/少量云/g' \
+        -e 's/Light rain/小雨/g' \
+        -e 's/Moderate rain/中雨/g' \
+        -e 's/Heavy rain/大雨/g' \
+        -e 's/Thunderstorm/雷暴/g' \
+        -e 's/Snow/下雪/g' \
+        -e 's/Light snow/小雪/g' \
+        -e 's/Sunrise/日出/g' \
+        -e 's/and sets/日落/g' \
+        -e 's/Humidity/湿度/g' \
+        -e 's/Wind speed up to/风速/g' \
+        -e 's/Pressure/气压/g' \
+        "$file_path"
+    
+        # 将修改后的文件移动到目标目录
         mv Calendar-repo/.github/Record/ShangHai.ics Calendar-repo/Weather/ShangHai/ShangHai.ics
-
+    
     - name: 复刻假期文件
       run: |
         mkdir -p Calendar-repo/Holiday
