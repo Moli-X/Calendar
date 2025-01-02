@@ -130,7 +130,8 @@ jobs:
           city_name="${file_name%.ics}"  # 去掉后缀作为城市名
 
           mkdir -p "Calendar-repo/Weather/$city_name"  # 创建城市对应的文件夹
-
+          # 删除指定的 URL 行
+          sed -i '/^URL;VALUE=URI:https:\/\/www\.vejnoe\.dk$/d' "$file_path"
           # 遍历所有风向和箭头组合，动态生成替换规则
           for key in "${!wind_directions[@]}"; do
             sed -i \
@@ -167,7 +168,6 @@ jobs:
             -e 's/https:\/\/openweathermap.org\/city\/1796236/https:\/\/github.com\/Moli-X\/Calendar\/tree\/main\/Weather/g' \
             -e 's/Thanks for using Weather in Your Calendar, please consider supporting/更多日历订阅请点击/g' \
             -e 's/https:\/\/weather-in-calendar.com/https:\/\/github.com\/Moli-X\/Calendar/g' \
-            sed -i '/^URL;VALUE=URI:https:\/\/www\.vejnoe\.dk$/d' 
             "$file_path"
 
           # 将修改后的文件移动到目标目录
