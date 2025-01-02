@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//vejnoe.dk//v0.2//EN
+X-WR-CALNAME:Weather for Anquan
+X-APPLE-CALENDAR-COLOR:#ffffff
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 10°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250102@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250102
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250103
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 8:05 日落 18:23\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 68%\n\n💨 风速 1 m/s\n🚩 来自南 ↑\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 15°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250103@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250103
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250104
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 8:05 日落 18:24\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 55%\n\n💨 风速 2 m/s\n🚩 from ENE ↙\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 13°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250104@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250104
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250105
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 8:05 日落 18:25\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 69%\n\n💨 风速 3 m/s\n🚩 from ENE ←\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌤️ 15°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250105@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250105
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250106
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 8:05 日落 18:26\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 55%\n\n💨 风速 1 m/s\n🚩 来自东北 ↙\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 8°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250106@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250106
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250107
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 8:06 日落 18:26\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 93%\n\n💨 风速 1 m/s\n🚩 from ENE ←\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:⛈️ 8°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250107@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250107
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250108
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 8:06 日落 18:27\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 87%\n\n💨 风速 1 m/s\n🚩 from ENE ↙\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:⛈️ 6°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250108@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250108
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250109
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 8:06 日落 18:28\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 86%\n\n💨 风速 1 m/s\n🚩 来自东北 ↙\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:⛈️ 5°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250109@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250109
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250110
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 8:06 日落 18:29\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 71%\n\n💨 风速 1 m/s\n🚩 来自西 →\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:⛈️ 5°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250110@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250110
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250111
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:⛈️ 小雪\n\n🌅 日出 8:06 日落 18:29\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 68%\n\n💨 风速 1 m/s\n🚩 来自西 →\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:⛈️ 7°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250111@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250111
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250112
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 8:06 日落 18:30\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 69%\n\n💨 风速 1 m/s\n🚩 来自西 →\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:⛈️ 6°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250112@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250112
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250113
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 8:06 日落 18:31\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 70%\n\n💨 风速 1 m/s\n🚩 from WSW →\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:⛈️ 9°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250113@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250113
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250114
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:⛈️ 小雪\n\n🌅 日出 8:06 日落 18:32\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 66%\n\n💨 风速 1 m/s\n🚩 from WSW →\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:⛈️ 8°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250114@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250114
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250115
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 8:06 日落 18:33\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 69%\n\n💨 风速 1 m/s\n🚩 from WSW →\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:⛈️ 9°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250115@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250115
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250116
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:⛈️ 小雪\n\n🌅 日出 8:06 日落 18:34\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 71%\n\n💨 风速 1 m/s\n🚩 来自西 →\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 11°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250116@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250116
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250117
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 8:05 日落 18:34\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 73%\n\n💨 风速 1 m/s\n🚩 来自西 →\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 8°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250117@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082743
+DTSTART;VALUE=DATE:20250117
+LOCATION:Anquan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250118
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 8:05 日落 18:35\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 86%\n\n💨 风速 0 m/s\n🚩 来自东北 ↙\n\nView full weather report https://openweathermap.org/city/1788730\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+END:VCALENDAR

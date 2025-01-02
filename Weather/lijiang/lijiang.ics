@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//vejnoe.dk//v0.2//EN
+X-WR-CALNAME:Weather for Lijiang
+X-APPLE-CALENDAR-COLOR:#ffffff
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 13°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250102@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250102
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250103
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 8:08 日落 18:37\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 26%\n\n💨 风速 2 m/s\n🚩 来自南西南 ↗\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 13°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250103@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250103
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250104
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 8:08 日落 18:38\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 37%\n\n💨 风速 2 m/s\n🚩 来自西南 ↗\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 14°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250104@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250104
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250105
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 8:08 日落 18:38\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 30%\n\n💨 风速 2 m/s\n🚩 from WSW ↗\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌤️ 13°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250105@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250105
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250106
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 8:08 日落 18:39\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 48%\n\n💨 风速 3 m/s\n🚩 来自南西南 ↑\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 14°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250106@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250106
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250107
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 8:09 日落 18:40\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 31%\n\n💨 风速 3 m/s\n🚩 来自西南 ↗\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 14°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250107@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250107
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250108
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 8:09 日落 18:41\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 32%\n\n💨 风速 5 m/s\n🚩 from WSW ↗\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 11°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250108@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250108
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250109
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 8:09 日落 18:41\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 40%\n\n💨 风速 4 m/s\n🚩 来自西南 ↗\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 12°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250109@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250109
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250110
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 8:09 日落 18:42\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 28%\n\n💨 风速 5 m/s\n🚩 from WSW ↗\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 12°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250110@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250110
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250111
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 8:09 日落 18:43\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 28%\n\n💨 风速 3 m/s\n🚩 来自西南 ↗\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 13°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250111@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250111
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250112
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 8:09 日落 18:44\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 26%\n\n💨 风速 3 m/s\n🚩 来自西南 ↗\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 12°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250112@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250112
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250113
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 8:09 日落 18:44\n\n⚡️ 气压 1015 hPa\n\n💧 湿度 34%\n\n💨 风速 3 m/s\n🚩 来自南西南 ↑\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 12°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250113@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250113
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250114
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 8:09 日落 18:45\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 26%\n\n💨 风速 3 m/s\n🚩 来自南西南 ↗\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌤️ 11°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250114@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250114
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250115
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 8:09 日落 18:46\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 32%\n\n💨 风速 3 m/s\n🚩 来自东南 ↖\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 12°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250115@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250115
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250116
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 8:09 日落 18:47\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 24%\n\n💨 风速 3 m/s\n🚩 来自西南 ↗\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 13°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250116@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250116
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250117
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 8:09 日落 18:47\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 23%\n\n💨 风速 2 m/s\n🚩 from WSW →\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 14°
+ 
+X-FUNAMBOL-ALLDAY:1 
+CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
+UID:20250117@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250102T082810
+DTSTART;VALUE=DATE:20250117
+LOCATION:Lijiang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+URL;VALUE=URI:https://www.vejnoe.dk 
+DTEND;VALUE=DATE:20250118
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 天气晴朗\n\n🌅 日出 8:09 日落 18:48\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 28%\n\n💨 风速 3 m/s\n🚩 来自西南 ↗\n\nView full weather report https://openweathermap.org/city/1813253\n\n🙌 Thanks for using Weather in Your Calendar, please consider supporting https://weather-in-calendar.com
+END:VEVENT
+END:VCALENDAR
