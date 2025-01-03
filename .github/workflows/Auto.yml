@@ -158,18 +158,18 @@ jobs:
 
           # 风向翻译
           sed -i \
-            -e 's/from N/北/g' \
-            -e 's/from S/南/g' \
-            -e 's/from E/东/g' \
-            -e 's/from W/西/g' \
-            -e 's/from NE/东北/g' \
-            -e 's/from NW/西北/g' \
-            -e 's/from SE/东南/g' \
-            -e 's/from SW/西南/g' \
-            -e 's/from NNW/北偏西/g' \
-            -e 's/from NNE/北偏东/g' \
-            -e 's/from SSW/南偏西/g' \
-            -e 's/from SSE/南偏东/g' \
+            -e 's/from N\b/北/g' \
+            -e 's/from S\b/南/g' \
+            -e 's/from E\b/东/g' \
+            -e 's/from W\b/西/g' \
+            -e 's/from NE\b/东北/g' \
+            -e 's/from NW\b/西北/g' \
+            -e 's/from SE\b/东南/g' \
+            -e 's/from SW\b/西南/g' \
+            -e 's/from NNW\b/北偏西/g' \
+            -e 's/from NNE\b/北偏东/g' \
+            -e 's/from SSW\b/南偏西/g' \
+            -e 's/from SSE\b/南偏东/g' \
             "$file_path"
 
 
