@@ -13,7 +13,7 @@ permissions:
   contents: write  
 
 jobs:
-  ForkRepository:
+  AutoCalendar:
     runs-on: ubuntu-latest
     env:
       TZ: 'Asia/Shanghai'
@@ -155,10 +155,6 @@ jobs:
             -e 's/https:\/\/openweathermap.org\/city\/[0-9]\+/https:\/\/github.com\/Moli-X\/Calendar\/tree\/main\/Weather/g' \
             -e 's/Thanks for using Weather in Your Calendar, please consider supporting/更多日历订阅请点击/g' \
             -e 's/https:\/\/weather-in-calendar.com/https:\/\/github.com\/Moli-X\/Calendar/g' \
-            # -e 's/^X-WR-CALNAME:.*$/X-WR-CALNAME:天气订阅/g' \
-            -e 's/^PRODID:.*$/PRODID:-\/\/Moli-X\/\/Weather\/\/CN/g' \
-            -e 's/en/cn/g' \
-            -e '/^CONTACT:/d' \
             "$file_path"
 
           # 风向翻译
