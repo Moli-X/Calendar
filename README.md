@@ -458,11 +458,21 @@
         <td>108</td>
         <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhanghe/zhanghe.ics">漳河市天气订阅</a></td>
     </tr>
-    <tr>
-        <td>109</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zunyi/zunyi.ics">遵义市天气订阅</a></td>
+	<tr>
+		<td colspan="4">  </td>
     </tr>
-
+    <tr>
+        <td rowspan="1"><strong>新增订阅</strong></td>
+        <td>1</td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/shantou/shantou.ics">汕头市天气订阅</a></td>
+    </tr>
+	 <tr>
+        <td>2</td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/kaifeng/kaifeng.ics">开封市天气订阅</a></td>
+    </tr>
+	<tr>
+		<td colspan="4">  </td>
+    </tr>
 </table>
 
 
