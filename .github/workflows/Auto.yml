@@ -42,6 +42,15 @@ jobs:
         mkdir -p Calendar-repo/Almanac
         curl -L -o Calendar-repo/Almanac/Almanac.ics "https://raw.githubusercontent.com/zqzess/holiday-and-chinese-almanac-calendar/main/holidays_calendar.ics"
 
+    # 处理并确保UTF-8编码
+    - name: 确保文件编码为UTF-8
+      run: |
+        # 确保中国假期和黄历文件编码为 UTF-8
+        for file in Calendar-repo/Holiday/ChinaHolidays.ics; do
+          iconv -f GB18030 -t UTF-8 "$file" -o "$file"
+        done
+
+
 
     # 添加Commits
     - name: 添加Commits
