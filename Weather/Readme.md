@@ -29,7 +29,7 @@ AutoWeatherCalendar 项目会自动从 https://openweathermap.org 获取指定�
 
 
 
-## 数据源：从https://openweathermap.org获取天气数据。
+## 数据源：从https://openweathermap.org 获取天气数据。
 更新频率：通过 Cron 表达式配置，默认每小时更新一次。
 
 ## 贡献
