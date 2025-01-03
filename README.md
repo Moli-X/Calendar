@@ -3,7 +3,7 @@
 
 TG Channel：https://t.me/QuantX
 
-## 脚本收集: [欢迎投稿](https://t.me/Skill_XX )
+## 天气添加: [联系](https://t.me/GodMoliibot)
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th>  <th> 订阅链接 </th>  <th> 作者 </th> </tr >
 	<tr>
