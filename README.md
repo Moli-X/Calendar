@@ -3,7 +3,7 @@
 
 TG Channel：https://t.me/QuantX
 
-[点击订阅节假日](webcal://calendars.icloud.com/holidays/cn_zh.ics)
+[点击订阅节假日](webcal:https://calendars.icloud.com/holidays/cn_zh.ics)
 
 
 ## ------------------------------------------------------[⬆️回到顶部⬆️](#readme)	
