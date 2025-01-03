@@ -5,19 +5,19 @@ X-WR-CALNAME:Weather for Qinzhou
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ 24°
+SUMMARY;LANGUAGE=en:🌤️ 23°
  
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250103@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250103
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250104
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 7:24 日落 18:14\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 25%\n\n💨 风速 5 m/s\n🚩 风向北东北 ↓\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 7:24 日落 18:14\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 25%\n\n💨 风速 5 m/s\n🚩 北NE ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 22°
@@ -25,14 +25,14 @@ SUMMARY;LANGUAGE=en:☀️ 22°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250104@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250104
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250105
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:25 日落 18:15\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 31%\n\n💨 风速 5 m/s\n🚩 风向南 ↑\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:25 日落 18:15\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 31%\n\n💨 风速 5 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 23°
@@ -40,14 +40,14 @@ SUMMARY;LANGUAGE=en:☀️ 23°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250105@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250105
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250106
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:25 日落 18:15\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 20%\n\n💨 风速 5 m/s\n🚩 风向北 ↓\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:25 日落 18:15\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 20%\n\n💨 风速 5 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 23°
@@ -55,14 +55,14 @@ SUMMARY;LANGUAGE=en:☀️ 23°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250106@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250106
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250107
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:25 日落 18:16\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 30%\n\n💨 风速 5 m/s\n🚩 风向南 ↑\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:25 日落 18:16\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 30%\n\n💨 风速 5 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 21°
@@ -70,14 +70,14 @@ SUMMARY;LANGUAGE=en:☀️ 21°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250107@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250107
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250108
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:25 日落 18:17\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 52%\n\n💨 风速 5 m/s\n🚩 风向南东南 ↑\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:25 日落 18:17\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 52%\n\n💨 风速 5 m/s\n🚩 南SE ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 18°
@@ -85,14 +85,14 @@ SUMMARY;LANGUAGE=en:🌦️ 18°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250108@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250108
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250109
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:25 日落 18:17\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 70%\n\n💨 风速 4 m/s\n🚩 风向东南 ↖\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:25 日落 18:17\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 70%\n\n💨 风速 4 m/s\n🚩 南E ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 17°
@@ -100,14 +100,14 @@ SUMMARY;LANGUAGE=en:🌦️ 17°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250109@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250109
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250110
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:26 日落 18:18\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 52%\n\n💨 风速 7 m/s\n🚩 风向北 ↓\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:26 日落 18:18\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 52%\n\n💨 风速 7 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 12°
@@ -115,14 +115,14 @@ SUMMARY;LANGUAGE=en:🌦️ 12°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250110@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250110
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250111
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:26 日落 18:19\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 54%\n\n💨 风速 7 m/s\n🚩 风向北 ↓\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:26 日落 18:19\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 54%\n\n💨 风速 7 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 13°
@@ -130,14 +130,14 @@ SUMMARY;LANGUAGE=en:☁️ 13°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250111@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250111
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250112
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:26 日落 18:19\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 49%\n\n💨 风速 5 m/s\n🚩 风向北 ↓\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:26 日落 18:19\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 49%\n\n💨 风速 5 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 15°
@@ -145,14 +145,14 @@ SUMMARY;LANGUAGE=en:☁️ 15°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250112@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250112
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250113
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:26 日落 18:20\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 48%\n\n💨 风速 5 m/s\n🚩 风向北 ↓\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:26 日落 18:20\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 48%\n\n💨 风速 5 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 13°
@@ -160,14 +160,14 @@ SUMMARY;LANGUAGE=en:☁️ 13°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250113@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250113
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250114
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:26 日落 18:21\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 49%\n\n💨 风速 7 m/s\n🚩 风向北 ↓\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:26 日落 18:21\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 49%\n\n💨 风速 7 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 14°
@@ -175,14 +175,14 @@ SUMMARY;LANGUAGE=en:☁️ 14°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250114@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250114
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250115
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:26 日落 18:21\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 40%\n\n💨 风速 7 m/s\n🚩 风向北 ↓\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:26 日落 18:21\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 40%\n\n💨 风速 7 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 18°
@@ -190,14 +190,14 @@ SUMMARY;LANGUAGE=en:☀️ 18°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250115@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250115
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250116
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:26 日落 18:22\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 28%\n\n💨 风速 4 m/s\n🚩 风向北 ↓\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:26 日落 18:22\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 28%\n\n💨 风速 4 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 20°
@@ -205,14 +205,14 @@ SUMMARY;LANGUAGE=en:☀️ 20°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250116@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250116
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250117
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:26 日落 18:23\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 40%\n\n💨 风速 2 m/s\n🚩 风向南西南 ↑\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:26 日落 18:23\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 40%\n\n💨 风速 2 m/s\n🚩 南SW ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 21°
@@ -220,14 +220,14 @@ SUMMARY;LANGUAGE=en:☀️ 21°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250117@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250117
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250118
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:26 日落 18:24\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 26%\n\n💨 风速 6 m/s\n🚩 风向北东北 ↓\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:26 日落 18:24\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 26%\n\n💨 风速 6 m/s\n🚩 北NE ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 20°
@@ -235,13 +235,13 @@ SUMMARY;LANGUAGE=en:☀️ 20°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250118@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T082850
+DTSTAMP;VALUE=DATE:20250103T085137
 DTSTART;VALUE=DATE:20250118
 LOCATION:Qinzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250119
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:26 日落 18:24\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 29%\n\n💨 风速 7 m/s\n🚩 风向北 ↓\n\n其他城市天气订阅 https://openweathermap.org/city/1797551\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:26 日落 18:24\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 29%\n\n💨 风速 7 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
