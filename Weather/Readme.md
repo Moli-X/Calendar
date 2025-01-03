@@ -15,9 +15,8 @@ AutoWeatherCalendar 项目会自动从 https://openweathermap.org 获取指定�
 ### 2. 数据处理与翻译
 该项目会将获取的天气数据进行以下处理：
 
-翻译天气状态（例如：Sky is clear → 晴）。
-将风向信息转换为中文描述（例如：from N → → 风向北 →）。
-更新文件内容，将文件中的 URL 更换为指向 GitHub 项目的链接。
+翻译天气状态。
+将风向信息转换为中文描述。
 ### 3. 部署和更新
 项目会定时自动执行天气数据的下载、翻译与更新操作。
 
@@ -28,9 +27,8 @@ AutoWeatherCalendar 项目会自动从 https://openweathermap.org 获取指定�
 当前支持中国部分主要城市的天气数据。未来可能会加入更多国际城市的天气数据。如需作者新增请联系：https://t.me/GodMoliibot
 
 
-
 ## 数据源：从https://openweathermap.org 获取天气数据。
-更新频率：通过 Cron 表达式配置，默认每小时更新一次。
+更新频率：通过 Cron 表达式配置，默认每天更新一次。
 
 ## 贡献
 欢迎提交 PR、报告问题或提出建议。如果您有更好的功能或想法，欢迎贡献代码。
