@@ -6,6 +6,8 @@
 
 替换后为https://github.com/Moli-X/Calendar/raw/main/Weather/beijing/beijing.ics
 
+### 支持地区:https://github.com/Moli-X/Calendar/blob/main/README.md
+
 |步骤一:长按复制链接|
 | -- |
 |<img src="https://github.com/Moli-X/Calendar/raw/main/Icon/Way4.png" width="325px" height="500px" >|
