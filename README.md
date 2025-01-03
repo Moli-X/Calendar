@@ -9,6 +9,8 @@
 |<img height="500" alt="image" src="https://github.com/Moli-X/Calendar/raw/main/Icon/Weather1.png">|<img height="500" alt="image" src="https://github.com/Moli-X/Calendar/blob/main/Icon/Weather2.png">|<img height="500" alt="image" src="https://github.com/Moli-X/Calendar/blob/main/Icon/Weather3.png">|
 
 
+
+## 数据来源于 https://weather-in-calendar.com
 ## 天气添加: [联系](https://t.me/GodMoliibot)
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th>  <th> 订阅链接 </th>  </tr >
