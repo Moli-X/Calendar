@@ -33,13 +33,15 @@ jobs:
       run: |
         mkdir -p Calendar-repo/Holiday
         curl -L --retry 3 --max-time 60 -o Calendar-repo/Holiday/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics"
+
     # 重命名文件并解压
     - name: Rename and Unzip ChinaHolidays.ics
       run: |
         mv Calendar-repo/Holiday/ChinaHolidays.ics Calendar-repo/Holiday/ChinaHolidays.ics.gz
         gzip -d Calendar-repo/Holiday/ChinaHolidays.ics.gz
-        # 确保文件已经解压成功并查看解压后的文件路径
+        # 确认解压是否成功
         ls -l Calendar-repo/Holiday/
+        # 显示解压后的文件路径，检查是否已生成
 
     # Check and convert encoding to UTF-8
     - name: Convert ChinaHolidays.ics encoding to UTF-8
