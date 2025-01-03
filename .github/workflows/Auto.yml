@@ -37,6 +37,9 @@ jobs:
       run: |
         mkdir -p Calendar-repo/Almanac
         curl -L -o Calendar-repo/Almanac/Almanac.ics "https://raw.githubusercontent.com/zqzess/holiday-and-chinese-almanac-calendar/main/holidays_calendar.ics"
+        curl -L -o Calendar-repo/Almanac/Almanac2.ics "https://raw.githubusercontent.com/zqzess/holiday-and-chinese-almanac-calendar/main/holidays_calendar_2.ics"
+        curl -L -o Calendar-repo/Almanac/Almanac3.ics "https://raw.githubusercontent.com/zqzess/holiday-and-chinese-almanac-calendar/main/holidays_calendar_3.ics"
+
 
 
     # 复刻天气原始文件
