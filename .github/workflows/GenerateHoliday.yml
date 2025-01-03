@@ -20,11 +20,10 @@ jobs:
       uses: actions/checkout@v4.2.2
       with:
         repository: Moli-X/Calendar
-        path: Calendar-repo
-        token: ${{ secrets.GitHub_TOKEN }}  
+        token: ${{ secrets.GitHub_TOKEN }}  # 不使用 path，直接将文件放在当前工作目录
 
     - name: List repository contents
-      run: ls -l Calendar/Config  # 确保 Config 文件夹在指定路径下
+      run: ls -l  # 直接列出当前工作目录内容，确认文件夹位置
 
     - name: Set up Python
       uses: actions/setup-python@v3
@@ -34,22 +33,21 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r Calendar/Config/Requirements.txt  # 更新路径
+        pip install -r Calendar/Config/Requirements.txt  # 使用相对路径
 
     - name: Generate China Holiday ICS
       run: |
-        python Calendar/Config/GenerateHoliday.py  # 更新路径
+        python Calendar/Config/GenerateHoliday.py  # 使用相对路径
 
     - name: Upload ICS file as artifact
       uses: actions/upload-artifact@v3
       with:
         name: china-holidays-ics
-        path: Calendar/Config/china_holidays_*.ics  # 更新路径
+        path: Calendar/Config/china_holidays_*.ics  # 使用相对路径
 
     # 添加Commits
     - name: 添加Commits
       run: |
-        cd Calendar-repo
         if [[ -n $(git status -s) ]]; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
