@@ -3,7 +3,7 @@
 
 TG Channel：https://t.me/QuantX
 
-## 天气添加: [联系](https://t.me/Skill_XX )
+## 脚本收集: [欢迎投稿](https://t.me/Skill_XX )
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th>  <th> 名称 </th>  <th> 作者 </th> </tr >
 	<tr>
@@ -23,7 +23,9 @@ TG Channel：https://t.me/QuantX
 	<tr>
 		<td rowspan="2"><strong>天气</strong></td>
 		<td > 1 </td> <td ><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/anquan/anzhou.ics">安州区天气订阅</a></td><td><a href="https://github.com/Moli-X">Moli-X</td>
-		<td > 2 </td> <td ><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/anquan/anshun.ics">安顺市天气订阅</a></td><td><a href="https://github.com/Moli-X">Moli-X</td>
+    </tr>
+	<tr>
+			<td > 2 </td> <td ><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/anquan/anzhou.ics">安州区天气订阅</a></td><td><a href="https://github.com/Moli-X">Moli-X</td>
     </tr>
 	<tr>
 		<td colspan="4">  </td>
