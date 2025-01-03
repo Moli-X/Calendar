@@ -10,7 +10,7 @@ WeatherCalendar 是一个自动化天气数据导入和处理项目，旨在将�
 支持定时更新：通过 GitHub Actions 定时更新天气数据。
 使用方法
 ### 1. 获取天气数据
-AutoWeatherCalendar 项目会自动从 weather-in-calendar.com 获取指定城市的天气数据，并按城市名称保存为 .ics 文件。每个城市的文件会存储在 Calendar-repo/Weather/Record/ 文件夹下。
+AutoWeatherCalendar 项目会自动从 https://openweathermap.org获取指定城市的天气数据，并按城市名称保存为 .ics 文件。每个城市的文件会存储在 Calendar-repo/Weather文件夹下。
 
 ### 2. 数据处理与翻译
 该项目会将获取的天气数据进行以下处理：
@@ -29,7 +29,7 @@ AutoWeatherCalendar 项目会自动从 weather-in-calendar.com 获取指定城�
 
 
 
-## 数据源：从 weather-in-calendar.com 获取天气数据。
+## 数据源：从https://openweathermap.org获取天气数据。
 更新频率：通过 Cron 表达式配置，默认每小时更新一次。
 
 ## 贡献
