@@ -1,5 +1,5 @@
 
-# 更新日期：2025-01-02
+# 更新日期：2025-01-03
 name: AutoCalendar
 
 on:
@@ -48,10 +48,10 @@ jobs:
         # 中国所有城市按首字母排序（部分，示例城市）
         cities=(
           # A
-          "aomen" "anshun" "anquan" "anzhou"
+          "anshun" "anzhou" "anqing" "anshan"
           
           # B
-          "beijing" "baoding" "baotou" "bengbu" "bingzhou" "bozhou"
+          "beijing" "baoding" "baotou" "bengbu"  "bozhou"
           
           # C
           "chongqing" "changchun" "changsha" "chengdu" "chuzhou"
@@ -87,7 +87,7 @@ jobs:
           "pingdingshan" "pingxiang" "putian" "pingyang"
           
           # Q
-          "qingdao" "qinghai" "qiannan" "qinzhou"
+          "qingdao" "qinghai" "qiqihar" "qinzhou" "qinhuangdao"
           
           # S
           "shenzhen" "shanghai" "suzhou" "shijiazhuang" "shaoxing" 
@@ -102,10 +102,10 @@ jobs:
           "xi'an" "xiamen" "xingtai" "xiangyang" "xuzhou"
           
           # Y
-          "yantai" "yichang" "yunnan" "yuxi" "yibin" "yuncheng"
+          "yantai" "yichang" "yuxi" "yibin" "yuncheng" "yinchuan" 
           
           # Z
-          "zhuhai" "zhengzhou" "zunyi" "zhongshan" "zibo" "zhoukou"
+          "zhuhai" "zhengzhou" "zunyi" "zhongshan" "zibo" "zhoukou" "zhangjiajie" "zhangzhou" "zhenjiang" "zhumadian" "zhongwei" "zigong" "zhanjiang" "zhangye" "zhangjiakou" "zhoushan" "zhuji" "zhanghe" 
         )
         
         # 下载每个城市的天气数据
@@ -170,6 +170,10 @@ jobs:
             -e 's/from NNE\b/北偏东/g' \
             -e 's/from SSW\b/南偏西/g' \
             -e 's/from SSE\b/南偏东/g' \
+            -e 's/from WSW\b/西南偏西/g' \
+            -e 's/from WNW\b/西北偏西/g' \
+            -e 's/from ESE\b/东南偏东/g' \
+            -e 's/from ENE\b/东偏东北/g' \
             "$file_path"
 
 
