@@ -8,7 +8,7 @@ TG Channel：https://t.me/QuantX
     <tr> <th> 类别 </th> <th> 序号 </th>  <th> 名称 </th>  <th> 作者 </th> </tr >
 	<tr>
 		<td rowspan="1"><strong>节假日</strong></td>
-		<td > 1 </td> <td ><a href="https://calendars.icloud.com/holidays/cn_zh.ics">节假日订阅</a></td><td>苹果官方</td>
+		<td > 1 </td> <td ><a href="https://calendars.icloud.com/holidays/cn_zh.ics">节假日订阅</a></td><td><a href="https://discussionschinese.apple.com/docs/DOC-250008266">苹果官方</td>
     </tr>
 	<tr>
 		<td colspan="4">  </td>
