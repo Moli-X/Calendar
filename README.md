@@ -3,7 +3,7 @@
 
 TG Channel：https://t.me/QuantX
 
-## 脚本收集: [欢迎投稿](https://t.me/Skill_XX )
+## 天气日历添加: [联系](https://t.me/Skill_XX )
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th>  <th> 订阅链接 </th>  <th> 作者 </th> </tr >
 	<tr>
@@ -24,7 +24,7 @@ TG Channel：https://t.me/QuantX
 		<td colspan="4">  </td>
     </tr>
     <tr>
-        <td rowspan="142"><strong>天气</strong></td>
+        <td rowspan="110"><strong>天气</strong></td>
         <td>1</td>
         <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/anqing/anqing.ics">安庆市天气订阅</a></td>
         <td><a href="https://github.com/Moli-X">莫离</td>
@@ -66,7 +66,7 @@ TG Channel：https://t.me/QuantX
     </tr>
     <tr>
         <td>9</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/bingzhou/bingzhou.ics">滨州市天气订阅</a></td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/bazhong/bazhong.ics">巴中市天气订阅</a></td>
         <td><a href="https://github.com/Moli-X">莫离</td>
     </tr>
     <tr>
@@ -336,7 +336,7 @@ TG Channel：https://t.me/QuantX
     </tr>
     <tr>
         <td>63</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/qiannan/qiannan.ics">黔南布依族苗族自治州天气订阅</a></td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/qinhuangdao/qinhuangdao.ics">秦皇岛天气订阅</a></td>
         <td><a href="https://github.com/Moli-X">莫离</td>
     </tr>
     <tr>
@@ -411,7 +411,7 @@ TG Channel：https://t.me/QuantX
     </tr>
     <tr>
         <td>78</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/wulumuqi/wulumuqi.ics">乌鲁木齐市天气订阅</a></td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/wuhu/wuhu.ics">芜湖市天气订阅</a></td>
         <td><a href="https://github.com/Moli-X">莫离</td>
     </tr>
     <tr>
@@ -421,7 +421,7 @@ TG Channel：https://t.me/QuantX
     </tr>
     <tr>
         <td>80</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/xian/xian.ics">西安市天气订阅</a></td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/xi'an/xi'an.ics">西安市天气订阅</a></td>
         <td><a href="https://github.com/Moli-X">莫离</td>
     </tr>
     <tr>
@@ -456,7 +456,7 @@ TG Channel：https://t.me/QuantX
     </tr>
     <tr>
         <td>87</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/yunnan/yunnan.ics">云南省天气订阅</a></td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/yinchuan/yinchuan.ics">银川市天气订阅</a></td>
         <td><a href="https://github.com/Moli-X">莫离</td>
     </tr>
     <tr>
@@ -556,177 +556,17 @@ TG Channel：https://t.me/QuantX
     </tr>
     <tr>
         <td>107</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhengning/zhengning.ics">正宁县天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>108</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhongshan/zhongshan.ics">钟山县天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>109</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhongning/zhongning.ics">中宁县天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>110</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zixing/zixing.ics">资兴市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>111</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhuxi/zhuxi.ics">竹溪县天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>112</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhushan/zhushan.ics">竹山县天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>113</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhuzhou/zhuzhou.ics">株洲市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>114</td>
         <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhuji/zhuji.ics">诸暨市天气订阅</a></td>
         <td><a href="https://github.com/Moli-X">莫离</td>
     </tr>
     <tr>
-        <td>115</td>
+        <td>108</td>
         <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhanghe/zhanghe.ics">漳河市天气订阅</a></td>
         <td><a href="https://github.com/Moli-X">莫离</td>
     </tr>
     <tr>
-        <td>116</td>
+        <td>109</td>
         <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zunyi/zunyi.ics">遵义市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>117</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhaotong/zhaotong.ics">昭通市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>118</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhuozhou/zhuozhou.ics">涿州市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>119</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhaoqing/zhaoqing.ics">肇庆市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>120</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhongxiang/zhongxiang.ics">钟祥市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>121</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhangping/zhangping.ics">漳平市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>122</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhaoyuan/zhaoyuan.ics">招远市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>123</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zouping/zouping.ics">邹平市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>124</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhaodong/zhaodong.ics">肇东市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>125</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhumadianxian/zhumadianxian.ics">驻马店县天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>126</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhuozishan/zhuozishan.ics">卓资山市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>127</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhangjiakou/zhangjiakou.ics">张家口市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>128</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhaoyang/zhaoyang.ics">朝阳市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>129</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhangqiu/zhangqiu.ics">章丘市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>130</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhenjiang/zhenjiang.ics">镇江市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>131</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhengding/zhengding.ics">正定市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>132</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhangye/zhangye.ics">张掖市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>133</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhongshan/zhongshan.ics">中山市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>134</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhenyuan/zhenyuan.ics">镇远市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>135</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhongwei/zhongwei.ics">中卫市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>136</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zixing/zixing.ics">资兴市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>137</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhengzhou/zhengzhou.ics">郑州市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>138</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhaonan/zhaonan.ics">肇南县天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>139</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhalantun/zhalantun.ics">扎兰屯市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>140</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhaoqing/zhaoqing.ics">肇庆市天气订阅</a></td>
-        <td><a href="https://github.com/Moli-X">莫离</td>
-    </tr>
-    <tr>
-        <td>141</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhangjiajie/zhangjiajie.ics">张家界市天气订阅</a></td>
         <td><a href="https://github.com/Moli-X">莫离</td>
     </tr>
 
