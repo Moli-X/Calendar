@@ -1,4 +1,4 @@
-# 更新日期：2025-01-03
+# 更新日期：2025-01-02
 name: AutoCalendar
 
 on:
@@ -24,19 +24,21 @@ jobs:
         path: Calendar-repo
         token: ${{ secrets.GitHub_TOKEN }}  
     
-    # 复刻假期原始文件
-    - name: 复刻假期原始文件
-      run: |
-        mkdir -p Calendar-repo/.github/Record
-        curl -L -o Calendar-repo/.github/Record/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics"
-        curl -L -o Calendar-repo/.github/Record/HolidayCal.ics "https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics"
 
     # 复刻假期原始文件
     - name: 复刻假期原始文件
       run: |
         mkdir -p Calendar-repo/Holiday
-        curl -L -o Calendar-repo/Holiday/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics" --output-charset utf-8  
+        curl -L -o Calendar-repo/Holiday/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics"  
         curl -L -o Calendar-repo/Holiday/HolidayCal.ics "https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics"
+
+    - name: 检查编码类型
+      run: |
+        file -i Calendar-repo/Holiday/ChinaHolidays.ics
+
+    - name: 转换为UTF-8格式
+      run: |
+        iconv -f iso-8859-1 -t utf-8 Calendar-repo/Holiday/ChinaHolidays.ics -o Calendar-repo/Holiday/ChinaHolidays_fixed.ics || echo "Already UTF-8"
 
     # 复刻黄历原始文件
     - name: 复刻黄历原始文件
