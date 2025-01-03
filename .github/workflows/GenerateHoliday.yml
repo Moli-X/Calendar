@@ -39,6 +39,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         ls -l Calendar-repo/Config  # 再次确认 Config 文件夹下的文件
+        cat Calendar-repo/Config/Requirements.txt  # 查看 Requirements.txt 文件内容，确认文件是否能正确读取
         pip install -r Calendar-repo/Config/Requirements.txt  # 使用正确路径
 
     - name: Generate China Holiday ICS
