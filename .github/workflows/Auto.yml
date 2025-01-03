@@ -1,3 +1,4 @@
+# 更新日期：2025-01-02
 name: AutoCalendar
 
 on:
@@ -14,30 +15,175 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: 'Asia/Shanghai'
-      LANG: "en_US.UTF-8"
-      LC_ALL: "en_US.UTF-8"
+
+
 
     steps:
-    # 检出目标存储库
     - name: 验证目标存储库
       uses: actions/checkout@v4.2.2
       with:
         repository: Moli-X/Calendar
         path: Calendar-repo
         token: ${{ secrets.GitHub_TOKEN }}  
+    
 
-    # 下载中国假期 .ics 文件
-    - name: 下载中国假期 .ics 文件
+    # 复刻假期原始文件
+    - name: 复刻假期原始文件
       run: |
         mkdir -p Calendar-repo/Holiday
-        curl -L --output Calendar-repo/Holiday/ChinaHolidays.ics https://calendars.icloud.com/holidays/cn_zh.ics
+        # curl -L -o Calendar-repo/Holiday/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics" 
+        curl -L -o Calendar-repo/Holiday/HolidayCal.ics "https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics"
 
-    # 确保文件编码为 UTF-8
-    - name: 确保文件编码为 UTF-8
+    # 复刻黄历原始文件
+    - name: 复刻黄历原始文件
       run: |
-        # 如果需要转换编码，可以使用 iconv
-        for file in Calendar-repo/Holiday/ChinaHolidays.ics; do
-          iconv -f GB18030 -t UTF-8//IGNORE "$file" -o "$file" || echo "Error processing $file"
+        mkdir -p Calendar-repo/Almanac
+        curl -L -o Calendar-repo/Almanac/Almanac.ics "https://raw.githubusercontent.com/zqzess/holiday-and-chinese-almanac-calendar/main/holidays_calendar.ics"
+
+
+    # 复刻天气原始文件
+    - name: 复刻天气原始文件
+      run: |
+        mkdir -p Calendar-repo/Weather/Record
+        
+        # 中国所有城市按首字母排序（部分，示例城市）
+        cities=(
+          # A
+          "aomen" "anshun" "anquan" "anzhou"
+          
+          # B
+          "beijing" "baoding" "baotou" "bengbu" "bingzhou" "bozhou"
+          
+          # C
+          "chongqing" "changchun" "changsha" "chengdu" "chuzhou"
+          
+          # D
+          "dalian" "dongguan" "dandong" "dezhou" "dongying"
+          
+          # F
+          "fuzhou" "foshan" "fuyang" "fujian" "fushun"
+          
+          # G
+          "guangzhou" "guizhou" "guilin" "gansu" "guangxi"
+          
+          # H
+          "hangzhou" "hefei" "hebei" "hainan" "hunan"
+          
+          # J
+          "jinan" "jiujiang" "jiangxi" "jiangsu" "jilin"
+          
+          # K
+          "kunming" "kaiyuan" "kaili"
+          
+          # L
+          "lianyungang" "lijiang" "longyan" "liangping" "luzhou"
+          
+          # M
+          "meizhou" "mianyang" "macau"
+          
+          # N
+          "nanjing" "nanchang" "nanning" "nanyang" "ningbo"
+          
+          # P
+          "pingdingshan" "pingxiang" "putian" "pingyang"
+          
+          # Q
+          "qingdao" "qinghai" "qiannan" "qinzhou"
+          
+          # S
+          "shenzhen" "shanghai" "suzhou" "shijiazhuang" "shaoxing" 
+          
+          # T
+          "tianjin" "taiyuan" "taizhou" "tonghua" "taian"
+          
+          # W
+          "wuhan" "wenzhou" "weifang" "wulumuqi" "wuxi"
+          
+          # X
+          "xi'an" "xiamen" "xingtai" "xiangyang" "xuzhou"
+          
+          # Y
+          "yantai" "yichang" "yunnan" "yuxi" "yibin" "yuncheng"
+          
+          # Z
+          "zhuhai" "zhengzhou" "zunyi" "zhongshan" "zibo" "zhoukou"
+        )
+        
+        # 下载每个城市的天气数据
+        for city in "${cities[@]}"; do
+          curl -L -o "Calendar-repo/Weather/Record/${city}.ics" "https://weather-in-calendar.com/cal/weather-cal.php?city=${city}&units=metric&temperature=day"
+        done
+
+
+    # 修改并移动所有天气文件
+    - name: 修改并移动所有天气文件
+      run: |
+        mkdir -p Calendar-repo/Weather
+        
+        declare -A wind_directions=(
+        ["N"]="北"
+        ["S"]="南"
+        ["E"]="东"
+        ["W"]="西"
+        ["NE"]="东北"
+        ["NW"]="西北"
+        ["SE"]="东南"
+        ["SW"]="西南"
+        ["NNW"]="北西北"
+        ["NNE"]="北东北"
+        ["SSW"]="南西南"
+        ["SSE"]="南东南"
+        )
+        
+        # 遍历 Record 文件夹中的所有 .ics 文件
+        for file_path in Calendar-repo/Weather/Record/*.ics; do
+          file_name=$(basename "$file_path")  # 提取文件名
+          city_name="${file_name%.ics}"  # 去掉后缀作为城市名
+
+          mkdir -p "Calendar-repo/Weather/$city_name"  # 创建城市对应的文件夹
+          # 删除指定的 URL 行
+          sed -i '/URL;VALUE=URI:https:\/\/www\.vejnoe\.dk\s*/d' "$file_path"
+
+          # 遍历所有风向和箭头组合，动态生成替换规则
+          for key in "${!wind_directions[@]}"; do
+            sed -i \
+              -e "s/from $key →/风向${wind_directions[$key]} →/g" \
+              -e "s/from $key ←/风向${wind_directions[$key]} ←/g" \
+              -e "s/from $key ↑/风向${wind_directions[$key]} ↑/g" \
+              -e "s/from $key ↓/风向${wind_directions[$key]} ↓/g" \
+              -e "s/from $key ↘/风向${wind_directions[$key]} ↘/g" \
+              -e "s/from $key ↙/风向${wind_directions[$key]} ↙/g" \
+              -e "s/from $key ↖/风向${wind_directions[$key]} ↖/g" \
+              -e "s/from $key ↗/风向${wind_directions[$key]} ↗/g" \
+              "$file_path"
+          done
+
+          # 针对其他天气描述的替换规则
+          sed -i \
+            -e 's/Overcast clouds/多云/g' \
+            -e 's/Sky is clear/晴/g' \
+            -e 's/Scattered clouds/局部多云/g' \
+            -e 's/Broken clouds/部分多云/g' \
+            -e 's/Few clouds/少量云/g' \
+            -e 's/Light rain/小雨/g' \
+            -e 's/Moderate rain/中雨/g' \
+            -e 's/Heavy rain/大雨/g' \
+            -e 's/Thunderstorm/雷暴/g' \
+            -e 's/Snow/下雪/g' \
+            -e 's/Light snow/小雪/g' \
+            -e 's/Sunrise/日出/g' \
+            -e 's/and sets/日落/g' \
+            -e 's/Humidity/湿度/g' \
+            -e 's/Wind speed up to/风速/g' \
+            -e 's/Pressure/气压/g' \
+            -e 's/View full weather report/其他城市天气订阅/g' \
+            -e 's/https:\/\/openweathermap.org\/city\/1796236/https:\/\/github.com\/Moli-X\/Calendar\/tree\/main\/Weather/g' \
+            -e 's/Thanks for using Weather in Your Calendar, please consider supporting/更多日历订阅请点击/g' \
+            -e 's/https:\/\/weather-in-calendar.com/https:\/\/github.com\/Moli-X\/Calendar/g' \
+            "$file_path"
+
+          # 将修改后的文件移动到目标目录
+          mv "$file_path" "Calendar-repo/Weather/$city_name/$file_name"
         done
 
     # 添加Commits
