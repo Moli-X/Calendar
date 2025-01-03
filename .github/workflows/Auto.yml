@@ -15,7 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: 'Asia/Shanghai'
-    
+      LANG: "en_US.UTF-8"
+      LC_ALL: "en_US.UTF-8"
+
+
     steps:
     - name: 验证目标存储库
       uses: actions/checkout@v4.2.2
@@ -29,8 +32,13 @@ jobs:
     - name: 复刻假期原始文件
       run: |
         mkdir -p Calendar-repo/Holiday
-        curl -L --header "Accept-Charset: utf-8" -o Calendar-repo/Holiday/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics"
+        curl -L -o Calendar-repo/Holiday/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics" --header "Accept-Charset: utf-8"
         curl -L -o Calendar-repo/Holiday/HolidayCal.ics "https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics"
+
+    - name: 打印文件内容进行调试
+    run: |
+        cat Calendar-repo/Holiday/ChinaHolidays.ics
+
 
 
     # 复刻黄历原始文件
