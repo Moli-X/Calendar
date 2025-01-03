@@ -28,7 +28,7 @@ jobs:
 
     - name: List Config folder contents
       run: |
-        ls -l Calendar-repo/Calendar/Config  # 确认 Config 文件夹下的内容
+        ls -l Calendar-repo/Config  # 列出 Config 文件夹下的内容，确认文件是否存在
 
     - name: Set up Python
       uses: actions/setup-python@v3
@@ -38,18 +38,18 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        ls -l Calendar-repo/Calendar/Config  # 确保文件存在
-        pip install -r Calendar-repo/Calendar/Config/Requirements.txt  # 使用正确路径
+        ls -l Calendar-repo/Config  # 再次确认 Config 文件夹下的文件
+        pip install -r Calendar-repo/Config/Requirements.txt  # 使用正确路径
 
     - name: Generate China Holiday ICS
       run: |
-        python Calendar-repo/Calendar/Config/GenerateHoliday.py  # 使用正确路径
+        python Calendar-repo/Config/GenerateHoliday.py  # 使用正确路径
 
     - name: Upload ICS file as artifact
       uses: actions/upload-artifact@v3
       with:
         name: china-holidays-ics
-        path: Calendar-repo/Calendar/Config/china_holidays_*.ics  # 使用正确路径
+        path: Calendar-repo/Config/china_holidays_*.ics  # 使用正确路径
 
     # 添加Commits
     - name: 添加Commits
