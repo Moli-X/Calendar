@@ -29,8 +29,7 @@ jobs:
     - name: 复刻假期原始文件
       run: |
         mkdir -p Calendar-repo/Holiday
-        curl -L -o Calendar-repo/Holiday/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics" && \
-        iconv -f ISO-8859-1 -t UTF-8 Calendar-repo/Holiday/ChinaHolidays.ics -o Calendar-repo/Holiday/ChinaHolidays.ics
+        curl -L --header "Accept-Charset: utf-8" -o Calendar-repo/Holiday/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics"
         curl -L -o Calendar-repo/Holiday/HolidayCal.ics "https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics"
 
 
