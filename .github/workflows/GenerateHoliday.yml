@@ -22,14 +22,14 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r Requirements.txt
+          pip install -r Config/Requirements.txt  # 修改为正确路径
 
       - name: Generate China Holiday ICS
         run: |
-          python GenerateHoliday.py
+          python Config/GenerateHoliday.py  # 修改为正确路径
 
       - name: Upload ICS file as artifact
         uses: actions/upload-artifact@v2
         with:
           name: china-holidays-ics
-          path: china_holidays_*.ics
+          path: Config/china_holidays_*.ics  # 修改为正确路径
