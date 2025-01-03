@@ -1,10 +1,11 @@
+
 # 更新日期：2025-01-02
 name: AutoCalendar
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "5 0 * * *"
+    - cron: "30 * * * *"
 
 permissions:
   actions: write  
@@ -15,9 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: 'Asia/Shanghai'
-
-
-
+    
     steps:
     - name: 验证目标存储库
       uses: actions/checkout@v4.2.2
@@ -31,7 +30,7 @@ jobs:
     - name: 复刻假期原始文件
       run: |
         mkdir -p Calendar-repo/Holiday
-        # curl -L -o Calendar-repo/Holiday/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics" 
+        # curl -L -o Calendar-repo/Holiday/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics"
         curl -L -o Calendar-repo/Holiday/HolidayCal.ics "https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics"
 
     # 复刻黄历原始文件
@@ -177,7 +176,7 @@ jobs:
             -e 's/Wind speed up to/风速/g' \
             -e 's/Pressure/气压/g' \
             -e 's/View full weather report/其他城市天气订阅/g' \
-            -e 's|https://openweathermap.org/city/[0-9]\+|https://github.com/Moli-X/Calendar/tree/main/Weather|g'
+            -e 's/https:\/\/openweathermap.org\/city\/1796236/https:\/\/github.com\/Moli-X\/Calendar\/tree\/main\/Weather/g' \
             -e 's/Thanks for using Weather in Your Calendar, please consider supporting/更多日历订阅请点击/g' \
             -e 's/https:\/\/weather-in-calendar.com/https:\/\/github.com\/Moli-X\/Calendar/g' \
             "$file_path"
