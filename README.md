@@ -1,6 +1,6 @@
 # Weather
 <a href="https://t.me/GodMoliibot"><img src="https://raw.githubusercontent.com/Moli-X/Resources/main/Icon/Image/Hello.gif" width="20%" height="20%"></a>
-## 数据来源于 :[OpenWeatherMap](https://openweathermap.org)
+## 数据来源于 [OpenWeatherMap](https://openweathermap.org)
 
 
 ## TG Channel：https://t.me/QuantX
