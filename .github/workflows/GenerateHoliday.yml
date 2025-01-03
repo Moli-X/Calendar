@@ -31,6 +31,11 @@ jobs:
       with:
         python-version: '3.x'
 
+    - name: List Config folder contents
+      run: ls Config  # 列出 Config 文件夹中的内容，检查 Requirements.txt 是否存在
+
+
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
