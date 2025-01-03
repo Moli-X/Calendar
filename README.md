@@ -8,7 +8,7 @@
 ## 订阅预览
 |订阅预览|
 | -- |
-|<img src="https://github.com/Moli-X/Calendar/raw/main/Icon/Weather1.png" width="300px" height="500px" >|
+|<img src="https://github.com/Moli-X/Calendar/raw/main/Icon/Weather1.png" width="400px" height="600px" >|
 
 |天气预览|
 | -- |
@@ -16,7 +16,7 @@
 
 |备注预览|
 | -- |
-<img src="https://github.com/Moli-X/Calendar/blob/main/Icon/Weather3.png" width="300px" height="500px">|
+<img src="https://github.com/Moli-X/Calendar/blob/main/Icon/Weather3.png" width="400px" height="500px">|
 
 
 ## 天气添加: [莫离-机器人](https://t.me/GodMoliibot)
