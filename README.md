@@ -1,14 +1,14 @@
 # Weather
 <a href="https://t.me/GodMoliibot"><img src="https://raw.githubusercontent.com/Moli-X/Resources/main/Icon/Image/Hello.gif" width="20%" height="20%"></a>
-### 数据来源于 [OpenWeatherMap](https://openweathermap.org)
+### 数据来源于: [OpenWeatherMap](https://openweathermap.org)
 
 
-### TG Channel:https://t.me/QuantX
+### TG Channel: https://t.me/QuantX
 
 ## 订阅预览
 |订阅预览 1|天气预览 2|备注预览 3|
 | -- | -- | -- |
-|<img height="500" alt="image" src="https://github.com/Moli-X/Calendar/raw/main/Icon/Weather1.png">|<img height="500" alt="image" src="https://github.com/Moli-X/Calendar/blob/main/Icon/Weather2.png">|<img height="500" alt="image" src="https://github.com/Moli-X/Calendar/blob/main/Icon/Weather3.png">|
+|<img src="https://github.com/Moli-X/Calendar/raw/main/Icon/Weather1.png" width="50%" height="50%" >|<img height="500" alt="image" src="https://github.com/Moli-X/Calendar/blob/main/Icon/Weather2.png">|<img height="500" alt="image" src="https://github.com/Moli-X/Calendar/blob/main/Icon/Weather3.png">|
 
 
 
