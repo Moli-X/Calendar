@@ -9,7 +9,7 @@ TG Channel：https://t.me/QuantX
 <tr>
     <td rowspan="1"><strong>节假日</strong></td>
     <td>1</td>
-    <td><a href="javascript:void(0);" onclick="window.location='webcal://calendars.icloud.com/holidays/cn_zh.ics';"><em>cn_zh.ics</em></a></td>
+    <a href="webcal://calendars.icloud.com/holidays/cn_zh.ics" onclick="window.location='https://calendars.icloud.com/holidays/cn_zh.ics'; return true;"><em>cn_zh.ics</em></a></td>
     <td>苹果官方</td>
 </tr>
 
