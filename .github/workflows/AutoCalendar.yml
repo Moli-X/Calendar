@@ -92,13 +92,13 @@ jobs:
           "qingdao" "qinghai" "qiqihar" "qinzhou" "qinhuangdao"
           
           # S
-          "shenzhen" "shanghai" "suzhou" "shijiazhuang" "shaoxing" 
+          "shenzhen" "shanghai" "suzhou" "shijiazhuang" "shaoxing"  "shantou"
           
           # T
           "tianjin" "taiyuan" "taizhou" "tonghua" "taian"
           
           # W
-          "wuhan" "wenzhou" "weifang" "wulumuqi" "wuxi"
+          "wuhan" "wenzhou" "weifang" "wulumuqi" "wuxi"  "wuhu"
           
           # X
           "xi'an" "xiamen" "xingtai" "xiangyang" "xuzhou"
