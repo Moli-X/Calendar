@@ -8,7 +8,7 @@
 ## 订阅预览
 |订阅预览|
 | -- |
-|<img src="https://github.com/Moli-X/Calendar/raw/main/Icon/Weather1.png" width="50%" height="50%" >|
+|<img src="https://github.com/Moli-X/Calendar/raw/main/Icon/Weather1.png" width="150px" height="150px" >|
 
 |天气预览|
 | -- |
