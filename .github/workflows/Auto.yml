@@ -33,6 +33,27 @@ jobs:
       run: |
         mkdir -p Calendar-repo/Holiday
         curl -L --retry 3 --max-time 60 -o Calendar-repo/Holiday/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics"
+    # Check and convert encoding to UTF-8
+    - name: Convert ChinaHolidays.ics encoding to UTF-8
+      run: |
+        # Check the file encoding
+        file Calendar-repo/Holiday/ChinaHolidays.ics
+        # Convert from WINDOWS-1252 or GB2312 to UTF-8
+        iconv -f WINDOWS-1252 -t UTF-8 Calendar-repo/Holiday/ChinaHolidays.ics -o Calendar-repo/Holiday/ChinaHolidays_utf8.ics
+        # Remove invalid characters if any
+        iconv -c -f utf-8 -t utf-8 Calendar-repo/Holiday/ChinaHolidays.ics -o Calendar-repo/Holiday/ChinaHolidays_utf8_no_errors.ics
+        # Clean the file to remove BOM or invalid characters
+        iconv -c -f utf-8 -t utf-8 Calendar-repo/Holiday/ChinaHolidays.ics -o Calendar-repo/Holiday/ChinaHolidays_cleaned.ics
+
+
+
+
+
+
+
+
+
+
     # 复刻黄历原始文件
     - name: 复刻黄历原始文件
       run: |
