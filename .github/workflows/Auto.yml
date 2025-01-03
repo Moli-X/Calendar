@@ -1,4 +1,3 @@
-# 更新日期：2025-01-02
 name: AutoCalendar
 
 on:
@@ -18,39 +17,28 @@ jobs:
       LANG: "en_US.UTF-8"
       LC_ALL: "en_US.UTF-8"
 
-
     steps:
+    # 检出目标存储库
     - name: 验证目标存储库
       uses: actions/checkout@v4.2.2
       with:
         repository: Moli-X/Calendar
         path: Calendar-repo
         token: ${{ secrets.GitHub_TOKEN }}  
-    
 
-    # 复刻假期原始文件
-    - name: 复刻假期原始文件
+    # 下载中国假期 .ics 文件
+    - name: 下载中国假期 .ics 文件
       run: |
         mkdir -p Calendar-repo/Holiday
-        curl -o Calendar-repo/Holiday/ChinaHolidays.ics https://calendars.icloud.com/holidays/cn_zh.ics
+        curl -L --output Calendar-repo/Holiday/ChinaHolidays.ics https://calendars.icloud.com/holidays/cn_zh.ics
 
-
-
-    # 复刻黄历原始文件
-    - name: 复刻黄历原始文件
+    # 确保文件编码为 UTF-8
+    - name: 确保文件编码为 UTF-8
       run: |
-        mkdir -p Calendar-repo/Almanac
-        curl -L -o Calendar-repo/Almanac/Almanac.ics "https://raw.githubusercontent.com/zqzess/holiday-and-chinese-almanac-calendar/main/holidays_calendar.ics"
-
-    # 处理并确保UTF-8编码
-    - name: 确保文件编码为UTF-8
-      run: |
-        # 确保中国假期和黄历文件编码为 UTF-8
+        # 如果需要转换编码，可以使用 iconv
         for file in Calendar-repo/Holiday/ChinaHolidays.ics; do
-          iconv -f GB18030 -t UTF-8 "$file" -o "$file"
+          iconv -f GB18030 -t UTF-8//IGNORE "$file" -o "$file" || echo "Error processing $file"
         done
-
-
 
     # 添加Commits
     - name: 添加Commits
