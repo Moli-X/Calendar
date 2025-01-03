@@ -28,48 +28,11 @@ jobs:
         token: ${{ secrets.GitHub_TOKEN }}  
     
 
-    - name: Download ChinaHolidays.ics
+    # 复刻假期原始文件
+    - name: 复刻假期原始文件
       run: |
-        curl -L -o Calendar-repo/Holiday/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics"
-        # 确保文件已经下载并查看目录
-        ls -l Calendar-repo/Holiday/
-        # 检查下载文件的内容是否有效
-        cat Calendar-repo/Holiday/ChinaHolidays.ics
-
-    - name: Check file type and attempt decompression
-      run: |
-        # 确保文件存在并检查文件类型
-        file Calendar-repo/Holiday/ChinaHolidays.ics
-        # 如果是gzip文件，解压它
-        if file Calendar-repo/Holiday/ChinaHolidays.ics | grep -q "gzip compressed data"; then
-          echo "Gzip file detected, decompressing..."
-          mv Calendar-repo/Holiday/ChinaHolidays.ics Calendar-repo/Holiday/ChinaHolidays.ics.gz
-          gzip -d Calendar-repo/Holiday/ChinaHolidays.ics.gz
-          # 确保解压后文件存在
-          ls -l Calendar-repo/Holiday/
-        else
-          echo "Not a gzip file, skipping decompression."
-        fi
-
-    - name: Convert ChinaHolidays.ics encoding to UTF-8
-      run: |
-        # 如果文件存在，检查编码
-        if [ -f "Calendar-repo/Holiday/ChinaHolidays.ics" ]; then
-          echo "File exists, proceeding with conversion."
-          iconv -f WINDOWS-1252 -t UTF-8 Calendar-repo/Holiday/ChinaHolidays.ics -o Calendar-repo/Holiday/ChinaHolidays_utf8.ics
-          # 删除错误字符
-          iconv -c -f utf-8 -t utf-8 Calendar-repo/Holiday/ChinaHolidays.ics -o Calendar-repo/Holiday/ChinaHolidays_utf8_no_errors.ics
-          # 清理文件
-          iconv -c -f utf-8 -t utf-8 Calendar-repo/Holiday/ChinaHolidays.ics -o Calendar-repo/Holiday/ChinaHolidays_cleaned.ics
-        else
-          echo "File does not exist, skipping encoding conversion."
-        fi
-
-
-
-
-
-
+        mkdir -p Calendar-repo/Holiday
+        curl -o Calendar-repo/Holiday/ChinaHolidays.ics https://calendars.icloud.com/holidays/cn_zh.ics
 
 
 
