@@ -31,13 +31,13 @@ TG Channel：https://t.me/QuantX
 		<td colspan="4">  </td>
     </tr>
 </table>
+
+
 <table>
     <tr>
-        <th>序号</th>
-        <th>城市名称</th>
-        <th>订阅链接</th>
-        <th>提供方</th>
+		<th>类别</th> <th>序号</th><th>城市名称</th><th>订阅链接</th><th>作者</th>
     </tr>
+	<td rowspan="10"><strong>天气</strong></td>
     <tr>
         <td>1</td>
         <td>北京市</td>
