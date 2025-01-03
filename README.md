@@ -13,7 +13,7 @@
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th>  <th> 订阅链接 </th>  </tr >
     <tr>
-        <td rowspan="109"><strong>天气</strong></td>
+        <td rowspan="109"><strong>天气订阅</strong></td>
         <td>1</td>
         <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/anqing/anqing.ics">安庆市天气订阅</a></td>
     </tr>
