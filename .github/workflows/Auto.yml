@@ -36,7 +36,7 @@ jobs:
         curl -L -o Calendar-repo/Holiday/HolidayCal.ics "https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics"
 
     - name: 打印文件内容进行调试
-    run: |
+       run: |
         cat Calendar-repo/Holiday/ChinaHolidays.ics
 
 
