@@ -31,6 +31,74 @@ TG Channel：https://t.me/QuantX
 		<td colspan="4">  </td>
     </tr>
 </table>
+<table>
+    <tr>
+        <th>序号</th>
+        <th>城市名称</th>
+        <th>订阅链接</th>
+        <th>提供方</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>北京市</td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/beijing/beijing.ics">北京市天气订阅</a></td>
+        <td>Moli-X</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>上海市</td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/shanghai/shanghai.ics">上海市天气订阅</a></td>
+        <td>Moli-X</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>广州市</td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/guangdong/guangzhou.ics">广州市天气订阅</a></td>
+        <td>Moli-X</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>深圳市</td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/guangdong/shenzhen.ics">深圳市天气订阅</a></td>
+        <td>Moli-X</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>杭州市</td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/zhejiang/hangzhou.ics">杭州市天气订阅</a></td>
+        <td>Moli-X</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>南京市</td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/jiangsu/nanjing.ics">南京市天气订阅</a></td>
+        <td>Moli-X</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>成都市</td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/sichuan/chengdu.ics">成都市天气订阅</a></td>
+        <td>Moli-X</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>重庆市</td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/chongqing/chongqing.ics">重庆市天气订阅</a></td>
+        <td>Moli-X</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>武汉市</td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/hubei/wuhan.ics">武汉市天气订阅</a></td>
+        <td>Moli-X</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>西安市</td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/shaanxi/xian.ics">西安市天气订阅</a></td>
+        <td>Moli-X</td>
+    </tr>
+</table>
 
 
 
