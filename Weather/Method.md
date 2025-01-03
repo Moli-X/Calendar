@@ -1,6 +1,7 @@
 ## 日历订阅添加教程
 ### 订阅链接
-上海订阅链接: https://github.com/Moli-X/Calendar/blob/main/Weather/shanghai/shanghai.ics
+上海订阅链接: https://github.com/Moli-X/Calendar/raw/main/Weather/shanghai/shanghai.ics
+
 若要添加北京订阅链接把shanghai/shanghai.ics替换为beijing/beijing.ics
 
 |步骤一:长按复制链接|
