@@ -22,7 +22,7 @@ AutoWeatherCalendar 项目会自动从 weather-in-calendar.com 获取指定城�
 项目会定时自动执行天气数据的下载、翻译与更新操作。
 
 ### 4. 文件路径
-所有处理后的天气文件将按城市名称存储在 Weather目录下。例如，上海的天气数据会存储在 Weather/ShangHai/ShangHai.ics 文件中。
+所有处理后的天气文件将按城市名称存储在 Weather目录下。例如，上海的天气数据会存储在 Weather/shangHai/shangHai.ics 文件中。
 
 ### 5. 支持城市
 当前支持中国部分主要城市的天气数据。未来可能会加入更多国际城市的天气数据。如需作者新增请联系：https://t.me/GodMoliibot
