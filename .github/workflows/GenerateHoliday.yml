@@ -1,4 +1,3 @@
-# 更新日期：2025-01-02
 name: Generate China Holiday ICS
 
 on:
@@ -7,7 +6,7 @@ on:
     - cron: "5 0 * * *"
 
 permissions:
-  actions: write  
+  actions: write
   contents: write  
 
 jobs:
@@ -15,8 +14,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: 'Asia/Shanghai'
-
-
 
     steps:
     - name: 验证目标存储库
@@ -26,31 +23,28 @@ jobs:
         path: Calendar-repo
         token: ${{ secrets.GitHub_TOKEN }}  
 
+    - name: List repository contents
+      run: ls -l Calendar/Config  # 确保 Config 文件夹在指定路径下
+
     - name: Set up Python
       uses: actions/setup-python@v3
       with:
         python-version: '3.x'
 
-    - name: List Config folder contents
-      run: ls Config  # 列出 Config 文件夹中的内容，检查 Requirements.txt 是否存在
-
-
-
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r Config/Requirements.txt  # 修改为正确路径
+        pip install -r Calendar/Config/Requirements.txt  # 更新路径
 
     - name: Generate China Holiday ICS
       run: |
-        python Config/GenerateHoliday.py  # 修改为正确路径
+        python Calendar/Config/GenerateHoliday.py  # 更新路径
 
     - name: Upload ICS file as artifact
       uses: actions/upload-artifact@v3
       with:
         name: china-holidays-ics
-        path: Config/china_holidays_*.ics  # 修改为正确路径
-
+        path: Calendar/Config/china_holidays_*.ics  # 更新路径
 
     # 添加Commits
     - name: 添加Commits
