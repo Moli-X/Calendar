@@ -10,7 +10,7 @@ SUMMARY;LANGUAGE=en:☀️ -10°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250103@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250103
 LOCATION:Jilin
  
@@ -25,7 +25,7 @@ SUMMARY;LANGUAGE=en:☀️ -9°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250104@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250104
 LOCATION:Jilin
  
@@ -40,7 +40,7 @@ SUMMARY;LANGUAGE=en:☁️ -8°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250105@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250105
 LOCATION:Jilin
  
@@ -55,14 +55,14 @@ SUMMARY;LANGUAGE=en:☁️ -14°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250106@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250106
 LOCATION:Jilin
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250107
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:07 日落 16:15\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 78%\n\n💨 风速 2 m/s\n🚩 from WNW →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:07 日落 16:15\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 78%\n\n💨 风速 2 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌤️ -12°
@@ -70,7 +70,7 @@ SUMMARY;LANGUAGE=en:🌤️ -12°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250107@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250107
 LOCATION:Jilin
  
@@ -85,7 +85,7 @@ SUMMARY;LANGUAGE=en:⛈️ -18°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250108@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250108
 LOCATION:Jilin
  
@@ -100,14 +100,14 @@ SUMMARY;LANGUAGE=en:⛈️ -12°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250109@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250109
 LOCATION:Jilin
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250110
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:⛈️ 小雪\n\n🌅 日出 7:06 日落 16:18\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 74%\n\n💨 风速 5 m/s\n🚩 from WNW ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:⛈️ 小雪\n\n🌅 日出 7:06 日落 16:18\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 74%\n\n💨 风速 5 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ -11°
@@ -115,14 +115,14 @@ SUMMARY;LANGUAGE=en:☁️ -11°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250110@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250110
 LOCATION:Jilin
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250111
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:06 日落 16:20\n\n⚡️ 气压 1032 hPa\n\n💧 湿度 76%\n\n💨 风速 1 m/s\n🚩 from WNW ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:06 日落 16:20\n\n⚡️ 气压 1032 hPa\n\n💧 湿度 76%\n\n💨 风速 1 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ -11°
@@ -130,7 +130,7 @@ SUMMARY;LANGUAGE=en:☀️ -11°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250111@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250111
 LOCATION:Jilin
  
@@ -145,14 +145,14 @@ SUMMARY;LANGUAGE=en:⛈️ -10°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250112@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250112
 LOCATION:Jilin
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250113
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:⛈️ 小雪\n\n🌅 日出 7:05 日落 16:22\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 71%\n\n💨 风速 2 m/s\n🚩 from WSW ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:⛈️ 小雪\n\n🌅 日出 7:05 日落 16:22\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 71%\n\n💨 风速 2 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ -8°
@@ -160,7 +160,7 @@ SUMMARY;LANGUAGE=en:☁️ -8°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250113@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250113
 LOCATION:Jilin
  
@@ -175,7 +175,7 @@ SUMMARY;LANGUAGE=en:☁️ -5°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250114@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250114
 LOCATION:Jilin
  
@@ -190,7 +190,7 @@ SUMMARY;LANGUAGE=en:☀️ -5°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250115@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250115
 LOCATION:Jilin
  
@@ -205,7 +205,7 @@ SUMMARY;LANGUAGE=en:🌤️ -8°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250116@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250116
 LOCATION:Jilin
  
@@ -220,7 +220,7 @@ SUMMARY;LANGUAGE=en:☁️ -10°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250117@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250117
 LOCATION:Jilin
  
@@ -235,7 +235,7 @@ SUMMARY;LANGUAGE=en:☁️ -6°
 X-FUNAMBOL-ALLDAY:1 
 CONTACT:Andreas Vejnø Andersen\, andreas@vejnoe.dk 
 UID:20250118@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250103T094011
+DTSTAMP;VALUE=DATE:20250103T100550
 DTSTART;VALUE=DATE:20250118
 LOCATION:Jilin
  
