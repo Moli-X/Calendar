@@ -1,19 +1,17 @@
-
-
 # 更新日期：2025-01-03
 name: AutoCalendar
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 * * * *"
+    - cron: "0 0 * * *"
 
 permissions:
   actions: write  
   contents: write  
 
 jobs:
-  ForkRepository:
+  AutoCalendar:
     runs-on: ubuntu-latest
     env:
       TZ: 'Asia/Shanghai'
@@ -157,6 +155,7 @@ jobs:
             -e 's/https:\/\/weather-in-calendar.com/https:\/\/github.com\/Moli-X\/Calendar/g' \
             -e 's/^X-WR-CALNAME:.*$/X-WR-CALNAME:天气订阅/g' \
             -e 's/^PRODID:.*$/PRODID:-\/\/Moli-X\/\/Weather\/\/CN/g' \
+            -e '/^CONTACT:/d' \
             "$file_path"
 
           # 风向翻译
