@@ -17,14 +17,20 @@ TG Channel：https://t.me/QuantX
 		<td colspan="4">  </td>
     </tr>
 	<tr>
-		<td rowspan="1"><strong>黄历</strong></td>
+		<td rowspan="3"><strong>黄历</strong></td>
 		<td > 1 </td> <td ><a href="https://raw.githubusercontent.com/zqzess/holiday-and-chinese-almanac-calendar/main/holidays_calendar.ics">黄历订阅</a></td><td><a href="https://github.com/zqzess/holiday-and-chinese-almanac-calendar">zqzess</td>
+    </tr>
+	<tr>
+		<td > 2 </td> <td ><a href="https://raw.githubusercontent.com/zqzess/holiday-and-chinese-almanac-calendar/main/holidays_calendar_2.ics">黄历订阅</a></td><td><a href="https://github.com/zqzess/holiday-and-chinese-almanac-calendar">zqzess</td>
+    </tr>
+	<tr>
+		<td > 3 </td> <td ><a href="https://raw.githubusercontent.com/zqzess/holiday-and-chinese-almanac-calendar/main/holidays_calendar_3.ics">黄历订阅</a></td><td><a href="https://github.com/zqzess/holiday-and-chinese-almanac-calendar">zqzess</td>
     </tr>
 	<tr>
 		<td colspan="4">  </td>
     </tr>
     <tr>
-        <td rowspan="110"><strong>天气</strong></td>
+        <td rowspan="109"><strong>天气</strong></td>
         <td>1</td>
         <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/anqing/anqing.ics">安庆市天气订阅</a></td>
         <td><a href="https://github.com/Moli-X">莫离</td>
