@@ -12,7 +12,7 @@ TG Channel：https://t.me/QuantX
 		<td > 2 </td> <td ><a href="https://github.com/Moli-X/Calendar/blob/main/Almanac/Almanac2.ics">黄历订阅❌️✅</a></td><td><a href="https://github.com/zqzess/holiday-and-chinese-almanac-calendar">zqzess</td>
     </tr>
 	<tr>
-		<td > 3 </td> <td ><a href="https://github.com/Moli-X/Calendar/blob/main/Almanac/Almanac3.ics">黄历订阅✅宜❌️</a></td><td><a href="https://github.com/zqzess/holiday-and-chinese-almanac-calendar">zqzess</td>
+		<td > 3 </td> <td ><a href="https://github.com/Moli-X/Calendar/blob/main/Almanac/Almanac3.ics">黄历订阅✅❌️</a></td><td><a href="https://github.com/zqzess/holiday-and-chinese-almanac-calendar">zqzess</td>
     </tr>
 	<tr>
 		<td colspan="4">  </td>
