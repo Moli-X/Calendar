@@ -15,7 +15,7 @@ TG Channel：https://t.me/QuantX
     </tr>
 	<tr>
 		<td rowspan="1"><strong>黄历</strong></td>
-		<td > 1 </td> <td ><a href="https://raw.githubusercontent.com/zqzess/holiday-and-chinese-almanac-calendar/main/holidays_calendar.ics"><em>订阅</em></a></td><td>zqzess</td>
+		<td > 1 </td> <td ><a href="https://raw.githubusercontent.com/zqzess/holiday-and-chinese-almanac-calendar/main/holidays_calendar.ics">黄历订阅</a></td><td><a href="https://github.com/zqzess/holiday-and-chinese-almanac-calendar">zqzess</td>
     </tr>
 	<tr>
 		<td colspan="4">  </td>
