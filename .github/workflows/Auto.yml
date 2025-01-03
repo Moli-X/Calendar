@@ -118,25 +118,17 @@ jobs:
     - name: 修改并移动所有天气文件
       run: |
         mkdir -p Calendar-repo/Weather
-          mkdir -p "Calendar-repo/Weather/$city_name"  # 创建城市对应的文件夹
+        
+        # 遍历 Record 文件夹中的所有 .ics 文件
+        for file_path in Calendar-repo/Weather/Record/*.ics; do
+          file_name=$(basename "$file_path")  # 提取文件名
+          city_name="${file_name%.ics}"  # 去掉后缀作为城市名
 
-          # 删除指定的行
+          # 创建城市对应的文件夹
+          mkdir -p "Calendar-repo/Weather/$city_name"  
+          # 删除指定的 URL 行
           sed -i '/URL;VALUE=URI:https:\/\/www\.vejnoe\.dk\s*/d' "$file_path"
-          # 风向翻译
-          sed -i \
-            -e 's/from N/北/g' \
-            -e 's/from S/南/g' \
-            -e 's/from E/东/g' \
-            -e 's/from W/西/g' \
-            -e 's/from NE/东北/g' \
-            -e 's/from NW/西北/g' \
-            -e 's/from SE/东南/g' \
-            -e 's/from SW/西南/g' \
-            -e 's/from NNW/北偏西/g' \
-            -e 's/from NNE/北偏东/g' \
-            -e 's/from SSW/南偏西/g' \
-            -e 's/from SSE/南偏东/g' \
-            "$file_path"
+
           # 针对其他天气描述的替换规则
           sed -i \
             -e 's/Overcast clouds/多云/g' \
@@ -156,14 +148,31 @@ jobs:
             -e 's/Wind speed up to/风速/g' \
             -e 's/Pressure/气压/g' \
             -e 's/View full weather report/其他城市天气订阅/g' \
-            # -e 's|https://openweathermap.org/city/[0-9]\+|https://github.com/Moli-X/Calendar/tree/main/Weather|g'
+            -e 's/https:\/\/openweathermap.org\/city\/[0-9]\+/https:\/\/github.com\/Moli-X\/Calendar\/tree\/main\/Weather/g' \
             -e 's/Thanks for using Weather in Your Calendar, please consider supporting/更多日历订阅请点击/g' \
             -e 's/https:\/\/weather-in-calendar.com/https:\/\/github.com\/Moli-X\/Calendar/g' \
+            "$file_path"
+ 
+         # 风向翻译
+          sed -i \
+            -e 's/from N/北/g' \
+            -e 's/from S/南/g' \
+            -e 's/from E/东/g' \
+            -e 's/from W/西/g' \
+            -e 's/from NE/东北/g' \
+            -e 's/from NW/西北/g' \
+            -e 's/from SE/东南/g' \
+            -e 's/from SW/西南/g' \
+            -e 's/from NNW/北偏西/g' \
+            -e 's/from NNE/北偏东/g' \
+            -e 's/from SSW/南偏西/g' \
+            -e 's/from SSE/南偏东/g' \
             "$file_path"
 
           # 将修改后的文件移动到目标目录
           mv "$file_path" "Calendar-repo/Weather/$city_name/$file_name"
         done
+
     # 添加Commits
     - name: 添加Commits
       run: |
