@@ -18,6 +18,15 @@
 | -- |
 <img src="https://github.com/Moli-X/Calendar/blob/main/Icon/Weather3.png" width="325px" height="500px">|
 
+<table>
+  <tr>
+    <td><img src="https://github.com/Moli-X/Calendar/raw/main/Icon/Weather1.png" width="325px" height="500px"></td>
+    <td><img src="https://github.com/Moli-X/Calendar/blob/main/Icon/Weather2.png" width="325px" height="500px"></td>
+    <td><img src="https://github.com/Moli-X/Calendar/blob/main/Icon/Weather3.png" width="325px" height="500px"></td>
+  </tr>
+</table>
+
+
 
 ## 天气添加: [莫离-机器人](https://t.me/GodMoliibot)
 <table>
