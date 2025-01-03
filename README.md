@@ -1,9 +1,9 @@
 # Weather
 <a href="https://t.me/GodMoliibot"><img src="https://raw.githubusercontent.com/Moli-X/Resources/main/Icon/Image/Hello.gif" width="20%" height="20%"></a>
 
-## TG Channel：
-https://t.me/QuantX
+## TG Channel：https://t.me/QuantX
 
+## 订阅预览
 |订阅预览 1|订阅预览 2|
 | -- | -- |
 |<img height="500" alt="image" src="https://github.com/Moli-X/Calendar/raw/main/Icon/Weather1.png">|<img height="500" alt="image" src="https://github.com/Moli-X/Calendar/blob/main/Icon/Weather2.png">|
