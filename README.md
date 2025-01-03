@@ -6,7 +6,7 @@
 ### TG Channel: [莫离-万事屋](https://t.me/QuantX)
 
 ## 订阅预览
-|订阅预览 1|天气预览 2|备注预览 3|
+|订阅预览|天气预览|备注预览|
 | -- | -- | -- |
 |<img src="https://github.com/Moli-X/Calendar/raw/main/Icon/Weather1.png" width="100%" height="100%" >|<img src="https://github.com/Moli-X/Calendar/blob/main/Icon/Weather2.png" width="100%" height="100%">|<img src="https://github.com/Moli-X/Calendar/blob/main/Icon/Weather3.png" width="100%" height="100%">|
 
