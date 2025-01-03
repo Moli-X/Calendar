@@ -28,25 +28,30 @@ jobs:
         token: ${{ secrets.GitHub_TOKEN }}  
     
 
-    # 复刻假期原始文件
-    - name: 复刻假期原始文件
+    - name: Download ChinaHolidays.ics
       run: |
-        mkdir -p Calendar-repo/Holiday
-        curl -L --retry 3 --max-time 60 -o Calendar-repo/Holiday/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics"
-
-    # 重命名文件并解压
-    - name: Rename and Unzip ChinaHolidays.ics
-      run: |
-        mv Calendar-repo/Holiday/ChinaHolidays.ics Calendar-repo/Holiday/ChinaHolidays.ics.gz
-        gzip -d Calendar-repo/Holiday/ChinaHolidays.ics.gz
-        # 确认解压是否成功
+        curl -L -o Calendar-repo/Holiday/ChinaHolidays.ics "https://calendars.icloud.com/holidays/cn_zh.ics"
+        # 确保文件已经下载
         ls -l Calendar-repo/Holiday/
-        # 显示解压后的文件路径，检查是否已生成
 
-    # Check and convert encoding to UTF-8
+    - name: Check file type and attempt decompression
+      run: |
+        # 检查文件是否是gzip压缩文件
+        file Calendar-repo/Holiday/ChinaHolidays.ics
+        # 如果是gzip文件，解压它
+        if file Calendar-repo/Holiday/ChinaHolidays.ics | grep -q "gzip compressed data"; then
+          echo "Gzip file detected, decompressing..."
+          mv Calendar-repo/Holiday/ChinaHolidays.ics Calendar-repo/Holiday/ChinaHolidays.ics.gz
+          gzip -d Calendar-repo/Holiday/ChinaHolidays.ics.gz
+          # 确保解压后文件存在
+          ls -l Calendar-repo/Holiday/
+        else
+          echo "Not a gzip file, skipping decompression."
+        fi
+
     - name: Convert ChinaHolidays.ics encoding to UTF-8
       run: |
-        # 确保文件已经解压，并检查编码
+        # 确保文件存在并检查编码
         file Calendar-repo/Holiday/ChinaHolidays
         # 转换编码为 UTF-8
         iconv -f WINDOWS-1252 -t UTF-8 Calendar-repo/Holiday/ChinaHolidays -o Calendar-repo/Holiday/ChinaHolidays_utf8.ics
