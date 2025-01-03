@@ -27,7 +27,7 @@ jobs:
         token: ${{ secrets.GitHub_TOKEN }}  
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v3
       with:
         python-version: '3.x'
 
@@ -41,7 +41,7 @@ jobs:
         python Config/GenerateHoliday.py  # 修改为正确路径
 
     - name: Upload ICS file as artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: china-holidays-ics
         path: Config/china_holidays_*.ics  # 修改为正确路径
