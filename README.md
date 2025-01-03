@@ -1,7 +1,7 @@
 # Weather
 <a href="https://t.me/GodMoliibot"><img src="https://raw.githubusercontent.com/Moli-X/Resources/main/Icon/Image/Hello.gif" width="20%" height="20%"></a>
 ### 数据来源于: [OpenWeatherMap](https://openweathermap.org)
-### 项目简介:https://github.com/Moli-X/Calendar/blob/main/Weather/Readme.md
+### 项目简介: [简介](https://github.com/Moli-X/Calendar/blob/main/Weather/Readme.md)
 
 ### TG Channel: [莫离-万事屋](https://t.me/QuantX)
 
