@@ -24,16 +24,11 @@
 
 
 ### 天气添加: [莫离-机器人](https://t.me/GodMoliibot)
-<table style="width: 100%; border-collapse: collapse;">
-    <colgroup>
-        <col style="width: 30%;">
-        <col style="width: 20%;">
-        <col style="width: 50%;">
-    </colgroup>
+<table style="width: 100%; table-layout: fixed;">
     <tr>
-        <th>类别</th>
-        <th>序号</th>
-        <th>订阅链接</th>
+        <th style="width: 30%;">类别</th>
+        <th style="width: 20%;">序号</th>
+        <th style="width: 50%;">订阅链接</th>
     </tr>
     <tr>
         <td rowspan="109"><strong>天气订阅</strong></td>
@@ -474,16 +469,11 @@
 </table>
 
 ### 新增地区
-<table style="width: 100%; border-collapse: collapse;">
-    <colgroup>
-        <col style="width: 30%;">
-        <col style="width: 20%;">
-        <col style="width: 50%;">
-    </colgroup>
+<table style="width: 100%; table-layout: fixed;">
     <tr>
-        <th>类别</th>
-        <th>序号</th>
-        <th>订阅链接</th>
+        <th style="width: 30%;">类别</th>
+        <th style="width: 20%;">序号</th>
+        <th style="width: 50%;">订阅链接</th>
     </tr>
     <tr>
         <td rowspan="3"><strong>新增地区</strong></td>
