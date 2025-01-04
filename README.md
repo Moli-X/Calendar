@@ -26,20 +26,20 @@
 ### 天气添加: [莫离-机器人](https://t.me/GodMoliibot)
 <style>
     table {
-        width: 100%; /* 强制宽度一致 */
-        border-collapse: collapse; /* 去掉边框间的空隙 */
-        table-layout: auto; /* 列宽根据内容自适应 */
+        width: 100%; /* 表格宽度一致 */
+        border-collapse: collapse; /* 去掉边框空隙 */
+        table-layout: fixed; /* 强制固定列宽 */
     }
 
     th, td {
-        border: 1px solid #ddd; /* 添加表格边框 */
-        padding: 8px; /* 内边距，增加表格美观 */
-        text-align: left; /* 左对齐，清晰易读 */
-        word-break: break-word; /* 内容换行，防止长链接撑开 */
+        border: 1px solid #ddd; /* 添加边框 */
+        padding: 8px;
+        text-align: left;
+        word-break: break-word; /* 超长内容换行 */
     }
 
     th {
-        background-color: #f9f9f9; /* 表头背景色 */
+        background-color: #f9f9f9;
     }
 </style>
 <table style="width: 100%; table-layout: fixed;">
