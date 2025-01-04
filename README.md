@@ -462,6 +462,10 @@
 	<tr>
 		<td colspan="4">  </td>
     </tr>
+
+</table>
+<table>
+    <tr> <th> 类别 </th> <th> 序号 </th>  <th> 订阅链接 </th>  </tr >
     <tr>
         <td rowspan="3"><strong>新增地区</strong></td>
         <td>1</td>
@@ -478,11 +482,7 @@
 	<tr>
 		<td colspan="4">  </td>
     </tr>
-    
 </table>
-
-
-
 
 
 ## ------------------------------------------------------[⬆️回到顶部⬆️](#Weather)	
