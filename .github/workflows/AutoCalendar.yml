@@ -1,4 +1,4 @@
-# 更新日期：2025-01-03
+# 更新日期：2025-01-04
 name: AutoCalendar
 
 on:
@@ -77,7 +77,7 @@ jobs:
           "kunming" "kaiyuan" "kaili" "kaifeng"
           
           # L
-          "lianyungang" "lijiang" "longyan" "liangping" "luzhou"
+          "lianyungang" "lijiang" "longyan" "liangping" "luzhou" "leshan"
           
           # M
           "meizhou" "mianyang" "macau"
