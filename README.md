@@ -42,11 +42,17 @@
         background-color: #f9f9f9;
     }
 </style>
-<table style="width: 100%; table-layout: fixed;">
+
+<table>
+    <colgroup>
+        <col style="width: 20%;"> <!-- 第一列宽度 -->
+        <col style="width: 10%;"> <!-- 第二列宽度 -->
+        <col style="width: 70%;"> <!-- 第三列宽度 -->
+    </colgroup>
     <tr>
-        <th style="width: 30%;">类别</th>
-        <th style="width: 20%;">序号</th>
-        <th style="width: 50%;">订阅链接</th>
+        <th>类别</th>
+        <th>序号</th>
+        <th>订阅链接</th>
     </tr>
     <tr>
         <td rowspan="109"><strong>天气订阅</strong></td>
