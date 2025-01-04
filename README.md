@@ -6,7 +6,7 @@
 
 ### TG Channel: [莫离-万事屋](https://t.me/QuantX)
 
-## 订阅预览
+### 订阅预览
 |订阅预览|
 | -- |
 |<img src="https://github.com/Moli-X/Calendar/raw/main/Icon/Weather1.png" width="325px" height="500px" >|
@@ -23,7 +23,7 @@
 
 
 
-## 天气添加: [莫离-机器人](https://t.me/GodMoliibot)
+### 天气添加: [莫离-机器人](https://t.me/GodMoliibot)
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th>  <th> 订阅链接 </th>  </tr >
     <tr>
