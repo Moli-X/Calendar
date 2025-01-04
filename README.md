@@ -1,6 +1,8 @@
 # Weather
 <a href="https://t.me/GodMoliibot"><img src="https://raw.githubusercontent.com/Moli-X/Resources/main/Icon/Image/Hello.gif" width="20%" height="20%"></a>
+
 ### 数据来源于: [OpenWeatherMap](https://openweathermap.org)
+
 ### 项目简介: [简介](https://github.com/Moli-X/Calendar/blob/main/Weather/Readme.md)
 ### 日历订阅添加:[教程](https://github.com/Moli-X/Calendar/blob/main/Weather/Method.md)
 
@@ -20,10 +22,7 @@
 <img src="https://github.com/Moli-X/Calendar/raw/main/Icon/Weather3.png" width="325px" height="500px">|
 
 
-
-
-
-### 天气添加: [莫离-机器人](https://t.me/GodMoliibot)
+### 日历添加: [莫离-机器人](https://t.me/GodMoliibot)
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th>  <th> 订阅链接 </th>  </tr >
     <tr>
