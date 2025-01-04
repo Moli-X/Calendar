@@ -24,36 +24,8 @@
 
 
 ### 天气添加: [莫离-机器人](https://t.me/GodMoliibot)
-<style>
-    table {
-        width: 100%; /* 表格宽度一致 */
-        border-collapse: collapse; /* 去掉边框空隙 */
-        table-layout: fixed; /* 强制固定列宽 */
-    }
-
-    th, td {
-        border: 1px solid #ddd; /* 添加边框 */
-        padding: 8px;
-        text-align: left;
-        word-break: break-word; /* 超长内容换行 */
-    }
-
-    th {
-        background-color: #f9f9f9;
-    }
-</style>
-
 <table>
-    <colgroup>
-        <col style="width: 20%;"> <!-- 第一列宽度 -->
-        <col style="width: 10%;"> <!-- 第二列宽度 -->
-        <col style="width: 70%;"> <!-- 第三列宽度 -->
-    </colgroup>
-    <tr>
-        <th>类别</th>
-        <th>序号</th>
-        <th>订阅链接</th>
-    </tr>
+    <tr> <th> 类别 </th> <th> 序号 </th>  <th> 订阅链接 </th>  </tr >
     <tr>
         <td rowspan="109"><strong>天气订阅</strong></td>
         <td>1</td>
@@ -173,7 +145,7 @@
     </tr>
     <tr>
         <td>30</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/guangxi/guangxi.ics">广西壮族自治区天气订阅</a></td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/guangxi/guangxi.ics">广西天气订阅</a></td>
     </tr>
     <tr>
         <td>31</td>
@@ -257,7 +229,7 @@
     </tr>
     <tr>
         <td>51</td>
-        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/macau/macau.ics">澳门特别行政区天气订阅</a></td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/macau/macau.ics">澳门天气订阅</a></td>
     </tr>
     <tr>
         <td>52</td>
@@ -493,12 +465,8 @@
 </table>
 
 ### 新增地区
-<table style="width: 100%; table-layout: fixed;">
-    <tr>
-        <th style="width: 30%;">类别</th>
-        <th style="width: 20%;">序号</th>
-        <th style="width: 50%;">订阅链接</th>
-    </tr>
+<table>
+    <tr> <th> 类别 </th> <th> 序号 </th>  <th> 订阅链接 </th>  </tr >
     <tr>
         <td rowspan="3"><strong>新增地区</strong></td>
         <td>1</td>
