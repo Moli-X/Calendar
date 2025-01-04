@@ -463,13 +463,17 @@
 		<td colspan="4">  </td>
     </tr>
     <tr>
-        <td rowspan="2"><strong>新增地区</strong></td>
+        <td rowspan="3"><strong>新增地区</strong></td>
         <td>1</td>
         <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/shantou/shantou.ics">汕头市天气订阅</a></td>
     </tr>
 	 <tr>
         <td>2</td>
         <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/kaifeng/kaifeng.ics">开封市天气订阅</a></td>
+    </tr>
+	 <tr>
+        <td>3</td>
+        <td><a href="https://github.com/Moli-X/Calendar/raw/main/Weather/leshan/leshan.ics">乐山市天气订阅</a></td>
     </tr>
 	<tr>
 		<td colspan="4">  </td>
