@@ -134,5 +134,6 @@
 | 1 | 汕头市 | [汕头市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/shantou/shantou.ics) |
 | 2 | 开封市 | [开封市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/kaifeng/kaifeng.ics) |
 | 3 | 乐山市 | [乐山市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/leshan/leshan.ics) |
+| 4 | 常州市 | [乐山市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/changzhou/lcahngzhou.ics) |
 
 -----------------------------[⬆️回到顶部⬆️](#weather)
