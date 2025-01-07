@@ -83,7 +83,7 @@ jobs:
           "meizhou" "mianyang" "macau"
           
           # N
-          "nanjing" "nanchang" "nanning" "nanyang" "ningbo"
+          "nanjing" "nanchang" "nanning" "nanyang" "ningbo" "nantong"
           
           # P
           "pingdingshan" "pingxiang" "putian" "pingyang"
@@ -95,7 +95,7 @@ jobs:
           "shenzhen" "shanghai" "suzhou" "shijiazhuang" "shaoxing"  "shantou"
           
           # T
-          "tianjin" "taiyuan" "taizhou" "tonghua" "taian"
+          "tianjin" "taiyuan" "taizhou" "tonghua" "taian" "tianmen"
           
           # W
           "wuhan" "wenzhou" "weifang" "wulumuqi" "wuxi"  "wuhu"
