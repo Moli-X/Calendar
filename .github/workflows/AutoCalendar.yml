@@ -107,7 +107,7 @@ jobs:
           "yantai" "yichang" "yuxi" "yibin" "yuncheng" "yinchuan" 
           
           # Z
-          "zhuhai" "zhengzhou" "zunyi" "zhongshan" "zibo" "zhoukou" "zhangjiajie" "zhangzhou" "zhenjiang" "zhumadian" "zhongwei" "zigong" "zhanjiang" "zhangye" "zhangjiakou" "zhoushan" "zhuji" "zhanghe" 
+          "zhuhai" "zhengzhou" "zunyi" "zhongshan" "zibo" "zhoukou" "zhangjiajie" "zhangzhou" "zhenjiang" "zhumadian" "zhongwei" "zigong" "zhanjiang" "zhangye" "zhangjiakou" "zhoushan" "zhuji" "zhanghe"  "zhaoqing" 
         )
         
         # 下载每个城市的天气数据
