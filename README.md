@@ -138,6 +138,6 @@
 | 5 | 天门市 | [天门市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/tianmen/tianmen.ics) |
 | 6 | 南通市 | [南通市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/nantong/nantong.ics) |
 | 7 | 德阳市 | [德阳市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/deyang/deyang.ics) |
-| 7 | 德阳市 | [德阳市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/zhaoqing/zhaoqing.ics) |
+| 7 | 肇庆市 | [肇庆市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/zhaoqing/zhaoqing.ics) |
 
 -----------------------------[⬆️回到顶部⬆️](#weather)
