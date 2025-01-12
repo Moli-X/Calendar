@@ -139,6 +139,6 @@
 | 6 | 南通市 | [南通市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/nantong/nantong.ics) |
 | 7 | 德阳市 | [德阳市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/deyang/deyang.ics) |
 | 8 | 肇庆市 | [肇庆市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/zhaoqing/zhaoqing.ics) |
-| 9 | 龙泉市 | [龙泉天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/longquan/longquan.ics) |
+| 9 | 龙泉市 | [龙泉市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/longquan/longquan.ics) |
 
 -----------------------------[⬆️回到顶部⬆️](#weather)
