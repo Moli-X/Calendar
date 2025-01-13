@@ -141,5 +141,6 @@
 | 8 | 肇庆市 | [肇庆市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/zhaoqing/zhaoqing.ics) |
 | 9 | 龙泉市 | [龙泉市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/longquan/longquan.ics) |
 | 10 | 许昌市 | [许昌市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/xuchang/xuchang.ics) |
+| 11 | 盐城市 | [盐城市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/yancheng/yancheng.ics) |
 
 -----------------------------[⬆️回到顶部⬆️](#weather)
