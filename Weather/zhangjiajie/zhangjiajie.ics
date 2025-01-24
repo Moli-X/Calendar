@@ -5,227 +5,227 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 13°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20250123@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
-DTSTART;VALUE=DATE:20250123
-LOCATION:Zhangjiajie
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20250124
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:31 日落 18:08\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 42%\n\n💨 风速 1 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 9°
+SUMMARY;LANGUAGE=en:🌦️ 7°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250124@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
+DTSTAMP;VALUE=DATE:20250124T005028
 DTSTART;VALUE=DATE:20250124
 LOCATION:Zhangjiajie
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250125
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 7:30 日落 18:09\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 89%\n\n💨 风速 2 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 7:30 日落 18:09\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 90%\n\n💨 风速 2 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 7°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250125@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
+DTSTAMP;VALUE=DATE:20250124T005028
 DTSTART;VALUE=DATE:20250125
 LOCATION:Zhangjiajie
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250126
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 7:30 日落 18:10\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 91%\n\n💨 风速 2 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 7:30 日落 18:10\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 92%\n\n💨 风速 2 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 6°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250126@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
+DTSTAMP;VALUE=DATE:20250124T005028
 DTSTART;VALUE=DATE:20250126
 LOCATION:Zhangjiajie
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250127
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:29 日落 18:10\n\n⚡️ 气压 1036 hPa\n\n💧 湿度 92%\n\n💨 风速 1 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:29 日落 18:10\n\n⚡️ 气压 1036 hPa\n\n💧 湿度 88%\n\n💨 风速 1 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 9°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250127@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
+DTSTAMP;VALUE=DATE:20250124T005028
 DTSTART;VALUE=DATE:20250127
 LOCATION:Zhangjiajie
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250128
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:29 日落 18:11\n\n⚡️ 气压 1032 hPa\n\n💧 湿度 63%\n\n💨 风速 1 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:29 日落 18:11\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 63%\n\n💨 风速 1 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 9°
+SUMMARY;LANGUAGE=en:☀️ 9°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250128@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
+DTSTAMP;VALUE=DATE:20250124T005028
 DTSTART;VALUE=DATE:20250128
 LOCATION:Zhangjiajie
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250129
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:29 日落 18:12\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 47%\n\n💨 风速 0 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:29 日落 18:12\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 51%\n\n💨 风速 1 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 12°
+SUMMARY;LANGUAGE=en:☁️ 12°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250129@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
+DTSTAMP;VALUE=DATE:20250124T005028
 DTSTART;VALUE=DATE:20250129
 LOCATION:Zhangjiajie
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250130
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:28 日落 18:13\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 40%\n\n💨 风速 1 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:28 日落 18:13\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 45%\n\n💨 风速 1 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 8°
+SUMMARY;LANGUAGE=en:🌦️ 9°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250130@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
+DTSTAMP;VALUE=DATE:20250124T005028
 DTSTART;VALUE=DATE:20250130
 LOCATION:Zhangjiajie
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250131
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 7:28 日落 18:14\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 90%\n\n💨 风速 1 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 7:28 日落 18:14\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 89%\n\n💨 风速 2 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 7°
+SUMMARY;LANGUAGE=en:🌦️ 8°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250131@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
+DTSTAMP;VALUE=DATE:20250124T005028
 DTSTART;VALUE=DATE:20250131
 LOCATION:Zhangjiajie
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250201
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:27 日落 18:15\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 94%\n\n💨 风速 1 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:27 日落 18:15\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 52%\n\n💨 风速 3 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 6°
+SUMMARY;LANGUAGE=en:⛈️ 4°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250201@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
+DTSTAMP;VALUE=DATE:20250124T005028
 DTSTART;VALUE=DATE:20250201
 LOCATION:Zhangjiajie
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250202
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:27 日落 18:16\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 54%\n\n💨 风速 3 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:⛈️ 下雪\n\n🌅 日出 7:27 日落 18:16\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 58%\n\n💨 风速 1 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 5°
+SUMMARY;LANGUAGE=en:⛈️ 2°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250202@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
+DTSTAMP;VALUE=DATE:20250124T005028
 DTSTART;VALUE=DATE:20250202
 LOCATION:Zhangjiajie
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250203
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:26 日落 18:16\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 74%\n\n💨 风速 1 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:⛈️ 下雪\n\n🌅 日出 7:26 日落 18:16\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 95%\n\n💨 风速 1 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 7°
+SUMMARY;LANGUAGE=en:☁️ 5°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250203@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
+DTSTAMP;VALUE=DATE:20250124T005028
 DTSTART;VALUE=DATE:20250203
 LOCATION:Zhangjiajie
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250204
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:25 日落 18:17\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 70%\n\n💨 风速 1 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:25 日落 18:17\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 85%\n\n💨 风速 0 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 10°
+SUMMARY;LANGUAGE=en:⛈️ 4°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250204@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
+DTSTAMP;VALUE=DATE:20250124T005028
 DTSTART;VALUE=DATE:20250204
 LOCATION:Zhangjiajie
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250205
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:25 日落 18:18\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 46%\n\n💨 风速 1 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 7:25 日落 18:18\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 95%\n\n💨 风速 3 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 9°
+SUMMARY;LANGUAGE=en:☁️ 4°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250205@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
+DTSTAMP;VALUE=DATE:20250124T005028
 DTSTART;VALUE=DATE:20250205
 LOCATION:Zhangjiajie
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250206
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:24 日落 18:19\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 43%\n\n💨 风速 3 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:24 日落 18:19\n\n⚡️ 气压 1034 hPa\n\n💧 湿度 51%\n\n💨 风速 3 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 9°
+SUMMARY;LANGUAGE=en:⛈️ -0°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250206@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
+DTSTAMP;VALUE=DATE:20250124T005028
 DTSTART;VALUE=DATE:20250206
 LOCATION:Zhangjiajie
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250207
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:24 日落 18:20\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 41%\n\n💨 风速 1 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 7:24 日落 18:20\n\n⚡️ 气压 1032 hPa\n\n💧 湿度 89%\n\n💨 风速 2 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 5°
+SUMMARY;LANGUAGE=en:☀️ 6°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250207@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250123T005017
+DTSTAMP;VALUE=DATE:20250124T005028
 DTSTART;VALUE=DATE:20250207
 LOCATION:Zhangjiajie
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250208
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:23 日落 18:21\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 89%\n\n💨 风速 1 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:23 日落 18:21\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 47%\n\n💨 风速 0 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 9°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250208@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250124T005028
+DTSTART;VALUE=DATE:20250208
+LOCATION:Zhangjiajie
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250209
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:22 日落 18:21\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 57%\n\n💨 风速 1 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
