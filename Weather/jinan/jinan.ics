@@ -5,227 +5,227 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -3°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20250128@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
-DTSTART;VALUE=DATE:20250128
-LOCATION:Jinan
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20250129
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:17 日落 17:32\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 30%\n\n💨 风速 3 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 5°
+SUMMARY;LANGUAGE=en:☀️ 3°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250129@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
+DTSTAMP;VALUE=DATE:20250129T004959
 DTSTART;VALUE=DATE:20250129
 LOCATION:Jinan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250130
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:16 日落 17:33\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 20%\n\n💨 风速 2 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:16 日落 17:33\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 20%\n\n💨 风速 3 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 6°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250130@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
+DTSTAMP;VALUE=DATE:20250129T004959
 DTSTART;VALUE=DATE:20250130
 LOCATION:Jinan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250131
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:15 日落 17:34\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 33%\n\n💨 风速 2 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:15 日落 17:34\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 35%\n\n💨 风速 2 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 3°
+SUMMARY;LANGUAGE=en:☁️ 2°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250131@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
+DTSTAMP;VALUE=DATE:20250129T004959
 DTSTART;VALUE=DATE:20250131
 LOCATION:Jinan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250201
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:14 日落 17:35\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 71%\n\n💨 风速 4 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:14 日落 17:35\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 75%\n\n💨 风速 4 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 2°
+SUMMARY;LANGUAGE=en:☁️ 3°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250201@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
+DTSTAMP;VALUE=DATE:20250129T004959
 DTSTART;VALUE=DATE:20250201
 LOCATION:Jinan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250202
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:14 日落 17:36\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 88%\n\n💨 风速 3 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:14 日落 17:36\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 73%\n\n💨 风速 3 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 5°
+SUMMARY;LANGUAGE=en:☁️ 4°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250202@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
+DTSTAMP;VALUE=DATE:20250129T004959
 DTSTART;VALUE=DATE:20250202
 LOCATION:Jinan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250203
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:13 日落 17:37\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 50%\n\n💨 风速 6 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:13 日落 17:37\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 63%\n\n💨 风速 4 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 2°
+SUMMARY;LANGUAGE=en:☁️ 4°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250203@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
+DTSTAMP;VALUE=DATE:20250129T004959
 DTSTART;VALUE=DATE:20250203
 LOCATION:Jinan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250204
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:12 日落 17:39\n\n⚡️ 气压 1033 hPa\n\n💧 湿度 22%\n\n💨 风速 2 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:12 日落 17:39\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 33%\n\n💨 风速 3 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 4°
+SUMMARY;LANGUAGE=en:☁️ 1°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250204@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
+DTSTAMP;VALUE=DATE:20250129T004959
 DTSTART;VALUE=DATE:20250204
 LOCATION:Jinan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250205
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:11 日落 17:40\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 25%\n\n💨 风速 6 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:11 日落 17:40\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 21%\n\n💨 风速 5 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -4°
+SUMMARY;LANGUAGE=en:☁️ -4°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250205@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
+DTSTAMP;VALUE=DATE:20250129T004959
 DTSTART;VALUE=DATE:20250205
 LOCATION:Jinan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250206
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:10 日落 17:41\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 13%\n\n💨 风速 8 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:10 日落 17:41\n\n⚡️ 气压 1034 hPa\n\n💧 湿度 19%\n\n💨 风速 5 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -0°
+SUMMARY;LANGUAGE=en:☁️ -2°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250206@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
+DTSTAMP;VALUE=DATE:20250129T004959
 DTSTART;VALUE=DATE:20250206
 LOCATION:Jinan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250207
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:09 日落 17:42\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 12%\n\n💨 风速 6 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:09 日落 17:42\n\n⚡️ 气压 1035 hPa\n\n💧 湿度 19%\n\n💨 风速 3 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 3°
+SUMMARY;LANGUAGE=en:☀️ -0°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250207@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
+DTSTAMP;VALUE=DATE:20250129T004959
 DTSTART;VALUE=DATE:20250207
 LOCATION:Jinan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250208
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:08 日落 17:43\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 29%\n\n💨 风速 4 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:08 日落 17:43\n\n⚡️ 气压 1034 hPa\n\n💧 湿度 16%\n\n💨 风速 3 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -0°
+SUMMARY;LANGUAGE=en:☁️ 2°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250208@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
+DTSTAMP;VALUE=DATE:20250129T004959
 DTSTART;VALUE=DATE:20250208
 LOCATION:Jinan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250209
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:08 日落 17:44\n\n⚡️ 气压 1034 hPa\n\n💧 湿度 16%\n\n💨 风速 3 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:08 日落 17:44\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 16%\n\n💨 风速 3 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 3°
+SUMMARY;LANGUAGE=en:☁️ 5°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250209@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
+DTSTAMP;VALUE=DATE:20250129T004959
 DTSTART;VALUE=DATE:20250209
 LOCATION:Jinan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250210
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:07 日落 17:45\n\n⚡️ 气压 1032 hPa\n\n💧 湿度 18%\n\n💨 风速 3 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:07 日落 17:45\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 39%\n\n💨 风速 3 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 5°
+SUMMARY;LANGUAGE=en:☁️ 3°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250210@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
+DTSTAMP;VALUE=DATE:20250129T004959
 DTSTART;VALUE=DATE:20250210
 LOCATION:Jinan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250211
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:06 日落 17:46\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 35%\n\n💨 风速 5 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:06 日落 17:46\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 21%\n\n💨 风速 2 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 1°
+SUMMARY;LANGUAGE=en:☀️ 7°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250211@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
+DTSTAMP;VALUE=DATE:20250129T004959
 DTSTART;VALUE=DATE:20250211
 LOCATION:Jinan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250212
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:05 日落 17:47\n\n⚡️ 气压 1032 hPa\n\n💧 湿度 18%\n\n💨 风速 4 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:05 日落 17:47\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 18%\n\n💨 风速 4 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 4°
+SUMMARY;LANGUAGE=en:☁️ 7°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250212@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250128T004959
+DTSTAMP;VALUE=DATE:20250129T004959
 DTSTART;VALUE=DATE:20250212
 LOCATION:Jinan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250213
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:03 日落 17:48\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 17%\n\n💨 风速 3 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:03 日落 17:48\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 19%\n\n💨 风速 6 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 6°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250213@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250129T004959
+DTSTART;VALUE=DATE:20250213
+LOCATION:Jinan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250214
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:02 日落 17:49\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 13%\n\n💨 风速 6 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
