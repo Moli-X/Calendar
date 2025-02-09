@@ -5,25 +5,25 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 16°
+SUMMARY;LANGUAGE=en:☁️ 11°/18°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250209@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250209
 LOCATION:Zhanjiang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250210
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:12 日落 18:33\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 38%\n\n💨 风速 5 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:12 日落 18:33\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 34%\n\n💨 风速 5 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 18°
+SUMMARY;LANGUAGE=en:☁️ 14°/21°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250210@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250210
 LOCATION:Zhanjiang
  
@@ -33,11 +33,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:12 日落 18:33\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 64%\n\n💨 风速 6 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 20°
+SUMMARY;LANGUAGE=en:☁️ 17°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250211@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250211
 LOCATION:Zhanjiang
  
@@ -47,25 +47,25 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:11 日落 18:34\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 70%\n\n💨 风速 7 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 21°
+SUMMARY;LANGUAGE=en:🌦️ 18°/21°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250212@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250212
 LOCATION:Zhanjiang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250213
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:11 日落 18:34\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 80%\n\n💨 风速 5 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:11 日落 18:34\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 80%\n\n💨 风速 5 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 21°
+SUMMARY;LANGUAGE=en:🌦️ 18°/21°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250213@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250213
 LOCATION:Zhanjiang
  
@@ -75,11 +75,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:10 日落 18:35\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 80%\n\n💨 风速 7 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 20°
+SUMMARY;LANGUAGE=en:🌦️ 18°/20°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250214@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250214
 LOCATION:Zhanjiang
  
@@ -89,11 +89,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:10 日落 18:35\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 80%\n\n💨 风速 7 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 20°
+SUMMARY;LANGUAGE=en:🌦️ 18°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250215@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250215
 LOCATION:Zhanjiang
  
@@ -103,11 +103,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:09 日落 18:36\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 85%\n\n💨 风速 6 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 19°
+SUMMARY;LANGUAGE=en:☁️ 17°/24°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250216@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250216
 LOCATION:Zhanjiang
  
@@ -117,11 +117,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:08 日落 18:36\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 64%\n\n💨 风速 4 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 21°
+SUMMARY;LANGUAGE=en:☁️ 18°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250217@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250217
 LOCATION:Zhanjiang
  
@@ -131,11 +131,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:08 日落 18:37\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 68%\n\n💨 风速 5 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 20°
+SUMMARY;LANGUAGE=en:☁️ 18°/21°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250218@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250218
 LOCATION:Zhanjiang
  
@@ -145,11 +145,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:07 日落 18:37\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 70%\n\n💨 风速 8 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 21°
+SUMMARY;LANGUAGE=en:☁️ 18°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250219@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250219
 LOCATION:Zhanjiang
  
@@ -159,11 +159,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:06 日落 18:38\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 68%\n\n💨 风速 10 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 20°
+SUMMARY;LANGUAGE=en:☁️ 17°/21°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250220@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250220
 LOCATION:Zhanjiang
  
@@ -173,11 +173,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:06 日落 18:38\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 64%\n\n💨 风速 6 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 21°
+SUMMARY;LANGUAGE=en:☀️ 17°/21°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250221@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250221
 LOCATION:Zhanjiang
  
@@ -187,11 +187,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:05 日落 18:39\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 51%\n\n💨 风速 7 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 22°
+SUMMARY;LANGUAGE=en:☁️ 17°/23°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250222@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250222
 LOCATION:Zhanjiang
  
@@ -201,11 +201,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:04 日落 18:39\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 52%\n\n💨 风速 7 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 20°
+SUMMARY;LANGUAGE=en:☁️ 17°/24°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250223@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250223
 LOCATION:Zhanjiang
  
@@ -215,11 +215,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:04 日落 18:40\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 55%\n\n💨 风速 9 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 19°
+SUMMARY;LANGUAGE=en:☀️ 13°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250224@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005419
+DTSTAMP;VALUE=DATE:20250209T095441
 DTSTART;VALUE=DATE:20250224
 LOCATION:Zhanjiang
  

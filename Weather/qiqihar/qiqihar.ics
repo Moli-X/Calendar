@@ -5,25 +5,25 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -18°
+SUMMARY;LANGUAGE=en:☀️ -27°/-14°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250209@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250209
 LOCATION:Qiqihar
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250210
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:59 日落 16:57\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 75%\n\n💨 风速 3 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:59 日落 16:57\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 71%\n\n💨 风速 3 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ -17°
+SUMMARY;LANGUAGE=en:🌤️ -29°/-13°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250210@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250210
 LOCATION:Qiqihar
  
@@ -33,11 +33,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 6:57 日落 16:58\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 73%\n\n💨 风速 2 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:⛈️ -13°
+SUMMARY;LANGUAGE=en:⛈️ -27°/-10°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250211@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250211
 LOCATION:Qiqihar
  
@@ -47,25 +47,25 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:⛈️ 小雪\n\n🌅 日出 6:56 日落 17:00\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 79%\n\n💨 风速 4 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -12°
+SUMMARY;LANGUAGE=en:☀️ -22°/-9°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250212@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250212
 LOCATION:Qiqihar
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250213
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:54 日落 17:02\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 71%\n\n💨 风速 6 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:54 日落 17:02\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 71%\n\n💨 风速 6 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -7°
+SUMMARY;LANGUAGE=en:☀️ -19°/-5°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250213@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250213
 LOCATION:Qiqihar
  
@@ -75,11 +75,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:53 日落 17:03\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 69%\n\n💨 风速 5 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -7°
+SUMMARY;LANGUAGE=en:☀️ -16°/-5°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250214@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250214
 LOCATION:Qiqihar
  
@@ -89,11 +89,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:51 日落 17:05\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 66%\n\n💨 风速 4 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ -6°
+SUMMARY;LANGUAGE=en:☁️ -12°/-5°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250215@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250215
 LOCATION:Qiqihar
  
@@ -103,11 +103,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:50 日落 17:06\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 86%\n\n💨 风速 5 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:⛈️ -8°
+SUMMARY;LANGUAGE=en:⛈️ -14°/-6°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250216@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250216
 LOCATION:Qiqihar
  
@@ -117,11 +117,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:⛈️ 小雪\n\n🌅 日出 6:48 日落 17:08\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 78%\n\n💨 风速 8 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -7°
+SUMMARY;LANGUAGE=en:☀️ -16°/-5°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250217@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250217
 LOCATION:Qiqihar
  
@@ -131,11 +131,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:46 日落 17:09\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 75%\n\n💨 风速 4 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -7°
+SUMMARY;LANGUAGE=en:☀️ -18°/-6°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250218@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250218
 LOCATION:Qiqihar
  
@@ -145,11 +145,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:45 日落 17:11\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 75%\n\n💨 风速 4 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -10°
+SUMMARY;LANGUAGE=en:☀️ -21°/-7°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250219@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250219
 LOCATION:Qiqihar
  
@@ -159,11 +159,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:43 日落 17:13\n\n⚡️ 气压 1036 hPa\n\n💧 湿度 76%\n\n💨 风速 3 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -11°
+SUMMARY;LANGUAGE=en:☀️ -24°/-8°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250220@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250220
 LOCATION:Qiqihar
  
@@ -173,11 +173,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:41 日落 17:14\n\n⚡️ 气压 1036 hPa\n\n💧 湿度 80%\n\n💨 风速 1 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ -11°
+SUMMARY;LANGUAGE=en:☁️ -23°/-8°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250221@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250221
 LOCATION:Qiqihar
  
@@ -187,11 +187,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:39 日落 17:16\n\n⚡️ 气压 1035 hPa\n\n💧 湿度 84%\n\n💨 风速 1 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ -9°
+SUMMARY;LANGUAGE=en:☁️ -17°/-8°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250222@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250222
 LOCATION:Qiqihar
  
@@ -201,11 +201,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:38 日落 17:17\n\n⚡️ 气压 1034 hPa\n\n💧 湿度 77%\n\n💨 风速 3 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -12°
+SUMMARY;LANGUAGE=en:☀️ -23°/-11°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250223@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250223
 LOCATION:Qiqihar
  
@@ -215,11 +215,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:36 日落 17:19\n\n⚡️ 气压 1036 hPa\n\n💧 湿度 75%\n\n💨 风速 5 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -15°
+SUMMARY;LANGUAGE=en:☀️ -28°/-12°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250224@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005357
+DTSTAMP;VALUE=DATE:20250209T095423
 DTSTART;VALUE=DATE:20250224
 LOCATION:Qiqihar
  
