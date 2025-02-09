@@ -5,25 +5,25 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ -2°
+SUMMARY;LANGUAGE=en:🌤️ -8°/3°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250209@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250209
 LOCATION:Xingtai
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250210
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 7:17 日落 17:54\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 15%\n\n💨 风速 2 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 7:17 日落 17:54\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 13%\n\n💨 风速 2 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 5°
+SUMMARY;LANGUAGE=en:☁️ -5°/8°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250210@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250210
 LOCATION:Xingtai
  
@@ -33,11 +33,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:16 日落 17:55\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 16%\n\n💨 风速 2 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 5°
+SUMMARY;LANGUAGE=en:☁️ -2°/8°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250211@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250211
 LOCATION:Xingtai
  
@@ -47,25 +47,25 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:15 日落 17:57\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 24%\n\n💨 风速 2 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 6°
+SUMMARY;LANGUAGE=en:☁️ 1°/8°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250212@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250212
 LOCATION:Xingtai
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250213
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:14 日落 17:58\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 12%\n\n💨 风速 8 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:14 日落 17:58\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 11%\n\n💨 风速 8 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ 8°
+SUMMARY;LANGUAGE=en:🌤️ -1°/11°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250213@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250213
 LOCATION:Xingtai
  
@@ -75,11 +75,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 7:13 日落 17:59\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 12%\n\n💨 风速 2 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 7°
+SUMMARY;LANGUAGE=en:☁️ 2°/9°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250214@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250214
 LOCATION:Xingtai
  
@@ -89,11 +89,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:12 日落 18:00\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 17%\n\n💨 风速 2 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 13°
+SUMMARY;LANGUAGE=en:☁️ 3°/17°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250215@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250215
 LOCATION:Xingtai
  
@@ -103,11 +103,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:11 日落 18:01\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 9%\n\n💨 风速 4 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 9°
+SUMMARY;LANGUAGE=en:☀️ 3°/11°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250216@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250216
 LOCATION:Xingtai
  
@@ -117,11 +117,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:10 日落 18:02\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 17%\n\n💨 风速 3 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 8°
+SUMMARY;LANGUAGE=en:☁️ 3°/13°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250217@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250217
 LOCATION:Xingtai
  
@@ -131,11 +131,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:08 日落 18:03\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 18%\n\n💨 风速 2 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 8°
+SUMMARY;LANGUAGE=en:☁️ 4°/12°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250218@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250218
 LOCATION:Xingtai
  
@@ -145,11 +145,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:07 日落 18:04\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 21%\n\n💨 风速 3 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 7°
+SUMMARY;LANGUAGE=en:☁️ 3°/10°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250219@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250219
 LOCATION:Xingtai
  
@@ -159,11 +159,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:06 日落 18:05\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 30%\n\n💨 风速 4 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 6°
+SUMMARY;LANGUAGE=en:☀️ 0°/10°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250220@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250220
 LOCATION:Xingtai
  
@@ -173,11 +173,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:05 日落 18:06\n\n⚡️ 气压 1032 hPa\n\n💧 湿度 34%\n\n💨 风速 3 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:⛈️ 5°
+SUMMARY;LANGUAGE=en:⛈️ 1°/6°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250221@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250221
 LOCATION:Xingtai
  
@@ -187,11 +187,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:⛈️ 小雪\n\n🌅 日出 7:04 日落 18:07\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 40%\n\n💨 风速 5 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:⛈️ 5°
+SUMMARY;LANGUAGE=en:⛈️ 1°/11°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250222@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250222
 LOCATION:Xingtai
  
@@ -201,11 +201,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 7:02 日落 18:08\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 68%\n\n💨 风速 7 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 7°
+SUMMARY;LANGUAGE=en:☀️ 2°/9°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250223@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250223
 LOCATION:Xingtai
  
@@ -215,11 +215,11 @@ X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:01 日落 18:09\n\n⚡️ 气压 1032 hPa\n\n💧 湿度 13%\n\n💨 风速 7 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ 2°
+SUMMARY;LANGUAGE=en:🌤️ -3°/6°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250224@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250209T005408
+DTSTAMP;VALUE=DATE:20250209T095432
 DTSTART;VALUE=DATE:20250224
 LOCATION:Xingtai
  
