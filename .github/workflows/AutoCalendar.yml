@@ -114,7 +114,7 @@ jobs:
         for city in "${cities[@]}"; do
           curl -L -o "Calendar-repo/Weather/Record/${city}.ics" "https://weather-in-calendar.com/cal/weather-cal.php?city=${city}&units=metric&temperature=low-high&location=show"
         done
-        curl -L -o "Calendar-repo/Weather/Record/suzhoujs.ics" "https://weather-in-calendar.com/cal/weather-cal.php?city=suzhou,js&units=metric&temperature=low-high&location=show"
+        curl -L -o "Calendar-repo/Weather/Record/suzhoujs.ics" "https://weather-in-calendar.com/cal/weather-cal.php?city=suzhou,js,cn&units=metric&temperature=low-high&location=show"
 
     # 修改并移动所有天气文件
     - name: 修改并移动所有天气文件
