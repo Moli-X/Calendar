@@ -84,7 +84,7 @@
 | 64 | 钦州市 | [钦州市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/qinzhou/qinzhou.ics) |
 | 65 | 深圳市 | [深圳市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/shenzhen/shenzhen.ics) |
 | 66 | 上海市 | [上海市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/shanghai/shanghai.ics) |
-| 67 | 苏州市 | [苏州市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/suzhou/suzhou.ics) |
+| 67 | 宿州市 | [宿州市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/suzhou/suzhou.ics) |
 | 68 | 石家庄市 | [石家庄市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/shijiazhuang/shijiazhuang.ics) |
 | 69 | 绍兴市 | [绍兴市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/shaoxing/shaoxing.ics) |
 | 70 | 天津市 | [天津市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/tianjin/tianjin.ics) |
@@ -142,6 +142,7 @@
 | 9 | 龙泉市 | [龙泉市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/longquan/longquan.ics) |
 | 10 | 许昌市 | [许昌市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/xuchang/xuchang.ics) |
 | 11 | 盐城市 | [盐城市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/yancheng/yancheng.ics) |
+| 12 | 苏州市 | [苏州市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/suzhoujs/suzhoujs.ics) |
 
 
 -----------------------------[⬆️回到顶部⬆️](#weather)
