@@ -112,9 +112,9 @@ jobs:
         
         # 下载每个城市的天气数据
         for city in "${cities[@]}"; do
-          curl -L -o "Calendar-repo/Weather/Record/${city}.ics" "https://weather-in-calendar.com/cal/weather-cal.php?city=${city}&units=metric&temperature=low-high&location=show"
+          curl -L -o "Calendar-repo/Weather/Record/${city}.ics" "https://weather-in-calendar.com/cal/weather-cal.php?city=${city}&units=metric&temperature=low-high"
         done
-        curl -L -o "Calendar-repo/Weather/Record/suzhoujs.ics" "https://weather-in-calendar.com/cal/weather-cal.php?city=suzhou,js,cn&units=metric&temperature=low-high&location=show"
+        curl -L -o "Calendar-repo/Weather/Record/suzhoujs.ics" "https://weather-in-calendar.com/cal/weather-cal.php?city=suzhou,js,cn&units=metric&temperature=low-high"
 
     # 修改并移动所有天气文件
     - name: 修改并移动所有天气文件
