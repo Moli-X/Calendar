@@ -143,6 +143,8 @@
 | 10 | 许昌市 | [许昌市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/xuchang/xuchang.ics) |
 | 11 | 盐城市 | [盐城市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/yancheng/yancheng.ics) |
 | 12 | 苏州市 | [苏州市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/suzhoujs/suzhoujs.ics) |
+| 13 | 湖州市 | [湖州市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/huzhou/huzhou.ics) |
+| 14 | 威海市 | [威海市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/weihai/weihai.ics) |
 
 
 -----------------------------[⬆️回到顶部⬆️](#weather)
