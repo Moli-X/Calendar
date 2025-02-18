@@ -68,7 +68,7 @@ jobs:
           "guangzhou" "guizhou" "guilin" "gansu" "guangxi"
           
           # H
-          "hangzhou" "hefei" "hebei" "hainan" "hunan"
+          "hangzhou" "hefei" "hebei" "hainan" "hunan" "huzhou"
           
           # J
           "jinan" "jiujiang" "jiangxi" "jiangsu" "jilin"
@@ -98,7 +98,7 @@ jobs:
           "tianjin" "taiyuan" "taizhou" "tonghua" "taian" "tianmen"
           
           # W
-          "wuhan" "wenzhou" "weifang" "wulumuqi" "wuxi"  "wuhu"
+          "wuhan" "wenzhou" "weifang" "wulumuqi" "wuxi"  "wuhu"  "weihai"
           
           # X
           "xi'an" "xiamen" "xingtai" "xiangyang" "xuzhou" "xuchang"
