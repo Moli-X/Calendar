@@ -5,227 +5,227 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -9°/3°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20250226@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
-DTSTART;VALUE=DATE:20250226
-LOCATION:Fushun
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20250227
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:24 日落 17:30\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 37%\n\n💨 风速 8 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -4°/10°
+SUMMARY;LANGUAGE=en:☀️ -6°/9°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250227@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
+DTSTAMP;VALUE=DATE:20250227T005218
 DTSTART;VALUE=DATE:20250227
 LOCATION:Fushun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250228
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:23 日落 17:31\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 41%\n\n💨 风速 8 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:23 日落 17:31\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 56%\n\n💨 风速 8 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ 1°/9°
+SUMMARY;LANGUAGE=en:☀️ 1°/9°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250228@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
+DTSTAMP;VALUE=DATE:20250227T005218
 DTSTART;VALUE=DATE:20250228
 LOCATION:Fushun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250301
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 6:21 日落 17:32\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 59%\n\n💨 风速 6 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:21 日落 17:32\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 66%\n\n💨 风速 5 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 1°/9°
+SUMMARY;LANGUAGE=en:⛈️ 0°/10°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250301@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
+DTSTAMP;VALUE=DATE:20250227T005218
 DTSTART;VALUE=DATE:20250301
 LOCATION:Fushun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250302
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:19 日落 17:33\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 50%\n\n💨 风速 5 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 6:19 日落 17:33\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 69%\n\n💨 风速 5 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:⛈️ -2°/4°
+SUMMARY;LANGUAGE=en:☁️ -4°/2°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250302@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
+DTSTAMP;VALUE=DATE:20250227T005218
 DTSTART;VALUE=DATE:20250302
 LOCATION:Fushun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250303
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 6:18 日落 17:34\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 45%\n\n💨 风速 8 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:18 日落 17:34\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 38%\n\n💨 风速 7 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -4°/2°
+SUMMARY;LANGUAGE=en:☁️ -3°/3°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250303@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
+DTSTAMP;VALUE=DATE:20250227T005218
 DTSTART;VALUE=DATE:20250303
 LOCATION:Fushun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250304
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:16 日落 17:36\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 25%\n\n💨 风速 6 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:16 日落 17:36\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 24%\n\n💨 风速 6 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ -4°/3°
+SUMMARY;LANGUAGE=en:☁️ -1°/5°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250304@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
+DTSTAMP;VALUE=DATE:20250227T005218
 DTSTART;VALUE=DATE:20250304
 LOCATION:Fushun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250305
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:15 日落 17:37\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 25%\n\n💨 风速 6 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:15 日落 17:37\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 39%\n\n💨 风速 3 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -8°/-4°
+SUMMARY;LANGUAGE=en:☁️ -6°/2°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250305@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
+DTSTAMP;VALUE=DATE:20250227T005218
 DTSTART;VALUE=DATE:20250305
 LOCATION:Fushun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250306
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:13 日落 17:38\n\n⚡️ 气压 1040 hPa\n\n💧 湿度 22%\n\n💨 风速 7 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:13 日落 17:38\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 48%\n\n💨 风速 7 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ -9°/-0°
+SUMMARY;LANGUAGE=en:☀️ -9°/-4°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250306@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
+DTSTAMP;VALUE=DATE:20250227T005218
 DTSTART;VALUE=DATE:20250306
 LOCATION:Fushun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250307
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:11 日落 17:39\n\n⚡️ 气压 1036 hPa\n\n💧 湿度 20%\n\n💨 风速 4 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:11 日落 17:39\n\n⚡️ 气压 1039 hPa\n\n💧 湿度 28%\n\n💨 风速 5 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -6°/2°
+SUMMARY;LANGUAGE=en:☁️ -9°/2°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250307@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
+DTSTAMP;VALUE=DATE:20250227T005218
 DTSTART;VALUE=DATE:20250307
 LOCATION:Fushun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250308
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:10 日落 17:40\n\n⚡️ 气压 1038 hPa\n\n💧 湿度 23%\n\n💨 风速 2 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:10 日落 17:40\n\n⚡️ 气压 1035 hPa\n\n💧 湿度 14%\n\n💨 风速 3 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ -2°/8°
+SUMMARY;LANGUAGE=en:⛈️ -6°/0°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250308@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
+DTSTAMP;VALUE=DATE:20250227T005218
 DTSTART;VALUE=DATE:20250308
 LOCATION:Fushun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250309
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:08 日落 17:41\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 26%\n\n💨 风速 9 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:⛈️ 下雪\n\n🌅 日出 6:08 日落 17:41\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 91%\n\n💨 风速 5 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:⛈️ -2°/3°
+SUMMARY;LANGUAGE=en:☀️ -10°/0°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250309@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
+DTSTAMP;VALUE=DATE:20250227T005218
 DTSTART;VALUE=DATE:20250309
 LOCATION:Fushun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250310
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:⛈️ 小雪\n\n🌅 日出 6:06 日落 17:43\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 94%\n\n💨 风速 4 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:06 日落 17:43\n\n⚡️ 气压 1035 hPa\n\n💧 湿度 62%\n\n💨 风速 1 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ -4°/1°
+SUMMARY;LANGUAGE=en:☀️ -5°/7°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250310@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
+DTSTAMP;VALUE=DATE:20250227T005218
 DTSTART;VALUE=DATE:20250310
 LOCATION:Fushun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250311
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:05 日落 17:44\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 45%\n\n💨 风速 6 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:05 日落 17:44\n\n⚡️ 气压 1033 hPa\n\n💧 湿度 45%\n\n💨 风速 6 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -5°/5°
+SUMMARY;LANGUAGE=en:☀️ -0°/9°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250311@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
+DTSTAMP;VALUE=DATE:20250227T005218
 DTSTART;VALUE=DATE:20250311
 LOCATION:Fushun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250312
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:03 日落 17:45\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 28%\n\n💨 风速 4 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:03 日落 17:45\n\n⚡️ 气压 1036 hPa\n\n💧 湿度 32%\n\n💨 风速 2 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -1°/9°
+SUMMARY;LANGUAGE=en:🌦️ 2°/9°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250312@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
+DTSTAMP;VALUE=DATE:20250227T005218
 DTSTART;VALUE=DATE:20250312
 LOCATION:Fushun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250313
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:01 日落 17:46\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 29%\n\n💨 风速 4 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:01 日落 17:46\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 36%\n\n💨 风速 6 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ -0°/11°
+SUMMARY;LANGUAGE=en:⛈️ 1°/6°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250313@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250226T005223
+DTSTAMP;VALUE=DATE:20250227T005218
 DTSTART;VALUE=DATE:20250313
 LOCATION:Fushun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250314
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:00 日落 17:47\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 30%\n\n💨 风速 2 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 6:00 日落 17:47\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 89%\n\n💨 风速 4 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 1°/3°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250314@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250227T005218
+DTSTART;VALUE=DATE:20250314
+LOCATION:Fushun
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250315
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:58 日落 17:48\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 97%\n\n💨 风速 2 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
