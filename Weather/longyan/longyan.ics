@@ -5,227 +5,227 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 10°/12°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20250307@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
-DTSTART;VALUE=DATE:20250307
-LOCATION:Longyan
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20250308
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:29 日落 18:16\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 93%\n\n💨 风速 2 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 9°/19°
+SUMMARY;LANGUAGE=en:☁️ 10°/19°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250308@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
+DTSTAMP;VALUE=DATE:20250308T004143
 DTSTART;VALUE=DATE:20250308
 LOCATION:Longyan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250309
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:28 日落 18:17\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 73%\n\n💨 风速 1 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:28 日落 18:17\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 77%\n\n💨 风速 1 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 12°/23°
+SUMMARY;LANGUAGE=en:☁️ 13°/24°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250309@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
+DTSTAMP;VALUE=DATE:20250308T004143
 DTSTART;VALUE=DATE:20250309
 LOCATION:Longyan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250310
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:27 日落 18:17\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 73%\n\n💨 风速 1 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:27 日落 18:17\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 62%\n\n💨 风速 1 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 14°/26°
+SUMMARY;LANGUAGE=en:☁️ 15°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250310@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
+DTSTAMP;VALUE=DATE:20250308T004143
 DTSTART;VALUE=DATE:20250310
 LOCATION:Longyan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250311
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:26 日落 18:18\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 62%\n\n💨 风速 2 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:26 日落 18:18\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 58%\n\n💨 风速 3 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 17°/28°
+SUMMARY;LANGUAGE=en:☁️ 17°/28°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250311@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
+DTSTAMP;VALUE=DATE:20250308T004143
 DTSTART;VALUE=DATE:20250311
 LOCATION:Longyan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250312
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:25 日落 18:18\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 54%\n\n💨 风速 2 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:25 日落 18:18\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 58%\n\n💨 风速 2 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 17°/28°
+SUMMARY;LANGUAGE=en:☁️ 17°/27°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250312@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
+DTSTAMP;VALUE=DATE:20250308T004143
 DTSTART;VALUE=DATE:20250312
 LOCATION:Longyan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250313
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:24 日落 18:19\n\n⚡️ 气压 1015 hPa\n\n💧 湿度 61%\n\n💨 风速 3 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:24 日落 18:19\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 63%\n\n💨 风速 3 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 18°/25°
+SUMMARY;LANGUAGE=en:🌦️ 17°/20°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250313@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
+DTSTAMP;VALUE=DATE:20250308T004143
 DTSTART;VALUE=DATE:20250313
 LOCATION:Longyan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250314
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:23 日落 18:19\n\n⚡️ 气压 1015 hPa\n\n💧 湿度 68%\n\n💨 风速 2 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:23 日落 18:19\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 93%\n\n💨 风速 1 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 18°/22°
+SUMMARY;LANGUAGE=en:🌦️ 17°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250314@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
+DTSTAMP;VALUE=DATE:20250308T004143
 DTSTART;VALUE=DATE:20250314
 LOCATION:Longyan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250315
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:22 日落 18:20\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 90%\n\n💨 风速 1 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:22 日落 18:20\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 94%\n\n💨 风速 1 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 17°/19°
+SUMMARY;LANGUAGE=en:🌦️ 13°/19°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250315@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
+DTSTAMP;VALUE=DATE:20250308T004143
 DTSTART;VALUE=DATE:20250315
 LOCATION:Longyan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250316
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:21 日落 18:20\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 97%\n\n💨 风速 1 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:21 日落 18:20\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 92%\n\n💨 风速 2 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 11°/16°
+SUMMARY;LANGUAGE=en:🌦️ 9°/12°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250316@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
+DTSTAMP;VALUE=DATE:20250308T004143
 DTSTART;VALUE=DATE:20250316
 LOCATION:Longyan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250317
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:20 日落 18:20\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 91%\n\n💨 风速 2 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:20 日落 18:20\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 92%\n\n💨 风速 2 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 6°/11°
+SUMMARY;LANGUAGE=en:🌦️ 9°/10°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250317@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
+DTSTAMP;VALUE=DATE:20250308T004143
 DTSTART;VALUE=DATE:20250317
 LOCATION:Longyan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250318
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:19 日落 18:21\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 89%\n\n💨 风速 2 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:19 日落 18:21\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 77%\n\n💨 风速 2 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 6°/18°
+SUMMARY;LANGUAGE=en:🌦️ 8°/9°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250318@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
+DTSTAMP;VALUE=DATE:20250308T004143
 DTSTART;VALUE=DATE:20250318
 LOCATION:Longyan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250319
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:18 日落 18:21\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 55%\n\n💨 风速 1 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:18 日落 18:21\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 91%\n\n💨 风速 1 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 10°/17°
+SUMMARY;LANGUAGE=en:🌦️ 8°/10°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250319@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
+DTSTAMP;VALUE=DATE:20250308T004143
 DTSTART;VALUE=DATE:20250319
 LOCATION:Longyan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250320
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:17 日落 18:22\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 79%\n\n💨 风速 1 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:17 日落 18:22\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 92%\n\n💨 风速 1 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 12°/21°
+SUMMARY;LANGUAGE=en:🌦️ 10°/13°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250320@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
+DTSTAMP;VALUE=DATE:20250308T004143
 DTSTART;VALUE=DATE:20250320
 LOCATION:Longyan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250321
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:16 日落 18:22\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 66%\n\n💨 风速 1 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:16 日落 18:22\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 94%\n\n💨 风速 1 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 15°/21°
+SUMMARY;LANGUAGE=en:☁️ 10°/19°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250321@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
+DTSTAMP;VALUE=DATE:20250308T004143
 DTSTART;VALUE=DATE:20250321
 LOCATION:Longyan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250322
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:15 日落 18:23\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 88%\n\n💨 风速 1 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:15 日落 18:23\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 81%\n\n💨 风速 1 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 17°/24°
+SUMMARY;LANGUAGE=en:☁️ 12°/25°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250322@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250307T005357
+DTSTAMP;VALUE=DATE:20250308T004143
 DTSTART;VALUE=DATE:20250322
 LOCATION:Longyan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250323
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:14 日落 18:23\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 77%\n\n💨 风速 1 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:14 日落 18:23\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 60%\n\n💨 风速 1 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 16°/26°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250323@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250308T004143
+DTSTART;VALUE=DATE:20250323
+LOCATION:Longyan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250324
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:13 日落 18:24\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 59%\n\n💨 风速 2 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
