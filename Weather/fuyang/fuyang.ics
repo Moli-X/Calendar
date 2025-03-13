@@ -5,227 +5,227 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 12°/20°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20250312@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
-DTSTART;VALUE=DATE:20250312
-LOCATION:Fuyang
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20250313
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:31 日落 18:21\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 61%\n\n💨 风速 5 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 7°/13°
+SUMMARY;LANGUAGE=en:🌦️ 8°/14°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250313@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
+DTSTAMP;VALUE=DATE:20250313T005355
 DTSTART;VALUE=DATE:20250313
 LOCATION:Fuyang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250314
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:30 日落 18:22\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 85%\n\n💨 风速 6 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:30 日落 18:22\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 72%\n\n💨 风速 7 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 7°/12°
+SUMMARY;LANGUAGE=en:🌦️ 6°/9°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250314@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
+DTSTAMP;VALUE=DATE:20250313T005355
 DTSTART;VALUE=DATE:20250314
 LOCATION:Fuyang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250315
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:28 日落 18:23\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 59%\n\n💨 风速 6 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:28 日落 18:23\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 71%\n\n💨 风速 6 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 7°/13°
+SUMMARY;LANGUAGE=en:☁️ 6°/13°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250315@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
+DTSTAMP;VALUE=DATE:20250313T005355
 DTSTART;VALUE=DATE:20250315
 LOCATION:Fuyang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250316
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:27 日落 18:24\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 57%\n\n💨 风速 5 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:27 日落 18:24\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 64%\n\n💨 风速 4 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 4°/12°
+SUMMARY;LANGUAGE=en:☀️ 3°/11°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250316@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
+DTSTAMP;VALUE=DATE:20250313T005355
 DTSTART;VALUE=DATE:20250316
 LOCATION:Fuyang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250317
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:26 日落 18:24\n\n⚡️ 气压 1033 hPa\n\n💧 湿度 38%\n\n💨 风速 4 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:26 日落 18:24\n\n⚡️ 气压 1032 hPa\n\n💧 湿度 41%\n\n💨 风速 6 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 3°/15°
+SUMMARY;LANGUAGE=en:☀️ 2°/15°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250317@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
+DTSTAMP;VALUE=DATE:20250313T005355
 DTSTART;VALUE=DATE:20250317
 LOCATION:Fuyang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250318
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:24 日落 18:25\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 31%\n\n💨 风速 6 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:24 日落 18:25\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 31%\n\n💨 风速 9 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 3°/15°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250318@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
+DTSTAMP;VALUE=DATE:20250313T005355
 DTSTART;VALUE=DATE:20250318
 LOCATION:Fuyang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250319
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:23 日落 18:26\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 31%\n\n💨 风速 3 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:23 日落 18:26\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 28%\n\n💨 风速 3 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 7°/18°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250319@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
+DTSTAMP;VALUE=DATE:20250313T005355
 DTSTART;VALUE=DATE:20250319
 LOCATION:Fuyang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250320
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:22 日落 18:26\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 42%\n\n💨 风速 4 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:22 日落 18:26\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 34%\n\n💨 风速 3 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 8°/17°
+SUMMARY;LANGUAGE=en:☁️ 7°/20°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250320@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
+DTSTAMP;VALUE=DATE:20250313T005355
 DTSTART;VALUE=DATE:20250320
 LOCATION:Fuyang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250321
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:20 日落 18:27\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 47%\n\n💨 风速 4 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:20 日落 18:27\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 39%\n\n💨 风速 3 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 5°/18°
+SUMMARY;LANGUAGE=en:☁️ 10°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250321@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
+DTSTAMP;VALUE=DATE:20250313T005355
 DTSTART;VALUE=DATE:20250321
 LOCATION:Fuyang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250322
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:19 日落 18:28\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 53%\n\n💨 风速 4 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:19 日落 18:28\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 34%\n\n💨 风速 6 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 7°/19°
+SUMMARY;LANGUAGE=en:☀️ 11°/25°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250322@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
+DTSTAMP;VALUE=DATE:20250313T005355
 DTSTART;VALUE=DATE:20250322
 LOCATION:Fuyang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250323
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:18 日落 18:29\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 50%\n\n💨 风速 4 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:18 日落 18:29\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 39%\n\n💨 风速 9 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 8°/20°
+SUMMARY;LANGUAGE=en:☀️ 11°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250323@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
+DTSTAMP;VALUE=DATE:20250313T005355
 DTSTART;VALUE=DATE:20250323
 LOCATION:Fuyang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250324
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:16 日落 18:29\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 39%\n\n💨 风速 5 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:16 日落 18:29\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 34%\n\n💨 风速 8 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 10°/17°
+SUMMARY;LANGUAGE=en:☁️ 7°/16°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250324@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
+DTSTAMP;VALUE=DATE:20250313T005355
 DTSTART;VALUE=DATE:20250324
 LOCATION:Fuyang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250325
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:15 日落 18:30\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 56%\n\n💨 风速 4 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:15 日落 18:30\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 33%\n\n💨 风速 7 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 10°/11°
+SUMMARY;LANGUAGE=en:☁️ 8°/23°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250325@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
+DTSTAMP;VALUE=DATE:20250313T005355
 DTSTART;VALUE=DATE:20250325
 LOCATION:Fuyang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250326
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:14 日落 18:31\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 93%\n\n💨 风速 6 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:14 日落 18:31\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 39%\n\n💨 风速 5 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 8°/17°
+SUMMARY;LANGUAGE=en:☀️ 15°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250326@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
+DTSTAMP;VALUE=DATE:20250313T005355
 DTSTART;VALUE=DATE:20250326
 LOCATION:Fuyang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250327
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:12 日落 18:31\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 56%\n\n💨 风速 5 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:12 日落 18:31\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 42%\n\n💨 风速 9 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 4°/10°
+SUMMARY;LANGUAGE=en:☀️ 18°/30°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250327@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250312T005259
+DTSTAMP;VALUE=DATE:20250313T005355
 DTSTART;VALUE=DATE:20250327
 LOCATION:Fuyang
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250328
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:11 日落 18:32\n\n⚡️ 气压 1034 hPa\n\n💧 湿度 38%\n\n💨 风速 6 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:11 日落 18:32\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 48%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 15°/27°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250328@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250313T005355
+DTSTART;VALUE=DATE:20250328
+LOCATION:Fuyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250329
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:10 日落 18:33\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 55%\n\n💨 风速 7 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
