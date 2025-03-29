@@ -4,15 +4,228 @@ PRODID:-//Moli-X//Weather//CN
 X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
-
 BEGIN:VEVENT
-CLASS:PUBLIC
-DESCRIPTION:Please try to make a new calendar at https://github.com/Moli-X/Calendar
-DTSTART;VALUE=DATE:20250328
-DTEND;VALUE=DATE:20250413
-DTSTAMP;VALUE=DATE:20250328T005438
-SUMMARY;LANGUAGE=en-us:⚠️ City not found
-UID:20230823@vejnoe.dk
+SUMMARY;LANGUAGE=en:☀️ 1°/3°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250329@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250329
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250330
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:41 日落 18:10\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 40%\n\n💨 风速 8 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
-
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 1°/4°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250330@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250330
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250331
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:40 日落 18:11\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 34%\n\n💨 风速 7 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 3°/11°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250331@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250331
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250401
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 5:38 日落 18:12\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 50%\n\n💨 风速 10 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 5°/12°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250401@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250401
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250402
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:37 日落 18:13\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 45%\n\n💨 风速 12 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 5°/7°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250402@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250402
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250403
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:35 日落 18:14\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 71%\n\n💨 风速 6 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 4°/8°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250403@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250403
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250404
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:34 日落 18:15\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 68%\n\n💨 风速 4 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 5°/13°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250404@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250404
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250405
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:32 日落 18:16\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 43%\n\n💨 风速 7 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 6°/11°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250405@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250405
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250406
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:31 日落 18:16\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 50%\n\n💨 风速 6 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 5°/15°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250406@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250406
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250407
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:29 日落 18:17\n\n⚡️ 气压 1015 hPa\n\n💧 湿度 50%\n\n💨 风速 9 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌤️ 7°/20°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250407@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250407
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250408
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 5:28 日落 18:18\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 41%\n\n💨 风速 9 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 7°/13°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250408@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250408
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250409
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 5:26 日落 18:19\n\n⚡️ 气压 1001 hPa\n\n💧 湿度 85%\n\n💨 风速 10 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 11°/20°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250409@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250409
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250410
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:25 日落 18:20\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 37%\n\n💨 风速 12 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 7°/12°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250410@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250410
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250411
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:24 日落 18:21\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 84%\n\n💨 风速 13 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 7°/18°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250411@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250411
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250412
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 5:22 日落 18:22\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 62%\n\n💨 风速 8 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 8°/11°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250412@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250412
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250413
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:21 日落 18:23\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 64%\n\n💨 风速 13 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 7°/9°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250413@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250329T005413
+DTSTART;VALUE=DATE:20250413
+LOCATION:Weihai
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250414
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:19 日落 18:24\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 54%\n\n💨 风速 12 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
 END:VCALENDAR
