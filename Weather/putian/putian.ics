@@ -4,15 +4,228 @@ PRODID:-//Moli-X//Weather//CN
 X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
-
 BEGIN:VEVENT
-CLASS:PUBLIC
-DESCRIPTION:Please try to make a new calendar at https://github.com/Moli-X/Calendar
-DTSTART;VALUE=DATE:20250403
-DTEND;VALUE=DATE:20250419
-DTSTAMP;VALUE=DATE:20250403T005522
-SUMMARY;LANGUAGE=en-us:⚠️ City not found
-UID:20230823@vejnoe.dk
+SUMMARY;LANGUAGE=en:☁️ 10°/22°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250404@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250404
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250405
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:52 日落 18:21\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 41%\n\n💨 风速 4 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
-
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 15°/22°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250405@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250405
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250406
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:51 日落 18:21\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 51%\n\n💨 风速 2 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 14°/22°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250406@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250406
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250407
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:50 日落 18:22\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 46%\n\n💨 风速 3 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 14°/23°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250407@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250407
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250408
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:49 日落 18:22\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 41%\n\n💨 风速 2 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 15°/25°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250408@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250408
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250409
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:48 日落 18:23\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 48%\n\n💨 风速 2 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 16°/25°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250409@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250409
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250410
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:47 日落 18:23\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 55%\n\n💨 风速 2 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 18°/25°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250410@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250410
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250411
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:46 日落 18:23\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 55%\n\n💨 风速 2 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 17°/26°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250411@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250411
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250412
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:45 日落 18:24\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 41%\n\n💨 风速 2 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 15°/24°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250412@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250412
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250413
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:44 日落 18:24\n\n⚡️ 气压 1015 hPa\n\n💧 湿度 43%\n\n💨 风速 3 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 14°/17°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250413@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250413
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250414
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:43 日落 18:25\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 91%\n\n💨 风速 1 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 16°/24°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250414@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250414
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250415
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:42 日落 18:25\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 72%\n\n💨 风速 2 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 17°/30°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250415@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250415
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250416
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:41 日落 18:26\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 38%\n\n💨 风速 3 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 14°/22°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250416@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250416
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250417
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:40 日落 18:26\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 49%\n\n💨 风速 3 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 13°/18°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250417@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250417
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250418
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:39 日落 18:27\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 57%\n\n💨 风速 1 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 16°/22°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250418@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250418
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250419
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:38 日落 18:27\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 76%\n\n💨 风速 2 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 17°/22°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250419@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250404T005454
+DTSTART;VALUE=DATE:20250419
+LOCATION:Putian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250420
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:37 日落 18:28\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 87%\n\n💨 风速 3 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
 END:VCALENDAR
