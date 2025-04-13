@@ -4,7 +4,7 @@ name: AutoCalendar
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "1 0 */2 * *"
 
 permissions:
   actions: write  
