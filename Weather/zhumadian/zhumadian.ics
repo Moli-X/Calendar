@@ -4,15 +4,228 @@ PRODID:-//Moli-X//Weather//CN
 X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
-
 BEGIN:VEVENT
-CLASS:PUBLIC
-DESCRIPTION:Please try to make a new calendar at https://github.com/Moli-X/Calendar
+SUMMARY;LANGUAGE=en:☁️ 12°/30°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250415@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
 DTSTART;VALUE=DATE:20250415
-DTEND;VALUE=DATE:20250501
-DTSTAMP;VALUE=DATE:20250415T005724
-SUMMARY;LANGUAGE=en-us:⚠️ City not found
-UID:20230823@vejnoe.dk
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250416
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 5:54 日落 18:53\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 24%\n\n💨 风速 4 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
-
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 18°/32°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250416@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
+DTSTART;VALUE=DATE:20250416
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250417
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:52 日落 18:54\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 30%\n\n💨 风速 6 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 17°/32°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250417@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
+DTSTART;VALUE=DATE:20250417
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250418
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:51 日落 18:54\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 34%\n\n💨 风速 6 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 16°/31°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250418@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
+DTSTART;VALUE=DATE:20250418
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250419
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:50 日落 18:55\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 45%\n\n💨 风速 6 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 13°/26°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250419@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
+DTSTART;VALUE=DATE:20250419
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250420
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:49 日落 18:56\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 53%\n\n💨 风速 5 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 17°/29°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250420@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
+DTSTART;VALUE=DATE:20250420
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250421
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:48 日落 18:56\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 59%\n\n💨 风速 6 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 16°/22°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250421@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
+DTSTART;VALUE=DATE:20250421
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250422
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:47 日落 18:57\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 87%\n\n💨 风速 9 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 15°/23°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250422@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
+DTSTART;VALUE=DATE:20250422
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250423
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:46 日落 18:58\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 55%\n\n💨 风速 3 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 14°/30°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250423@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
+DTSTART;VALUE=DATE:20250423
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250424
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:44 日落 18:59\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 38%\n\n💨 风速 7 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 10°/22°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250424@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
+DTSTART;VALUE=DATE:20250424
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250425
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:43 日落 18:59\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 19%\n\n💨 风速 4 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌤️ 11°/26°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250425@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
+DTSTART;VALUE=DATE:20250425
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250426
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 5:42 日落 19:00\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 24%\n\n💨 风速 3 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 17°/29°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250426@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
+DTSTART;VALUE=DATE:20250426
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250427
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:41 日落 19:01\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 27%\n\n💨 风速 3 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 17°/30°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250427@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
+DTSTART;VALUE=DATE:20250427
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250428
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:40 日落 19:02\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 29%\n\n💨 风速 4 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 16°/22°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250428@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
+DTSTART;VALUE=DATE:20250428
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250429
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:39 日落 19:02\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 56%\n\n💨 风速 5 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 14°/31°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250429@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
+DTSTART;VALUE=DATE:20250429
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250430
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:38 日落 19:03\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 49%\n\n💨 风速 3 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 18°/34°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250430@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250415T152126
+DTSTART;VALUE=DATE:20250430
+LOCATION:Zhumadian
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250501
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:37 日落 19:04\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 39%\n\n💨 风速 3 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
 END:VCALENDAR
