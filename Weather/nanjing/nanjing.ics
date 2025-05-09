@@ -5,227 +5,227 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 15°/30°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20250507@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
-DTSTART;VALUE=DATE:20250507
-LOCATION:Nanjing
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20250508
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:13 日落 18:49\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 33%\n\n💨 风速 6 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 16°/25°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20250508@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
-DTSTART;VALUE=DATE:20250508
-LOCATION:Nanjing
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20250509
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ Very heavy rain\n\n🌅 日出 5:12 日落 18:49\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 60%\n\n💨 风速 8 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 16°/21°
+SUMMARY;LANGUAGE=en:🌦️ 17°/23°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250509@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
+DTSTAMP;VALUE=DATE:20250509T005757
 DTSTART;VALUE=DATE:20250509
 LOCATION:Nanjing
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250510
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:12 日落 18:50\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 72%\n\n💨 风速 8 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:12 日落 18:50\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 69%\n\n💨 风速 8 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 16°/24°
+SUMMARY;LANGUAGE=en:☁️ 15°/19°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250510@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
+DTSTAMP;VALUE=DATE:20250509T005757
 DTSTART;VALUE=DATE:20250510
 LOCATION:Nanjing
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250511
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:11 日落 18:51\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 22%\n\n💨 风速 9 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:11 日落 18:51\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 61%\n\n💨 风速 8 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 15°/28°
+SUMMARY;LANGUAGE=en:☀️ 14°/28°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250511@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
+DTSTAMP;VALUE=DATE:20250509T005757
 DTSTART;VALUE=DATE:20250511
 LOCATION:Nanjing
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250512
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:10 日落 18:52\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 32%\n\n💨 风速 6 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:10 日落 18:52\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 31%\n\n💨 风速 6 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 17°/30°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250512@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
+DTSTAMP;VALUE=DATE:20250509T005757
 DTSTART;VALUE=DATE:20250512
 LOCATION:Nanjing
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250513
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:09 日落 18:52\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 32%\n\n💨 风速 5 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:09 日落 18:52\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 32%\n\n💨 风速 6 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 19°/32°
+SUMMARY;LANGUAGE=en:☁️ 18°/31°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250513@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
+DTSTAMP;VALUE=DATE:20250509T005757
 DTSTART;VALUE=DATE:20250513
 LOCATION:Nanjing
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250514
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:09 日落 18:53\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 30%\n\n💨 风速 4 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:09 日落 18:53\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 30%\n\n💨 风速 4 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ 21°/34°
+SUMMARY;LANGUAGE=en:☁️ 21°/31°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250514@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
+DTSTAMP;VALUE=DATE:20250509T005757
 DTSTART;VALUE=DATE:20250514
 LOCATION:Nanjing
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250515
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 5:08 日落 18:54\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 33%\n\n💨 风速 5 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:08 日落 18:54\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 37%\n\n💨 风速 5 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 20°/27°
+SUMMARY;LANGUAGE=en:🌦️ 22°/31°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250515@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
+DTSTAMP;VALUE=DATE:20250509T005757
 DTSTART;VALUE=DATE:20250515
 LOCATION:Nanjing
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250516
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:07 日落 18:54\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 80%\n\n💨 风速 5 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:07 日落 18:54\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 32%\n\n💨 风速 3 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 18°/33°
+SUMMARY;LANGUAGE=en:☀️ 19°/32°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250516@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
+DTSTAMP;VALUE=DATE:20250509T005757
 DTSTART;VALUE=DATE:20250516
 LOCATION:Nanjing
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250517
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:07 日落 18:55\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 44%\n\n💨 风速 3 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:07 日落 18:55\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 33%\n\n💨 风速 3 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 21°/35°
+SUMMARY;LANGUAGE=en:☁️ 21°/33°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250517@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
+DTSTAMP;VALUE=DATE:20250509T005757
 DTSTART;VALUE=DATE:20250517
 LOCATION:Nanjing
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250518
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:06 日落 18:56\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 43%\n\n💨 风速 4 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:06 日落 18:56\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 42%\n\n💨 风速 8 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 24°/35°
+SUMMARY;LANGUAGE=en:☁️ 18°/31°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250518@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
+DTSTAMP;VALUE=DATE:20250509T005757
 DTSTART;VALUE=DATE:20250518
 LOCATION:Nanjing
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250519
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:05 日落 18:57\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 41%\n\n💨 风速 5 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:05 日落 18:57\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 20%\n\n💨 风速 5 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 22°/36°
+SUMMARY;LANGUAGE=en:☀️ 20°/35°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250519@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
+DTSTAMP;VALUE=DATE:20250509T005757
 DTSTART;VALUE=DATE:20250519
 LOCATION:Nanjing
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250520
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:05 日落 18:57\n\n⚡️ 气压 1001 hPa\n\n💧 湿度 36%\n\n💨 风速 6 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:05 日落 18:57\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 39%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 17°/30°
+SUMMARY;LANGUAGE=en:☀️ 23°/37°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250520@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
+DTSTAMP;VALUE=DATE:20250509T005757
 DTSTART;VALUE=DATE:20250520
 LOCATION:Nanjing
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250521
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:04 日落 18:58\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 40%\n\n💨 风速 4 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:04 日落 18:58\n\n⚡️ 气压 1001 hPa\n\n💧 湿度 39%\n\n💨 风速 5 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 21°/38°
+SUMMARY;LANGUAGE=en:☀️ 25°/38°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250521@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
+DTSTAMP;VALUE=DATE:20250509T005757
 DTSTART;VALUE=DATE:20250521
 LOCATION:Nanjing
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250522
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:04 日落 18:59\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 25%\n\n💨 风速 4 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:04 日落 18:59\n\n⚡️ 气压 1001 hPa\n\n💧 湿度 41%\n\n💨 风速 3 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 26°/41°
+SUMMARY;LANGUAGE=en:🌦️ 26°/39°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250522@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250507T145924
+DTSTAMP;VALUE=DATE:20250509T005757
 DTSTART;VALUE=DATE:20250522
 LOCATION:Nanjing
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250523
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:03 日落 18:59\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 26%\n\n💨 风速 4 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:03 日落 18:59\n\n⚡️ 气压 1001 hPa\n\n💧 湿度 32%\n\n💨 风速 4 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 24°/36°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250523@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250509T005757
+DTSTART;VALUE=DATE:20250523
+LOCATION:Nanjing
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250524
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:03 日落 19:00\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 39%\n\n💨 风速 6 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 21°/35°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250524@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250509T005757
+DTSTART;VALUE=DATE:20250524
+LOCATION:Nanjing
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250525
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:02 日落 19:01\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 45%\n\n💨 风速 7 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
