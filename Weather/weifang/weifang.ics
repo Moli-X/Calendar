@@ -4,15 +4,228 @@ PRODID:-//Moli-X//Weather//CN
 X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
-
 BEGIN:VEVENT
-CLASS:PUBLIC
-DESCRIPTION:Please try to make a new calendar at https://github.com/Moli-X/Calendar
-DTSTART;VALUE=DATE:20250511
-DTEND;VALUE=DATE:20250527
-DTSTAMP;VALUE=DATE:20250511T010148
-SUMMARY;LANGUAGE=en-us:⚠️ City not found
-UID:20230823@vejnoe.dk
+SUMMARY;LANGUAGE=en:☁️ 18°/32°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250512@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250512
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250513
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 4:59 日落 19:00\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 22%\n\n💨 风速 8 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
-
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 22°/30°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250513@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250513
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250514
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 4:58 日落 19:01\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 28%\n\n💨 风速 9 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 17°/31°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250514@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250514
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250515
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 4:57 日落 19:02\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 34%\n\n💨 风速 6 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 15°/28°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250515@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250515
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250516
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 4:56 日落 19:03\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 55%\n\n💨 风速 5 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 17°/32°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250516@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250516
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250517
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 4:55 日落 19:04\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 45%\n\n💨 风速 7 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 19°/34°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250517@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250517
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 4:55 日落 19:05\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 43%\n\n💨 风速 9 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 16°/22°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250518@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250518
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250519
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 4:54 日落 19:06\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 68%\n\n💨 风速 6 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 13°/18°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250519@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250519
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250520
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 4:53 日落 19:06\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 69%\n\n💨 风速 6 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 12°/26°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250520@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250520
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250521
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 4:52 日落 19:07\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 30%\n\n💨 风速 8 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 14°/27°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250521@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250521
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250522
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 4:52 日落 19:08\n\n⚡️ 气压 1015 hPa\n\n💧 湿度 26%\n\n💨 风速 7 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 17°/18°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250522@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250522
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250523
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 4:51 日落 19:09\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 74%\n\n💨 风速 7 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 13°/20°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250523@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250523
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250524
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 4:50 日落 19:10\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 78%\n\n💨 风速 7 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 12°/24°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250524@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250524
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250525
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 4:50 日落 19:10\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 42%\n\n💨 风速 5 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 13°/29°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250525@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250525
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250526
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 4:49 日落 19:11\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 20%\n\n💨 风速 6 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 17°/27°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250526@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250526
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250527
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 4:49 日落 19:12\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 32%\n\n💨 风速 6 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 17°/23°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250527@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012237
+DTSTART;VALUE=DATE:20250527
+LOCATION:Weifang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250528
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 4:48 日落 19:13\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 60%\n\n💨 风速 8 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
 END:VCALENDAR

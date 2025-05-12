@@ -4,15 +4,228 @@ PRODID:-//Moli-X//Weather//CN
 X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
-
 BEGIN:VEVENT
-CLASS:PUBLIC
-DESCRIPTION:Please try to make a new calendar at https://github.com/Moli-X/Calendar
-DTSTART;VALUE=DATE:20250511
-DTEND;VALUE=DATE:20250527
-DTSTAMP;VALUE=DATE:20250511T010135
-SUMMARY;LANGUAGE=en-us:⚠️ City not found
-UID:20230823@vejnoe.dk
+SUMMARY;LANGUAGE=en:☀️ 17°/30°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250512@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250512
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250513
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:34 日落 18:49\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 43%\n\n💨 风速 2 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
-
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 17°/31°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250513@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250513
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250514
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:33 日落 18:50\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 40%\n\n💨 风速 2 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 18°/33°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250514@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250514
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250515
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:33 日落 18:50\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 40%\n\n💨 风速 2 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 21°/33°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250515@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250515
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250516
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 5:32 日落 18:51\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 50%\n\n💨 风速 1 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 22°/29°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250516@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250516
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250517
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:32 日落 18:51\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 58%\n\n💨 风速 1 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 23°/30°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250517@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250517
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:31 日落 18:52\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 55%\n\n💨 风速 3 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 23°/29°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250518@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250518
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250519
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:31 日落 18:52\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 67%\n\n💨 风速 2 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 23°/30°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250519@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250519
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250520
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:30 日落 18:53\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 65%\n\n💨 风速 3 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 23°/24°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250520@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250520
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250521
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ Heavy intensity rain\n\n🌅 日出 5:30 日落 18:53\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 99%\n\n💨 风速 1 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 22°/24°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250521@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250521
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250522
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:30 日落 18:54\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 97%\n\n💨 风速 1 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 21°/24°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250522@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250522
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250523
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:29 日落 18:54\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 97%\n\n💨 风速 1 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 22°/29°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250523@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250523
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250524
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:29 日落 18:55\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 72%\n\n💨 风速 1 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 23°/30°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250524@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250524
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250525
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:29 日落 18:55\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 88%\n\n💨 风速 2 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 22°/24°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250525@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250525
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250526
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:28 日落 18:56\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 93%\n\n💨 风速 1 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 21°/32°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250526@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250526
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250527
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:28 日落 18:56\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 61%\n\n💨 风速 1 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 21°/33°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250527@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250512T012224
+DTSTART;VALUE=DATE:20250527
+LOCATION:Meizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250528
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:28 日落 18:57\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 60%\n\n💨 风速 1 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
 END:VCALENDAR
