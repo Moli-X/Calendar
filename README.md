@@ -145,6 +145,7 @@
 | 12 | 苏州市 | [苏州市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/suzhoujs/suzhoujs.ics) |
 | 13 | 湖州市 | [湖州市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/huzhou/huzhou.ics) |
 | 14 | 威海市 | [威海市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/weihai/weihai.ics) |
+| 15 | 济宁 | [济宁市天气订阅](https://github.com/Moli-X/Calendar/raw/main/Weather/jining/jining.ics) |
 
 
 -----------------------------[⬆️回到顶部⬆️](#weather)
