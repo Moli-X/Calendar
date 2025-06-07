@@ -5,227 +5,227 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 21°/32°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20250605@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
-DTSTART;VALUE=DATE:20250605
-LOCATION:Baotou
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20250606
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:10 日落 20:07\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 16%\n\n💨 风速 6 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 20°/32°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20250606@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
-DTSTART;VALUE=DATE:20250606
-LOCATION:Baotou
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20250607
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:10 日落 20:08\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 20%\n\n💨 风速 4 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 21°/31°
+SUMMARY;LANGUAGE=en:☁️ 20°/30°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250607@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
+DTSTAMP;VALUE=DATE:20250607T005811
 DTSTART;VALUE=DATE:20250607
 LOCATION:Baotou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250608
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:10 日落 20:09\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 16%\n\n💨 风速 7 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:10 日落 20:09\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 18%\n\n💨 风速 7 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 21°/31°
+SUMMARY;LANGUAGE=en:☀️ 21°/33°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250608@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
+DTSTAMP;VALUE=DATE:20250607T005811
 DTSTART;VALUE=DATE:20250608
 LOCATION:Baotou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250609
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:09 日落 20:09\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 15%\n\n💨 风速 5 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:09 日落 20:09\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 12%\n\n💨 风速 6 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 23°/33°
+SUMMARY;LANGUAGE=en:🌦️ 21°/28°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250609@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
+DTSTAMP;VALUE=DATE:20250607T005811
 DTSTART;VALUE=DATE:20250609
 LOCATION:Baotou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250610
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:09 日落 20:10\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 15%\n\n💨 风速 3 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:09 日落 20:10\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 24%\n\n💨 风速 9 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 23°/35°
+SUMMARY;LANGUAGE=en:☀️ 17°/30°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250610@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
+DTSTAMP;VALUE=DATE:20250607T005811
 DTSTART;VALUE=DATE:20250610
 LOCATION:Baotou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250611
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:09 日落 20:10\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 20%\n\n💨 风速 9 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:09 日落 20:10\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 16%\n\n💨 风速 6 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 23°/28°
+SUMMARY;LANGUAGE=en:☁️ 22°/33°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250611@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
+DTSTAMP;VALUE=DATE:20250607T005811
 DTSTART;VALUE=DATE:20250611
 LOCATION:Baotou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250612
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:09 日落 20:11\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 30%\n\n💨 风速 8 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:09 日落 20:11\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 19%\n\n💨 风速 8 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ 21°/30°
+SUMMARY;LANGUAGE=en:🌦️ 21°/30°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250612@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
+DTSTAMP;VALUE=DATE:20250607T005811
 DTSTART;VALUE=DATE:20250612
 LOCATION:Baotou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250613
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 5:09 日落 20:11\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 33%\n\n💨 风速 5 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:09 日落 20:11\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 33%\n\n💨 风速 4 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 23°/30°
+SUMMARY;LANGUAGE=en:🌤️ 21°/32°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250613@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
+DTSTAMP;VALUE=DATE:20250607T005811
 DTSTART;VALUE=DATE:20250613
 LOCATION:Baotou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250614
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:09 日落 20:12\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 30%\n\n💨 风速 6 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 5:09 日落 20:12\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 36%\n\n💨 风速 7 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 18°/24°
+SUMMARY;LANGUAGE=en:🌦️ 22°/28°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250614@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
+DTSTAMP;VALUE=DATE:20250607T005811
 DTSTART;VALUE=DATE:20250614
 LOCATION:Baotou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250615
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:09 日落 20:12\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 38%\n\n💨 风速 4 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:09 日落 20:12\n\n⚡️ 气压 1001 hPa\n\n💧 湿度 27%\n\n💨 风速 8 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 18°/28°
+SUMMARY;LANGUAGE=en:🌦️ 19°/30°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250615@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
+DTSTAMP;VALUE=DATE:20250607T005811
 DTSTART;VALUE=DATE:20250615
 LOCATION:Baotou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250616
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:09 日落 20:13\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 31%\n\n💨 风速 6 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:09 日落 20:13\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 26%\n\n💨 风速 9 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 19°/30°
+SUMMARY;LANGUAGE=en:☁️ 22°/34°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250616@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
+DTSTAMP;VALUE=DATE:20250607T005811
 DTSTART;VALUE=DATE:20250616
 LOCATION:Baotou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250617
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:09 日落 20:13\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 27%\n\n💨 风速 7 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 5:09 日落 20:13\n\n⚡️ 气压 999 hPa\n\n💧 湿度 16%\n\n💨 风速 7 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 21°/34°
+SUMMARY;LANGUAGE=en:☁️ 24°/35°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250617@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
+DTSTAMP;VALUE=DATE:20250607T005811
 DTSTART;VALUE=DATE:20250617
 LOCATION:Baotou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250618
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:09 日落 20:13\n\n⚡️ 气压 1001 hPa\n\n💧 湿度 24%\n\n💨 风速 3 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:09 日落 20:13\n\n⚡️ 气压 996 hPa\n\n💧 湿度 18%\n\n💨 风速 10 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 25°/34°
+SUMMARY;LANGUAGE=en:☀️ 23°/35°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250618@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
+DTSTAMP;VALUE=DATE:20250607T005811
 DTSTART;VALUE=DATE:20250618
 LOCATION:Baotou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250619
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:09 日落 20:14\n\n⚡️ 气压 997 hPa\n\n💧 湿度 18%\n\n💨 风速 10 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:09 日落 20:14\n\n⚡️ 气压 998 hPa\n\n💧 湿度 17%\n\n💨 风速 9 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 17°/25°
+SUMMARY;LANGUAGE=en:☀️ 21°/31°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250619@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
+DTSTAMP;VALUE=DATE:20250607T005811
 DTSTART;VALUE=DATE:20250619
 LOCATION:Baotou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250620
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:09 日落 20:14\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 39%\n\n💨 风速 8 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:09 日落 20:14\n\n⚡️ 气压 997 hPa\n\n💧 湿度 19%\n\n💨 风速 11 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 16°/18°
+SUMMARY;LANGUAGE=en:🌤️ 18°/28°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250620@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250605T005851
+DTSTAMP;VALUE=DATE:20250607T005811
 DTSTART;VALUE=DATE:20250620
 LOCATION:Baotou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250621
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:09 日落 20:14\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 59%\n\n💨 风速 7 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 5:09 日落 20:14\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 21%\n\n💨 风速 6 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 21°/29°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250621@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250607T005811
+DTSTART;VALUE=DATE:20250621
+LOCATION:Baotou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250622
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:09 日落 20:15\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 19%\n\n💨 风速 7 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 20°/32°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250622@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250607T005811
+DTSTART;VALUE=DATE:20250622
+LOCATION:Baotou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250623
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:10 日落 20:15\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 18%\n\n💨 风速 8 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
