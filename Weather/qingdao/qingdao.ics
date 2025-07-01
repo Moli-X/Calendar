@@ -5,227 +5,227 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 22°/26°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20250629@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
-DTSTART;VALUE=DATE:20250629
-LOCATION:Qingdao
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20250630
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 4:44 日落 19:19\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 96%\n\n💨 风速 5 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 23°/25°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20250630@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
-DTSTART;VALUE=DATE:20250630
-LOCATION:Qingdao
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20250701
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 4:44 日落 19:19\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 81%\n\n💨 风速 5 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 24°/26°
+SUMMARY;LANGUAGE=en:🌦️ 23°/32°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250701@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
+DTSTAMP;VALUE=DATE:20250701T010726
 DTSTART;VALUE=DATE:20250701
 LOCATION:Qingdao
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250702
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 4:44 日落 19:19\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 85%\n\n💨 风速 5 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 4:44 日落 19:19\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 81%\n\n💨 风速 4 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 23°/25°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250702@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
+DTSTAMP;VALUE=DATE:20250701T010726
 DTSTART;VALUE=DATE:20250702
 LOCATION:Qingdao
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250703
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ Heavy intensity rain\n\n🌅 日出 4:45 日落 19:19\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 92%\n\n💨 风速 4 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 4:45 日落 19:19\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 91%\n\n💨 风速 5 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 24°/25°
+SUMMARY;LANGUAGE=en:☁️ 23°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250703@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
+DTSTAMP;VALUE=DATE:20250701T010726
 DTSTART;VALUE=DATE:20250703
 LOCATION:Qingdao
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250704
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 4:45 日落 19:19\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 87%\n\n💨 风速 6 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 4:45 日落 19:19\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 86%\n\n💨 风速 5 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 24°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250704@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
+DTSTAMP;VALUE=DATE:20250701T010726
 DTSTART;VALUE=DATE:20250704
 LOCATION:Qingdao
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250705
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 4:46 日落 19:19\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 83%\n\n💨 风速 5 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 4:46 日落 19:19\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 82%\n\n💨 风速 5 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 25°/27°
+SUMMARY;LANGUAGE=en:☀️ 24°/27°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250705@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
+DTSTAMP;VALUE=DATE:20250701T010726
 DTSTART;VALUE=DATE:20250705
 LOCATION:Qingdao
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250706
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 4:46 日落 19:18\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 79%\n\n💨 风速 5 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 4:46 日落 19:18\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 78%\n\n💨 风速 5 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 24°/26°
+SUMMARY;LANGUAGE=en:☀️ 24°/29°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250706@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
+DTSTAMP;VALUE=DATE:20250701T010726
 DTSTART;VALUE=DATE:20250706
 LOCATION:Qingdao
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250707
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 4:47 日落 19:18\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 84%\n\n💨 风速 5 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 4:47 日落 19:18\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 71%\n\n💨 风速 4 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 25°/27°
+SUMMARY;LANGUAGE=en:☀️ 25°/27°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250707@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
+DTSTAMP;VALUE=DATE:20250701T010726
 DTSTART;VALUE=DATE:20250707
 LOCATION:Qingdao
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250708
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 4:47 日落 19:18\n\n⚡️ 气压 1000 hPa\n\n💧 湿度 75%\n\n💨 风速 3 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 4:47 日落 19:18\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 77%\n\n💨 风速 5 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 25°/26°
+SUMMARY;LANGUAGE=en:☀️ 25°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250708@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
+DTSTAMP;VALUE=DATE:20250701T010726
 DTSTART;VALUE=DATE:20250708
 LOCATION:Qingdao
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250709
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 4:48 日落 19:18\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 78%\n\n💨 风速 5 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 4:48 日落 19:18\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 73%\n\n💨 风速 5 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 24°/26°
+SUMMARY;LANGUAGE=en:☁️ 24°/27°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250709@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
+DTSTAMP;VALUE=DATE:20250701T010726
 DTSTART;VALUE=DATE:20250709
 LOCATION:Qingdao
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250710
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 4:48 日落 19:18\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 74%\n\n💨 风速 4 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 4:48 日落 19:18\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 79%\n\n💨 风速 4 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 25°/27°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250710@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
+DTSTAMP;VALUE=DATE:20250701T010726
 DTSTART;VALUE=DATE:20250710
 LOCATION:Qingdao
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250711
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 4:49 日落 19:17\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 65%\n\n💨 风速 4 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 4:49 日落 19:17\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 64%\n\n💨 风速 4 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ 24°/26°
+SUMMARY;LANGUAGE=en:☀️ 25°/28°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250711@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
+DTSTAMP;VALUE=DATE:20250701T010726
 DTSTART;VALUE=DATE:20250711
 LOCATION:Qingdao
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250712
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 4:50 日落 19:17\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 74%\n\n💨 风速 4 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 4:50 日落 19:17\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 60%\n\n💨 风速 5 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 24°/27°
+SUMMARY;LANGUAGE=en:☁️ 25°/28°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250712@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
+DTSTAMP;VALUE=DATE:20250701T010726
 DTSTART;VALUE=DATE:20250712
 LOCATION:Qingdao
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250713
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 4:50 日落 19:17\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 75%\n\n💨 风速 5 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 4:50 日落 19:17\n\n⚡️ 气压 1001 hPa\n\n💧 湿度 58%\n\n💨 风速 5 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 25°/27°
+SUMMARY;LANGUAGE=en:☀️ 25°/28°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250713@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
+DTSTAMP;VALUE=DATE:20250701T010726
 DTSTART;VALUE=DATE:20250713
 LOCATION:Qingdao
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250714
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 4:51 日落 19:16\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 73%\n\n💨 风速 4 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 4:51 日落 19:16\n\n⚡️ 气压 997 hPa\n\n💧 湿度 55%\n\n💨 风速 6 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 25°/28°
+SUMMARY;LANGUAGE=en:☀️ 25°/28°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250714@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250629T010733
+DTSTAMP;VALUE=DATE:20250701T010726
 DTSTART;VALUE=DATE:20250714
 LOCATION:Qingdao
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250715
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 4:52 日落 19:16\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 65%\n\n💨 风速 4 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 4:52 日落 19:16\n\n⚡️ 气压 994 hPa\n\n💧 湿度 51%\n\n💨 风速 5 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 23°/27°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250715@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250701T010726
+DTSTART;VALUE=DATE:20250715
+LOCATION:Qingdao
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250716
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 4:52 日落 19:15\n\n⚡️ 气压 997 hPa\n\n💧 湿度 60%\n\n💨 风速 6 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 25°/27°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250716@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250701T010726
+DTSTART;VALUE=DATE:20250716
+LOCATION:Qingdao
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250717
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 4:53 日落 19:15\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 84%\n\n💨 风速 6 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
