@@ -5,227 +5,227 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 27°/33°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20250729@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
-DTSTART;VALUE=DATE:20250729
-LOCATION:Shantou
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20250730
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:41 日落 18:57\n\n⚡️ 气压 995 hPa\n\n💧 湿度 77%\n\n💨 风速 5 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 27°/35°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20250730@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
-DTSTART;VALUE=DATE:20250730
-LOCATION:Shantou
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20250731
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ Heavy intensity rain\n\n🌅 日出 5:42 日落 18:56\n\n⚡️ 气压 995 hPa\n\n💧 湿度 62%\n\n💨 风速 8 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 27°/33°
+SUMMARY;LANGUAGE=en:🌦️ 28°/33°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250731@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
+DTSTAMP;VALUE=DATE:20250731T010505
 DTSTART;VALUE=DATE:20250731
 LOCATION:Shantou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250801
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:42 日落 18:56\n\n⚡️ 气压 997 hPa\n\n💧 湿度 68%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:42 日落 18:56\n\n⚡️ 气压 997 hPa\n\n💧 湿度 79%\n\n💨 风速 6 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 27°/31°
+SUMMARY;LANGUAGE=en:🌦️ 27°/32°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250801@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
+DTSTAMP;VALUE=DATE:20250731T010505
 DTSTART;VALUE=DATE:20250801
 LOCATION:Shantou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250802
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:43 日落 18:55\n\n⚡️ 气压 999 hPa\n\n💧 湿度 71%\n\n💨 风速 6 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:43 日落 18:55\n\n⚡️ 气压 1000 hPa\n\n💧 湿度 67%\n\n💨 风速 6 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 27°/30°
+SUMMARY;LANGUAGE=en:🌦️ 27°/33°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250802@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
+DTSTAMP;VALUE=DATE:20250731T010505
 DTSTART;VALUE=DATE:20250802
 LOCATION:Shantou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250803
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:43 日落 18:55\n\n⚡️ 气压 1001 hPa\n\n💧 湿度 75%\n\n💨 风速 3 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:43 日落 18:55\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 65%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 26°/31°
+SUMMARY;LANGUAGE=en:🌦️ 27°/29°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250803@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
+DTSTAMP;VALUE=DATE:20250731T010505
 DTSTART;VALUE=DATE:20250803
 LOCATION:Shantou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250804
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:44 日落 18:54\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 78%\n\n💨 风速 5 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:44 日落 18:54\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 82%\n\n💨 风速 6 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 26°/27°
+SUMMARY;LANGUAGE=en:🌦️ 26°/28°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250804@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
+DTSTAMP;VALUE=DATE:20250731T010505
 DTSTART;VALUE=DATE:20250804
 LOCATION:Shantou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250805
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ Heavy intensity rain\n\n🌅 日出 5:44 日落 18:53\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 95%\n\n💨 风速 4 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:44 日落 18:53\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 84%\n\n💨 风速 6 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 26°/30°
+SUMMARY;LANGUAGE=en:🌦️ 25°/27°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250805@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
+DTSTAMP;VALUE=DATE:20250731T010505
 DTSTART;VALUE=DATE:20250805
 LOCATION:Shantou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250806
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:44 日落 18:53\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 78%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:44 日落 18:53\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 92%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 27°/33°
+SUMMARY;LANGUAGE=en:🌦️ 24°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250806@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
+DTSTAMP;VALUE=DATE:20250731T010505
 DTSTART;VALUE=DATE:20250806
 LOCATION:Shantou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250807
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:45 日落 18:52\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 68%\n\n💨 风速 5 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:45 日落 18:52\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 94%\n\n💨 风速 6 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 27°/35°
+SUMMARY;LANGUAGE=en:☁️ 25°/30°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250807@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
+DTSTAMP;VALUE=DATE:20250731T010505
 DTSTART;VALUE=DATE:20250807
 LOCATION:Shantou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250808
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:45 日落 18:52\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 68%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:45 日落 18:52\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 79%\n\n💨 风速 4 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 28°/32°
+SUMMARY;LANGUAGE=en:☁️ 25°/33°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250808@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
+DTSTAMP;VALUE=DATE:20250731T010505
 DTSTART;VALUE=DATE:20250808
 LOCATION:Shantou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250809
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:46 日落 18:51\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 70%\n\n💨 风速 6 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:46 日落 18:51\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 62%\n\n💨 风速 5 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 28°/31°
+SUMMARY;LANGUAGE=en:🌦️ 27°/31°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250809@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
+DTSTAMP;VALUE=DATE:20250731T010505
 DTSTART;VALUE=DATE:20250809
 LOCATION:Shantou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250810
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:46 日落 18:50\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 70%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:46 日落 18:50\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 73%\n\n💨 风速 4 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 27°/30°
+SUMMARY;LANGUAGE=en:🌦️ 25°/30°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250810@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
+DTSTAMP;VALUE=DATE:20250731T010505
 DTSTART;VALUE=DATE:20250810
 LOCATION:Shantou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250811
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:47 日落 18:50\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 81%\n\n💨 风速 6 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:47 日落 18:50\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 74%\n\n💨 风速 7 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 25°/30°
+SUMMARY;LANGUAGE=en:🌦️ 25°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250811@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
+DTSTAMP;VALUE=DATE:20250731T010505
 DTSTART;VALUE=DATE:20250811
 LOCATION:Shantou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250812
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:47 日落 18:49\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 77%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:47 日落 18:49\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 89%\n\n💨 风速 5 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 25°/26°
+SUMMARY;LANGUAGE=en:🌦️ 26°/29°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250812@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
+DTSTAMP;VALUE=DATE:20250731T010505
 DTSTART;VALUE=DATE:20250812
 LOCATION:Shantou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250813
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:47 日落 18:48\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 91%\n\n💨 风速 5 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:47 日落 18:48\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 78%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 25°/29°
+SUMMARY;LANGUAGE=en:🌦️ 25°/31°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250813@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250729T011108
+DTSTAMP;VALUE=DATE:20250731T010505
 DTSTART;VALUE=DATE:20250813
 LOCATION:Shantou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250814
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:48 日落 18:47\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 73%\n\n💨 风速 3 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:48 日落 18:47\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 71%\n\n💨 风速 6 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 25°/27°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250814@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250731T010505
+DTSTART;VALUE=DATE:20250814
+LOCATION:Shantou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250815
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:48 日落 18:47\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 82%\n\n💨 风速 6 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 24°/25°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250815@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250731T010505
+DTSTART;VALUE=DATE:20250815
+LOCATION:Shantou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250816
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:49 日落 18:46\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 91%\n\n💨 风速 5 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
