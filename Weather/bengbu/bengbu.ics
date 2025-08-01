@@ -8,224 +8,224 @@ BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 24°/30°
  
 X-FUNAMBOL-ALLDAY:1 
-UID:20250731@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
-DTSTART;VALUE=DATE:20250731
-LOCATION:Bengbu
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20250801
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:23 日落 19:10\n\n⚡️ 气压 996 hPa\n\n💧 湿度 85%\n\n💨 风速 9 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 24°/31°
- 
-X-FUNAMBOL-ALLDAY:1 
 UID:20250801@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
+DTSTAMP;VALUE=DATE:20250801T011156
 DTSTART;VALUE=DATE:20250801
 LOCATION:Bengbu
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250802
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:23 日落 19:09\n\n⚡️ 气压 998 hPa\n\n💧 湿度 83%\n\n💨 风速 4 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:23 日落 19:09\n\n⚡️ 气压 998 hPa\n\n💧 湿度 83%\n\n💨 风速 6 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 23°/31°
+SUMMARY;LANGUAGE=en:🌦️ 24°/31°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250802@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
+DTSTAMP;VALUE=DATE:20250801T011156
 DTSTART;VALUE=DATE:20250802
 LOCATION:Bengbu
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250803
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:24 日落 19:09\n\n⚡️ 气压 999 hPa\n\n💧 湿度 78%\n\n💨 风速 4 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:24 日落 19:09\n\n⚡️ 气压 998 hPa\n\n💧 湿度 76%\n\n💨 风速 3 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 24°/34°
+SUMMARY;LANGUAGE=en:☁️ 25°/35°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250803@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
+DTSTAMP;VALUE=DATE:20250801T011156
 DTSTART;VALUE=DATE:20250803
 LOCATION:Bengbu
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250804
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:25 日落 19:08\n\n⚡️ 气压 998 hPa\n\n💧 湿度 67%\n\n💨 风速 3 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:25 日落 19:08\n\n⚡️ 气压 998 hPa\n\n💧 湿度 65%\n\n💨 风速 3 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 27°/35°
+SUMMARY;LANGUAGE=en:☁️ 27°/36°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250804@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
+DTSTAMP;VALUE=DATE:20250801T011156
 DTSTART;VALUE=DATE:20250804
 LOCATION:Bengbu
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250805
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:25 日落 19:07\n\n⚡️ 气压 1000 hPa\n\n💧 湿度 57%\n\n💨 风速 3 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:25 日落 19:07\n\n⚡️ 气压 1001 hPa\n\n💧 湿度 58%\n\n💨 风速 5 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 28°/38°
+SUMMARY;LANGUAGE=en:🌤️ 25°/36°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250805@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
+DTSTAMP;VALUE=DATE:20250801T011156
 DTSTART;VALUE=DATE:20250805
 LOCATION:Bengbu
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250806
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:26 日落 19:06\n\n⚡️ 气压 1001 hPa\n\n💧 湿度 54%\n\n💨 风速 3 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 5:26 日落 19:06\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 53%\n\n💨 风速 3 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 27°/36°
+SUMMARY;LANGUAGE=en:🌦️ 27°/37°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250806@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
+DTSTAMP;VALUE=DATE:20250801T011156
 DTSTART;VALUE=DATE:20250806
 LOCATION:Bengbu
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250807
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:27 日落 19:05\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 66%\n\n💨 风速 4 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:27 日落 19:05\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 58%\n\n💨 风速 4 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 26°/33°
+SUMMARY;LANGUAGE=en:☁️ 27°/34°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250807@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
+DTSTAMP;VALUE=DATE:20250801T011156
 DTSTART;VALUE=DATE:20250807
 LOCATION:Bengbu
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250808
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:28 日落 19:04\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 88%\n\n💨 风速 5 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:28 日落 19:04\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 66%\n\n💨 风速 6 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 24°/35°
+SUMMARY;LANGUAGE=en:🌦️ 26°/33°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250808@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
+DTSTAMP;VALUE=DATE:20250801T011156
 DTSTART;VALUE=DATE:20250808
 LOCATION:Bengbu
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250809
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:28 日落 19:03\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 47%\n\n💨 风速 3 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:28 日落 19:03\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 73%\n\n💨 风速 4 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 24°/35°
+SUMMARY;LANGUAGE=en:🌦️ 26°/28°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250809@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
+DTSTAMP;VALUE=DATE:20250801T011156
 DTSTART;VALUE=DATE:20250809
 LOCATION:Bengbu
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250810
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:29 日落 19:02\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 59%\n\n💨 风速 5 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:29 日落 19:02\n\n⚡️ 气压 1000 hPa\n\n💧 湿度 75%\n\n💨 风速 4 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 24°/33°
+SUMMARY;LANGUAGE=en:🌦️ 23°/31°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250810@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
+DTSTAMP;VALUE=DATE:20250801T011156
 DTSTART;VALUE=DATE:20250810
 LOCATION:Bengbu
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250811
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:30 日落 19:01\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 56%\n\n💨 风速 6 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:30 日落 19:01\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 46%\n\n💨 风速 3 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 23°/35°
+SUMMARY;LANGUAGE=en:☁️ 22°/32°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250811@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
+DTSTAMP;VALUE=DATE:20250801T011156
 DTSTART;VALUE=DATE:20250811
 LOCATION:Bengbu
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250812
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:30 日落 19:00\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 59%\n\n💨 风速 4 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:30 日落 19:00\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 48%\n\n💨 风速 4 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 22°/26°
+SUMMARY;LANGUAGE=en:☀️ 20°/33°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250812@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
+DTSTAMP;VALUE=DATE:20250801T011156
 DTSTART;VALUE=DATE:20250812
 LOCATION:Bengbu
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250813
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ Heavy intensity rain\n\n🌅 日出 5:31 日落 18:59\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 97%\n\n💨 风速 5 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:31 日落 18:59\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 49%\n\n💨 风速 4 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 22°/24°
+SUMMARY;LANGUAGE=en:☀️ 22°/33°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250813@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
+DTSTAMP;VALUE=DATE:20250801T011156
 DTSTART;VALUE=DATE:20250813
 LOCATION:Bengbu
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250814
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:32 日落 18:58\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 98%\n\n💨 风速 5 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:32 日落 18:58\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 46%\n\n💨 风速 5 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 23°/28°
+SUMMARY;LANGUAGE=en:☀️ 21°/34°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250814@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
+DTSTAMP;VALUE=DATE:20250801T011156
 DTSTART;VALUE=DATE:20250814
 LOCATION:Bengbu
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250815
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:32 日落 18:57\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 88%\n\n💨 风速 2 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:32 日落 18:57\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 57%\n\n💨 风速 7 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 24°/31°
+SUMMARY;LANGUAGE=en:☁️ 23°/32°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20250815@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20250731T010429
+DTSTAMP;VALUE=DATE:20250801T011156
 DTSTART;VALUE=DATE:20250815
 LOCATION:Bengbu
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20250816
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:33 日落 18:56\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 74%\n\n💨 风速 3 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:33 日落 18:56\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 53%\n\n💨 风速 5 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 24°/35°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20250816@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20250801T011156
+DTSTART;VALUE=DATE:20250816
+LOCATION:Bengbu
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20250817
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 5:34 日落 18:55\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 55%\n\n💨 风速 5 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
