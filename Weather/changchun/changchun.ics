@@ -5,227 +5,227 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 16°/26°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20251003@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
-DTSTART;VALUE=DATE:20251003
-LOCATION:Changchun
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20251004
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:38 日落 17:17\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 54%\n\n💨 风速 5 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 14°/24°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20251004@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
-DTSTART;VALUE=DATE:20251004
-LOCATION:Changchun
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20251005
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:39 日落 17:15\n\n⚡️ 气压 1015 hPa\n\n💧 湿度 53%\n\n💨 风速 6 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 8°/16°
+SUMMARY;LANGUAGE=en:☁️ 10°/16°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251005@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
+DTSTAMP;VALUE=DATE:20251005T005908
 DTSTART;VALUE=DATE:20251005
 LOCATION:Changchun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251006
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:40 日落 17:13\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 22%\n\n💨 风速 5 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:40 日落 17:13\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 22%\n\n💨 风速 6 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 6°/18°
+SUMMARY;LANGUAGE=en:☁️ 8°/18°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251006@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
+DTSTAMP;VALUE=DATE:20251005T005908
 DTSTART;VALUE=DATE:20251006
 LOCATION:Changchun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251007
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:41 日落 17:11\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 23%\n\n💨 风速 5 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:41 日落 17:11\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 22%\n\n💨 风速 6 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 11°/18°
+SUMMARY;LANGUAGE=en:☁️ 9°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251007@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
+DTSTAMP;VALUE=DATE:20251005T005908
 DTSTART;VALUE=DATE:20251007
 LOCATION:Changchun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251008
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:42 日落 17:10\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 79%\n\n💨 风速 7 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:42 日落 17:10\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 31%\n\n💨 风速 7 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 7°/12°
+SUMMARY;LANGUAGE=en:☁️ 6°/14°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251008@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
+DTSTAMP;VALUE=DATE:20251005T005908
 DTSTART;VALUE=DATE:20251008
 LOCATION:Changchun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251009
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:44 日落 17:08\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 43%\n\n💨 风速 5 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:44 日落 17:08\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 28%\n\n💨 风速 3 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 5°/13°
+SUMMARY;LANGUAGE=en:☁️ 5°/14°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251009@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
+DTSTAMP;VALUE=DATE:20251005T005908
 DTSTART;VALUE=DATE:20251009
 LOCATION:Changchun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251010
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:45 日落 17:06\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 34%\n\n💨 风速 2 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:45 日落 17:06\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 25%\n\n💨 风速 5 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 8°/14°
+SUMMARY;LANGUAGE=en:☁️ 3°/15°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251010@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
+DTSTAMP;VALUE=DATE:20251005T005908
 DTSTART;VALUE=DATE:20251010
 LOCATION:Changchun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251011
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:46 日落 17:04\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 36%\n\n💨 风速 2 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:46 日落 17:04\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 14%\n\n💨 风速 3 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 6°/15°
+SUMMARY;LANGUAGE=en:☀️ -0°/10°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251011@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
+DTSTAMP;VALUE=DATE:20251005T005908
 DTSTART;VALUE=DATE:20251011
 LOCATION:Changchun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251012
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:47 日落 17:03\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 33%\n\n💨 风速 5 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:47 日落 17:03\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 19%\n\n💨 风速 7 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 6°/11°
+SUMMARY;LANGUAGE=en:☀️ -2°/10°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251012@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
+DTSTAMP;VALUE=DATE:20251005T005908
 DTSTART;VALUE=DATE:20251012
 LOCATION:Changchun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251013
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:48 日落 17:01\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 48%\n\n💨 风速 7 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:48 日落 17:01\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 18%\n\n💨 风速 3 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 5°/10°
+SUMMARY;LANGUAGE=en:☁️ 2°/17°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251013@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
+DTSTAMP;VALUE=DATE:20251005T005908
 DTSTART;VALUE=DATE:20251013
 LOCATION:Changchun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251014
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:50 日落 16:59\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 69%\n\n💨 风速 6 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 5:50 日落 16:59\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 23%\n\n💨 风速 7 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 4°/15°
+SUMMARY;LANGUAGE=en:🌦️ 10°/15°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251014@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
+DTSTAMP;VALUE=DATE:20251005T005908
 DTSTART;VALUE=DATE:20251014
 LOCATION:Changchun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251015
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:51 日落 16:57\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 54%\n\n💨 风速 3 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:51 日落 16:57\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 63%\n\n💨 风速 5 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 7°/14°
+SUMMARY;LANGUAGE=en:🌦️ 5°/11°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251015@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
+DTSTAMP;VALUE=DATE:20251005T005908
 DTSTART;VALUE=DATE:20251015
 LOCATION:Changchun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251016
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:52 日落 16:56\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 34%\n\n💨 风速 3 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:52 日落 16:56\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 96%\n\n💨 风速 8 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:⛈️ 3°/8°
+SUMMARY;LANGUAGE=en:⛈️ 1°/6°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251016@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
+DTSTAMP;VALUE=DATE:20251005T005908
 DTSTART;VALUE=DATE:20251016
 LOCATION:Changchun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251017
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 5:53 日落 16:54\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 54%\n\n💨 风速 7 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 5:53 日落 16:54\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 58%\n\n💨 风速 8 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:⛈️ 1°/8°
+SUMMARY;LANGUAGE=en:☁️ 0°/11°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251017@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
+DTSTAMP;VALUE=DATE:20251005T005908
 DTSTART;VALUE=DATE:20251017
 LOCATION:Changchun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251018
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:⛈️ 下雪\n\n🌅 日出 5:55 日落 16:52\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 50%\n\n💨 风速 6 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:55 日落 16:52\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 41%\n\n💨 风速 6 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 1°/9°
+SUMMARY;LANGUAGE=en:🌦️ 3°/10°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251018@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251003T005312
+DTSTAMP;VALUE=DATE:20251005T005908
 DTSTART;VALUE=DATE:20251018
 LOCATION:Changchun
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251019
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:56 日落 16:51\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 45%\n\n💨 风速 5 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:56 日落 16:51\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 59%\n\n💨 风速 6 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:⛈️ -2°/3°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20251019@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20251005T005908
+DTSTART;VALUE=DATE:20251019
+LOCATION:Changchun
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20251020
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:⛈️ 下雪\n\n🌅 日出 5:57 日落 16:49\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 87%\n\n💨 风速 8 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ -1°/9°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20251020@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20251005T005908
+DTSTART;VALUE=DATE:20251020
+LOCATION:Changchun
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20251021
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 5:58 日落 16:47\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 55%\n\n💨 风速 6 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
