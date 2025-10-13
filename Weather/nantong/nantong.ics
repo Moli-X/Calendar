@@ -5,227 +5,227 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 23°/33°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20251011@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
-DTSTART;VALUE=DATE:20251011
-LOCATION:Nantong
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20251012
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 5:56 日落 17:29\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 76%\n\n💨 风速 4 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ 23°/28°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20251012@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
-DTSTART;VALUE=DATE:20251012
-LOCATION:Nantong
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20251013
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 5:57 日落 17:28\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 70%\n\n💨 风速 4 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 22°/27°
+SUMMARY;LANGUAGE=en:🌦️ 24°/27°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251013@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
+DTSTAMP;VALUE=DATE:20251013T005852
 DTSTART;VALUE=DATE:20251013
 LOCATION:Nantong
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251014
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:58 日落 17:27\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 77%\n\n💨 风速 5 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:58 日落 17:27\n\n⚡️ 气压 1015 hPa\n\n💧 湿度 85%\n\n💨 风速 5 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 20°/22°
+SUMMARY;LANGUAGE=en:🌦️ 20°/27°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251014@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
+DTSTAMP;VALUE=DATE:20251013T005852
 DTSTART;VALUE=DATE:20251014
 LOCATION:Nantong
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251015
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:58 日落 17:25\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 85%\n\n💨 风速 4 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:58 日落 17:25\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 90%\n\n💨 风速 4 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 22°/24°
+SUMMARY;LANGUAGE=en:🌦️ 22°/25°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251015@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
+DTSTAMP;VALUE=DATE:20251013T005852
 DTSTART;VALUE=DATE:20251015
 LOCATION:Nantong
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251016
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:59 日落 17:24\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 79%\n\n💨 风速 4 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:59 日落 17:24\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 84%\n\n💨 风速 4 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 21°/24°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251016@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
+DTSTAMP;VALUE=DATE:20251013T005852
 DTSTART;VALUE=DATE:20251016
 LOCATION:Nantong
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251017
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:00 日落 17:23\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 74%\n\n💨 风速 5 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:00 日落 17:23\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 78%\n\n💨 风速 5 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 21°/26°
+SUMMARY;LANGUAGE=en:🌦️ 21°/27°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251017@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
+DTSTAMP;VALUE=DATE:20251013T005852
 DTSTART;VALUE=DATE:20251017
 LOCATION:Nantong
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251018
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:00 日落 17:22\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 70%\n\n💨 风速 4 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:00 日落 17:22\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 70%\n\n💨 风速 3 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 14°/21°
+SUMMARY;LANGUAGE=en:🌦️ 18°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251018@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
+DTSTAMP;VALUE=DATE:20251013T005852
 DTSTART;VALUE=DATE:20251018
 LOCATION:Nantong
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251019
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:01 日落 17:21\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 85%\n\n💨 风速 10 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:01 日落 17:21\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 80%\n\n💨 风速 9 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 12°/18°
+SUMMARY;LANGUAGE=en:☁️ 17°/18°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251019@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
+DTSTAMP;VALUE=DATE:20251013T005852
 DTSTART;VALUE=DATE:20251019
 LOCATION:Nantong
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251020
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:02 日落 17:20\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 51%\n\n💨 风速 9 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:02 日落 17:20\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 64%\n\n💨 风速 8 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 12°/18°
+SUMMARY;LANGUAGE=en:☁️ 17°/19°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251020@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
+DTSTAMP;VALUE=DATE:20251013T005852
 DTSTART;VALUE=DATE:20251020
 LOCATION:Nantong
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251021
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:03 日落 17:19\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 53%\n\n💨 风速 8 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:03 日落 17:19\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 54%\n\n💨 风速 9 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 13°/20°
+SUMMARY;LANGUAGE=en:☁️ 17°/20°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251021@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
+DTSTAMP;VALUE=DATE:20251013T005852
 DTSTART;VALUE=DATE:20251021
 LOCATION:Nantong
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251022
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:03 日落 17:18\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 46%\n\n💨 风速 8 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:03 日落 17:18\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 60%\n\n💨 风速 9 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 14°/19°
+SUMMARY;LANGUAGE=en:☁️ 17°/20°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251022@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
+DTSTAMP;VALUE=DATE:20251013T005852
 DTSTART;VALUE=DATE:20251022
 LOCATION:Nantong
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251023
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:04 日落 17:16\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 55%\n\n💨 风速 6 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:04 日落 17:16\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 64%\n\n💨 风速 9 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 17°/21°
+SUMMARY;LANGUAGE=en:🌤️ 16°/19°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251023@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
+DTSTAMP;VALUE=DATE:20251013T005852
 DTSTART;VALUE=DATE:20251023
 LOCATION:Nantong
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251024
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:05 日落 17:15\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 57%\n\n💨 风速 5 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 6:05 日落 17:15\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 49%\n\n💨 风速 9 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 16°/22°
+SUMMARY;LANGUAGE=en:☁️ 15°/19°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251024@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
+DTSTAMP;VALUE=DATE:20251013T005852
 DTSTART;VALUE=DATE:20251024
 LOCATION:Nantong
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251025
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:06 日落 17:14\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 47%\n\n💨 风速 5 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:06 日落 17:14\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 55%\n\n💨 风速 8 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 17°/21°
+SUMMARY;LANGUAGE=en:☁️ 15°/20°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251025@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
+DTSTAMP;VALUE=DATE:20251013T005852
 DTSTART;VALUE=DATE:20251025
 LOCATION:Nantong
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251026
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:07 日落 17:13\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 57%\n\n💨 风速 4 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:07 日落 17:13\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 58%\n\n💨 风速 6 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 17°/23°
+SUMMARY;LANGUAGE=en:☀️ 17°/21°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251026@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005215
+DTSTAMP;VALUE=DATE:20251013T005852
 DTSTART;VALUE=DATE:20251026
 LOCATION:Nantong
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251027
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:07 日落 17:12\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 59%\n\n💨 风速 6 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:07 日落 17:12\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 51%\n\n💨 风速 6 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 17°/20°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20251027@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20251013T005852
+DTSTART;VALUE=DATE:20251027
+LOCATION:Nantong
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20251028
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:08 日落 17:11\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 51%\n\n💨 风速 4 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌤️ 17°/23°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20251028@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20251013T005852
+DTSTART;VALUE=DATE:20251028
+LOCATION:Nantong
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20251029
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 6:09 日落 17:10\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 60%\n\n💨 风速 4 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR

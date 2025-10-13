@@ -5,227 +5,227 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 23°/33°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20251011@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
-DTSTART;VALUE=DATE:20251011
-LOCATION:Luzhou
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20251012
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:56 日落 18:33\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 61%\n\n💨 风速 5 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 18°/23°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20251012@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
-DTSTART;VALUE=DATE:20251012
-LOCATION:Luzhou
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20251013
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:57 日落 18:32\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 79%\n\n💨 风速 4 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 17°/18°
+SUMMARY;LANGUAGE=en:🌦️ 18°/19°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251013@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
+DTSTAMP;VALUE=DATE:20251013T005847
 DTSTART;VALUE=DATE:20251013
 LOCATION:Luzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251014
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:57 日落 18:31\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 89%\n\n💨 风速 4 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ Heavy intensity rain\n\n🌅 日出 6:57 日落 18:31\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 86%\n\n💨 风速 4 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 18°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251014@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
+DTSTAMP;VALUE=DATE:20251013T005847
 DTSTART;VALUE=DATE:20251014
 LOCATION:Luzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251015
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:58 日落 18:29\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 75%\n\n💨 风速 2 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:58 日落 18:29\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 86%\n\n💨 风速 2 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 19°/25°
+SUMMARY;LANGUAGE=en:🌦️ 19°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251015@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
+DTSTAMP;VALUE=DATE:20251013T005847
 DTSTART;VALUE=DATE:20251015
 LOCATION:Luzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251016
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:58 日落 18:28\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 87%\n\n💨 风速 2 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 6:58 日落 18:28\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 68%\n\n💨 风速 3 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 21°/24°
+SUMMARY;LANGUAGE=en:🌦️ 21°/25°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251016@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
+DTSTAMP;VALUE=DATE:20251013T005847
 DTSTART;VALUE=DATE:20251016
 LOCATION:Luzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251017
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:59 日落 18:27\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 88%\n\n💨 风速 2 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:59 日落 18:27\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 86%\n\n💨 风速 2 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 15°/21°
+SUMMARY;LANGUAGE=en:🌦️ 19°/21°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251017@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
+DTSTAMP;VALUE=DATE:20251013T005847
 DTSTART;VALUE=DATE:20251017
 LOCATION:Luzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251018
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 7:00 日落 18:26\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 94%\n\n💨 风速 4 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 7:00 日落 18:26\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 97%\n\n💨 风速 2 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 14°/14°
+SUMMARY;LANGUAGE=en:🌦️ 17°/19°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251018@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
+DTSTAMP;VALUE=DATE:20251013T005847
 DTSTART;VALUE=DATE:20251018
 LOCATION:Luzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251019
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 7:00 日落 18:25\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 89%\n\n💨 风速 2 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:00 日落 18:25\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 87%\n\n💨 风速 2 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 14°/15°
+SUMMARY;LANGUAGE=en:🌦️ 18°/18°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251019@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
+DTSTAMP;VALUE=DATE:20251013T005847
 DTSTART;VALUE=DATE:20251019
 LOCATION:Luzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251020
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:01 日落 18:24\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 89%\n\n💨 风速 1 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:01 日落 18:24\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 95%\n\n💨 风速 1 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 15°/18°
+SUMMARY;LANGUAGE=en:🌦️ 16°/18°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251020@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
+DTSTAMP;VALUE=DATE:20251013T005847
 DTSTART;VALUE=DATE:20251020
 LOCATION:Luzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251021
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:02 日落 18:23\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 83%\n\n💨 风速 1 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:02 日落 18:23\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 94%\n\n💨 风速 2 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 16°/19°
+SUMMARY;LANGUAGE=en:🌦️ 14°/16°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251021@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
+DTSTAMP;VALUE=DATE:20251013T005847
 DTSTART;VALUE=DATE:20251021
 LOCATION:Luzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251022
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:02 日落 18:22\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 77%\n\n💨 风速 1 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:02 日落 18:22\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 94%\n\n💨 风速 3 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 16°/21°
+SUMMARY;LANGUAGE=en:🌦️ 14°/17°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251022@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
+DTSTAMP;VALUE=DATE:20251013T005847
 DTSTART;VALUE=DATE:20251022
 LOCATION:Luzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251023
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:03 日落 18:21\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 77%\n\n💨 风速 2 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:03 日落 18:21\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 87%\n\n💨 风速 1 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 17°/23°
+SUMMARY;LANGUAGE=en:🌦️ 15°/16°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251023@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
+DTSTAMP;VALUE=DATE:20251013T005847
 DTSTART;VALUE=DATE:20251023
 LOCATION:Luzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251024
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:04 日落 18:20\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 70%\n\n💨 风速 2 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:04 日落 18:20\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 87%\n\n💨 风速 1 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 17°/24°
+SUMMARY;LANGUAGE=en:🌦️ 15°/16°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251024@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
+DTSTAMP;VALUE=DATE:20251013T005847
 DTSTART;VALUE=DATE:20251024
 LOCATION:Luzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251025
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:04 日落 18:19\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 62%\n\n💨 风速 2 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:04 日落 18:19\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 92%\n\n💨 风速 1 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 17°/24°
+SUMMARY;LANGUAGE=en:🌦️ 16°/20°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251025@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
+DTSTAMP;VALUE=DATE:20251013T005847
 DTSTART;VALUE=DATE:20251025
 LOCATION:Luzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251026
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:05 日落 18:19\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 58%\n\n💨 风速 2 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:05 日落 18:19\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 81%\n\n💨 风速 2 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 17°/20°
+SUMMARY;LANGUAGE=en:🌦️ 17°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251026@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251011T005210
+DTSTAMP;VALUE=DATE:20251013T005847
 DTSTART;VALUE=DATE:20251026
 LOCATION:Luzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251027
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:06 日落 18:18\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 86%\n\n💨 风速 3 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:06 日落 18:18\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 79%\n\n💨 风速 1 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 18°/23°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20251027@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20251013T005847
+DTSTART;VALUE=DATE:20251027
+LOCATION:Luzhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20251028
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:06 日落 18:17\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 75%\n\n💨 风速 2 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 18°/20°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20251028@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20251013T005847
+DTSTART;VALUE=DATE:20251028
+LOCATION:Luzhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20251029
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:07 日落 18:16\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 83%\n\n💨 风速 2 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
