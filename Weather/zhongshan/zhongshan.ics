@@ -5,227 +5,227 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 21°/27°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20251117@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
-DTSTART;VALUE=DATE:20251117
-LOCATION:Zhongshan
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20251118
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:49 日落 17:55\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 59%\n\n💨 风速 4 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 13°/23°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20251118@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
-DTSTART;VALUE=DATE:20251118
-LOCATION:Zhongshan
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20251119
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:50 日落 17:55\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 56%\n\n💨 风速 8 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 12°/15°
+SUMMARY;LANGUAGE=en:🌦️ 12°/15°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251119@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
+DTSTAMP;VALUE=DATE:20251119T005859
 DTSTART;VALUE=DATE:20251119
 LOCATION:Zhongshan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251120
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:51 日落 17:55\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 66%\n\n💨 风速 7 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:51 日落 17:55\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 55%\n\n💨 风速 8 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 13°/21°
+SUMMARY;LANGUAGE=en:☁️ 14°/19°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251120@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
+DTSTAMP;VALUE=DATE:20251119T005859
 DTSTART;VALUE=DATE:20251120
 LOCATION:Zhongshan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251121
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:51 日落 17:55\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 38%\n\n💨 风速 3 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:51 日落 17:55\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 36%\n\n💨 风速 3 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 16°/21°
+SUMMARY;LANGUAGE=en:☁️ 15°/23°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251121@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
+DTSTAMP;VALUE=DATE:20251119T005859
 DTSTART;VALUE=DATE:20251121
 LOCATION:Zhongshan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251122
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:52 日落 17:55\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 40%\n\n💨 风速 3 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:52 日落 17:55\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 35%\n\n💨 风速 4 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 16°/23°
+SUMMARY;LANGUAGE=en:☀️ 15°/23°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251122@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
+DTSTAMP;VALUE=DATE:20251119T005859
 DTSTART;VALUE=DATE:20251122
 LOCATION:Zhongshan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251123
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:52 日落 17:54\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 37%\n\n💨 风速 3 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:52 日落 17:54\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 37%\n\n💨 风速 3 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 16°/25°
+SUMMARY;LANGUAGE=en:☁️ 17°/25°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251123@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
+DTSTAMP;VALUE=DATE:20251119T005859
 DTSTART;VALUE=DATE:20251123
 LOCATION:Zhongshan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251124
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:53 日落 17:54\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 41%\n\n💨 风速 4 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:53 日落 17:54\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 45%\n\n💨 风速 3 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 17°/26°
+SUMMARY;LANGUAGE=en:☁️ 19°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251124@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
+DTSTAMP;VALUE=DATE:20251119T005859
 DTSTART;VALUE=DATE:20251124
 LOCATION:Zhongshan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251125
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:54 日落 17:54\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 41%\n\n💨 风速 4 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:54 日落 17:54\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 46%\n\n💨 风速 6 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 17°/25°
+SUMMARY;LANGUAGE=en:☀️ 16°/24°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251125@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
+DTSTAMP;VALUE=DATE:20251119T005859
 DTSTART;VALUE=DATE:20251125
 LOCATION:Zhongshan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251126
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:54 日落 17:54\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 37%\n\n💨 风速 4 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:54 日落 17:54\n\n⚡️ 气压 1023 hPa\n\n💧 湿度 38%\n\n💨 风速 8 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 16°/24°
+SUMMARY;LANGUAGE=en:☀️ 14°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251126@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
+DTSTAMP;VALUE=DATE:20251119T005859
 DTSTART;VALUE=DATE:20251126
 LOCATION:Zhongshan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251127
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:55 日落 17:54\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 37%\n\n💨 风速 4 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:55 日落 17:54\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 33%\n\n💨 风速 4 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 17°/24°
+SUMMARY;LANGUAGE=en:☀️ 13°/23°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251127@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
+DTSTAMP;VALUE=DATE:20251119T005859
 DTSTART;VALUE=DATE:20251127
 LOCATION:Zhongshan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251128
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:56 日落 17:54\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 54%\n\n💨 风速 5 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:56 日落 17:54\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 29%\n\n💨 风速 3 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ 17°/26°
+SUMMARY;LANGUAGE=en:☁️ 15°/25°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251128@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
+DTSTAMP;VALUE=DATE:20251119T005859
 DTSTART;VALUE=DATE:20251128
 LOCATION:Zhongshan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251129
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 6:56 日落 17:54\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 51%\n\n💨 风速 3 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:56 日落 17:54\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 31%\n\n💨 风速 3 m/s\n🚩 北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 17°/25°
+SUMMARY;LANGUAGE=en:☁️ 17°/21°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251129@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
+DTSTAMP;VALUE=DATE:20251119T005859
 DTSTART;VALUE=DATE:20251129
 LOCATION:Zhongshan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251130
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:57 日落 17:54\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 43%\n\n💨 风速 4 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:57 日落 17:54\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 42%\n\n💨 风速 3 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 17°/25°
+SUMMARY;LANGUAGE=en:☁️ 19°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251130@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
+DTSTAMP;VALUE=DATE:20251119T005859
 DTSTART;VALUE=DATE:20251130
 LOCATION:Zhongshan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251201
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:58 日落 17:54\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 42%\n\n💨 风速 4 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:58 日落 17:54\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 36%\n\n💨 风速 3 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 17°/23°
+SUMMARY;LANGUAGE=en:☀️ 16°/21°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251201@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
+DTSTAMP;VALUE=DATE:20251119T005859
 DTSTART;VALUE=DATE:20251201
 LOCATION:Zhongshan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251202
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:58 日落 17:54\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 52%\n\n💨 风速 6 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:58 日落 17:54\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 52%\n\n💨 风速 7 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 18°/21°
+SUMMARY;LANGUAGE=en:☁️ 19°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251202@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251117T010008
+DTSTAMP;VALUE=DATE:20251119T005859
 DTSTART;VALUE=DATE:20251202
 LOCATION:Zhongshan
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251203
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:59 日落 17:54\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 47%\n\n💨 风速 5 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:59 日落 17:54\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 51%\n\n💨 风速 4 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 20°/23°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20251203@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20251119T005859
+DTSTART;VALUE=DATE:20251203
+LOCATION:Zhongshan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20251204
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:00 日落 17:55\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 42%\n\n💨 风速 6 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 19°/20°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20251204@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20251119T005859
+DTSTART;VALUE=DATE:20251204
+LOCATION:Zhongshan
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20251205
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:00 日落 17:55\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 43%\n\n💨 风速 2 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
