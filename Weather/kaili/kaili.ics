@@ -8,224 +8,224 @@ BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 20°/25°
  
 X-FUNAMBOL-ALLDAY:1 
-UID:20251211@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
-DTSTART;VALUE=DATE:20251211
-LOCATION:Kaili
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20251212
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:42 日落 18:01\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 81%\n\n💨 风速 1 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 20°/26°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20251212@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
-DTSTART;VALUE=DATE:20251212
-LOCATION:Kaili
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20251213
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ Heavy intensity rain\n\n🌅 日出 5:43 日落 18:02\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 72%\n\n💨 风速 1 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 20°/27°
- 
-X-FUNAMBOL-ALLDAY:1 
 UID:20251213@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
+DTSTAMP;VALUE=DATE:20251213T005823
 DTSTART;VALUE=DATE:20251213
 LOCATION:Kaili
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251214
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:43 日落 18:02\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 66%\n\n💨 风速 2 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ Heavy intensity rain\n\n🌅 日出 5:43 日落 18:02\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 80%\n\n💨 风速 2 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 20°/27°
+SUMMARY;LANGUAGE=en:🌦️ 20°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251214@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
+DTSTAMP;VALUE=DATE:20251213T005823
 DTSTART;VALUE=DATE:20251214
 LOCATION:Kaili
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251215
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:44 日落 18:03\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 71%\n\n💨 风速 1 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ Heavy intensity rain\n\n🌅 日出 5:44 日落 18:03\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 81%\n\n💨 风速 1 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 20°/25°
+SUMMARY;LANGUAGE=en:🌦️ 20°/27°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251215@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
+DTSTAMP;VALUE=DATE:20251213T005823
 DTSTART;VALUE=DATE:20251215
 LOCATION:Kaili
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251216
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:44 日落 18:03\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 90%\n\n💨 风速 1 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:44 日落 18:03\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 66%\n\n💨 风速 1 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 20°/24°
+SUMMARY;LANGUAGE=en:🌦️ 20°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251216@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
+DTSTAMP;VALUE=DATE:20251213T005823
 DTSTART;VALUE=DATE:20251216
 LOCATION:Kaili
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251217
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:45 日落 18:04\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 91%\n\n💨 风速 1 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:45 日落 18:04\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 97%\n\n💨 风速 1 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 20°/24°
+SUMMARY;LANGUAGE=en:🌦️ 20°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251217@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
+DTSTAMP;VALUE=DATE:20251213T005823
 DTSTART;VALUE=DATE:20251217
 LOCATION:Kaili
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251218
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:45 日落 18:04\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 87%\n\n💨 风速 1 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ Heavy intensity rain\n\n🌅 日出 5:45 日落 18:04\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 76%\n\n💨 风速 1 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 20°/24°
+SUMMARY;LANGUAGE=en:🌦️ 20°/25°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251218@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
+DTSTAMP;VALUE=DATE:20251213T005823
 DTSTART;VALUE=DATE:20251218
 LOCATION:Kaili
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251219
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ Heavy intensity rain\n\n🌅 日出 5:46 日落 18:05\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 92%\n\n💨 风速 1 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:46 日落 18:05\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 79%\n\n💨 风速 1 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 19°/25°
+SUMMARY;LANGUAGE=en:🌦️ 20°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251219@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
+DTSTAMP;VALUE=DATE:20251213T005823
 DTSTART;VALUE=DATE:20251219
 LOCATION:Kaili
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251220
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ Heavy intensity rain\n\n🌅 日出 5:46 日落 18:05\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 79%\n\n💨 风速 1 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:46 日落 18:05\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 81%\n\n💨 风速 1 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 20°/25°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251220@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
+DTSTAMP;VALUE=DATE:20251213T005823
 DTSTART;VALUE=DATE:20251220
 LOCATION:Kaili
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251221
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:46 日落 18:06\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 82%\n\n💨 风速 1 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:46 日落 18:06\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 86%\n\n💨 风速 1 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 19°/27°
+SUMMARY;LANGUAGE=en:🌦️ 19°/25°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251221@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
+DTSTAMP;VALUE=DATE:20251213T005823
 DTSTART;VALUE=DATE:20251221
 LOCATION:Kaili
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251222
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:47 日落 18:06\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 68%\n\n💨 风速 1 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:47 日落 18:06\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 83%\n\n💨 风速 1 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 20°/25°
+SUMMARY;LANGUAGE=en:🌦️ 19°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251222@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
+DTSTAMP;VALUE=DATE:20251213T005823
 DTSTART;VALUE=DATE:20251222
 LOCATION:Kaili
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251223
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:47 日落 18:07\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 79%\n\n💨 风速 1 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:47 日落 18:07\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 71%\n\n💨 风速 1 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 20°/26°
+SUMMARY;LANGUAGE=en:🌦️ 19°/27°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251223@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
+DTSTAMP;VALUE=DATE:20251213T005823
 DTSTART;VALUE=DATE:20251223
 LOCATION:Kaili
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251224
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:48 日落 18:07\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 76%\n\n💨 风速 2 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:48 日落 18:07\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 63%\n\n💨 风速 2 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:🌦️ 20°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251224@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
+DTSTAMP;VALUE=DATE:20251213T005823
 DTSTART;VALUE=DATE:20251224
 LOCATION:Kaili
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251225
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:48 日落 18:08\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 86%\n\n💨 风速 1 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:48 日落 18:08\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 71%\n\n💨 风速 1 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 20°/25°
+SUMMARY;LANGUAGE=en:🌦️ 19°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251225@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
+DTSTAMP;VALUE=DATE:20251213T005823
 DTSTART;VALUE=DATE:20251225
 LOCATION:Kaili
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251226
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:49 日落 18:08\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 84%\n\n💨 风速 1 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:49 日落 18:08\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 74%\n\n💨 风速 1 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 20°/25°
+SUMMARY;LANGUAGE=en:🌦️ 20°/27°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20251226@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20251211T010237
+DTSTAMP;VALUE=DATE:20251213T005823
 DTSTART;VALUE=DATE:20251226
 LOCATION:Kaili
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20251227
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:49 日落 18:09\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 92%\n\n💨 风速 1 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:49 日落 18:09\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 70%\n\n💨 风速 1 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 20°/24°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20251227@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20251213T005823
+DTSTART;VALUE=DATE:20251227
+LOCATION:Kaili
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20251228
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 中雨\n\n🌅 日出 5:50 日落 18:09\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 86%\n\n💨 风速 1 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 20°/25°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20251228@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20251213T005823
+DTSTART;VALUE=DATE:20251228
+LOCATION:Kaili
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20251229
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 5:50 日落 18:10\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 93%\n\n💨 风速 1 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
