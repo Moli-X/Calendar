@@ -4,15 +4,228 @@ PRODID:-//Moli-X//Weather//CN
 X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
-
 BEGIN:VEVENT
-CLASS:PUBLIC
-DESCRIPTION:Please try to make a new calendar at https://github.com/Moli-X/Calendar
-DTSTART;VALUE=DATE:20260101
-DTEND;VALUE=DATE:20260117
-DTSTAMP;VALUE=DATE:20260101T010934
-SUMMARY;LANGUAGE=en-us:⚠️ City not found
-UID:20230823@vejnoe.dk
+SUMMARY;LANGUAGE=en:🌦️ 4°/5°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260103@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260103
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260104
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 8:01 日落 18:11\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 95%\n\n💨 风速 3 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
-
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 3°/11°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260104@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260104
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260105
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 8:01 日落 18:12\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 55%\n\n💨 风速 2 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 4°/10°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260105@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260105
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260106
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 8:01 日落 18:13\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 56%\n\n💨 风速 4 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 3°/12°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260106@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260106
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260107
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 8:01 日落 18:14\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 39%\n\n💨 风速 2 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 4°/12°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260107@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260107
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260108
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 8:01 日落 18:14\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 37%\n\n💨 风速 1 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 4°/12°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260108@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260108
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260109
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 8:01 日落 18:15\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 37%\n\n💨 风速 2 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 4°/12°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260109@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260109
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260110
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 8:01 日落 18:16\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 44%\n\n💨 风速 1 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 5°/13°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260110@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260110
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260111
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 8:01 日落 18:17\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 42%\n\n💨 风速 1 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 6°/14°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260111@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260111
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260112
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 8:01 日落 18:18\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 44%\n\n💨 风速 2 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 8°/15°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260112@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260112
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260113
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 8:01 日落 18:19\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 36%\n\n💨 风速 2 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 7°/15°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260113@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260113
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260114
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 8:01 日落 18:19\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 47%\n\n💨 风速 2 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 10°/12°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260114@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260114
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260115
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 8:01 日落 18:20\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 67%\n\n💨 风速 2 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 8°/9°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260115@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260115
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260116
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 8:01 日落 18:21\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 87%\n\n💨 风速 2 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 8°/12°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260116@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260116
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260117
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 8:01 日落 18:22\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 76%\n\n💨 风速 2 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 6°/13°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260117@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260117
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260118
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 8:01 日落 18:23\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 60%\n\n💨 风速 1 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 9°/11°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260118@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260103T005948
+DTSTART;VALUE=DATE:20260118
+LOCATION:Deyang
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260119
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 8:00 日落 18:24\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 81%\n\n💨 风速 3 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
 END:VCALENDAR
