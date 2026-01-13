@@ -5,227 +5,227 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 8°/16°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20260111@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
-DTSTART;VALUE=DATE:20260111
-LOCATION:Fuzhou
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20260112
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:51 日落 17:29\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 48%\n\n💨 风速 4 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ 6°/19°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20260112@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
-DTSTART;VALUE=DATE:20260112
-LOCATION:Fuzhou
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20260113
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 6:51 日落 17:29\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 43%\n\n💨 风速 2 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 9°/23°
+SUMMARY;LANGUAGE=en:☀️ 10°/23°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260113@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
+DTSTAMP;VALUE=DATE:20260113T010026
 DTSTART;VALUE=DATE:20260113
 LOCATION:Fuzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260114
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:51 日落 17:30\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 29%\n\n💨 风速 2 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:51 日落 17:30\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 29%\n\n💨 风速 2 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 9°/21°
+SUMMARY;LANGUAGE=en:☀️ 9°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260114@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
+DTSTAMP;VALUE=DATE:20260113T010026
 DTSTART;VALUE=DATE:20260114
 LOCATION:Fuzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260115
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:51 日落 17:31\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 42%\n\n💨 风速 3 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:51 日落 17:31\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 34%\n\n💨 风速 2 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 11°/25°
+SUMMARY;LANGUAGE=en:☀️ 10°/25°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260115@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
+DTSTAMP;VALUE=DATE:20260113T010026
 DTSTART;VALUE=DATE:20260115
 LOCATION:Fuzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260116
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:51 日落 17:32\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 38%\n\n💨 风速 1 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:51 日落 17:32\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 27%\n\n💨 风速 1 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 12°/25°
+SUMMARY;LANGUAGE=en:☀️ 11°/23°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260116@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
+DTSTAMP;VALUE=DATE:20260113T010026
 DTSTART;VALUE=DATE:20260116
 LOCATION:Fuzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260117
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:51 日落 17:32\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 38%\n\n💨 风速 2 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:51 日落 17:32\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 41%\n\n💨 风速 2 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 13°/20°
+SUMMARY;LANGUAGE=en:☀️ 12°/25°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260117@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
+DTSTAMP;VALUE=DATE:20260113T010026
 DTSTART;VALUE=DATE:20260117
 LOCATION:Fuzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260118
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:51 日落 17:33\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 61%\n\n💨 风速 3 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:51 日落 17:33\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 54%\n\n💨 风速 2 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 14°/22°
+SUMMARY;LANGUAGE=en:🌤️ 15°/26°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260118@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
+DTSTAMP;VALUE=DATE:20260113T010026
 DTSTART;VALUE=DATE:20260118
 LOCATION:Fuzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260119
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:51 日落 17:34\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 63%\n\n💨 风速 2 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 6:51 日落 17:34\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 49%\n\n💨 风速 2 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 13°/24°
+SUMMARY;LANGUAGE=en:☀️ 11°/22°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260119@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
+DTSTAMP;VALUE=DATE:20260113T010026
 DTSTART;VALUE=DATE:20260119
 LOCATION:Fuzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260120
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:51 日落 17:35\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 53%\n\n💨 风速 2 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:51 日落 17:35\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 42%\n\n💨 风速 4 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 8°/13°
+SUMMARY;LANGUAGE=en:🌦️ 9°/11°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260120@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
+DTSTAMP;VALUE=DATE:20260113T010026
 DTSTART;VALUE=DATE:20260120
 LOCATION:Fuzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260121
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:50 日落 17:35\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 83%\n\n💨 风速 3 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:50 日落 17:35\n\n⚡️ 气压 1025 hPa\n\n💧 湿度 80%\n\n💨 风速 1 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 6°/9°
+SUMMARY;LANGUAGE=en:🌦️ 7°/8°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260121@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
+DTSTAMP;VALUE=DATE:20260113T010026
 DTSTART;VALUE=DATE:20260121
 LOCATION:Fuzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260122
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:50 日落 17:36\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 56%\n\n💨 风速 2 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:50 日落 17:36\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 77%\n\n💨 风速 2 m/s\n🚩 东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 6°/11°
+SUMMARY;LANGUAGE=en:☁️ 5°/11°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260122@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
+DTSTAMP;VALUE=DATE:20260113T010026
 DTSTART;VALUE=DATE:20260122
 LOCATION:Fuzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260123
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:50 日落 17:37\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 44%\n\n💨 风速 3 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 6:50 日落 17:37\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 53%\n\n💨 风速 3 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 6°/10°
+SUMMARY;LANGUAGE=en:🌤️ 5°/12°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260123@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
+DTSTAMP;VALUE=DATE:20260113T010026
 DTSTART;VALUE=DATE:20260123
 LOCATION:Fuzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260124
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:50 日落 17:38\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 47%\n\n💨 风速 2 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 6:50 日落 17:38\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 43%\n\n💨 风速 3 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 5°/13°
+SUMMARY;LANGUAGE=en:☀️ 4°/16°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260124@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
+DTSTAMP;VALUE=DATE:20260113T010026
 DTSTART;VALUE=DATE:20260124
 LOCATION:Fuzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260125
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:50 日落 17:39\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 49%\n\n💨 风速 2 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:50 日落 17:39\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 35%\n\n💨 风速 3 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 5°/17°
+SUMMARY;LANGUAGE=en:☀️ 4°/16°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260125@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
+DTSTAMP;VALUE=DATE:20260113T010026
 DTSTART;VALUE=DATE:20260125
 LOCATION:Fuzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260126
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:49 日落 17:39\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 43%\n\n💨 风速 2 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:49 日落 17:39\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 39%\n\n💨 风速 2 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ 5°/14°
+SUMMARY;LANGUAGE=en:☀️ 4°/17°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260126@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011003
+DTSTAMP;VALUE=DATE:20260113T010026
 DTSTART;VALUE=DATE:20260126
 LOCATION:Fuzhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260127
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 6:49 日落 17:40\n\n⚡️ 气压 1029 hPa\n\n💧 湿度 48%\n\n💨 风速 3 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:49 日落 17:40\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 36%\n\n💨 风速 2 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ 5°/19°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260127@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260113T010026
+DTSTART;VALUE=DATE:20260127
+LOCATION:Fuzhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260128
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:49 日落 17:41\n\n⚡️ 气压 1026 hPa\n\n💧 湿度 46%\n\n💨 风速 2 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 12°/24°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260128@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260113T010026
+DTSTART;VALUE=DATE:20260128
+LOCATION:Fuzhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:48 日落 17:42\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 44%\n\n💨 风速 2 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR

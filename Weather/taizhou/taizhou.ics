@@ -5,227 +5,227 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -2°/6°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20260111@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
-DTSTART;VALUE=DATE:20260111
-LOCATION:Taizhou
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20260112
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:02 日落 17:13\n\n⚡️ 气压 1033 hPa\n\n💧 湿度 13%\n\n💨 风速 5 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ -2°/14°
- 
-X-FUNAMBOL-ALLDAY:1 
-UID:20260112@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
-DTSTART;VALUE=DATE:20260112
-LOCATION:Taizhou
- 
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
-DTEND;VALUE=DATE:20260113
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:02 日落 17:13\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 24%\n\n💨 风速 6 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 3°/14°
+SUMMARY;LANGUAGE=en:☀️ 2°/15°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260113@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
+DTSTAMP;VALUE=DATE:20260113T010052
 DTSTART;VALUE=DATE:20260113
 LOCATION:Taizhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260114
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:02 日落 17:14\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 33%\n\n💨 风速 4 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:02 日落 17:14\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 25%\n\n💨 风速 3 m/s\n🚩 东南偏东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☁️ 5°/18°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260114@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
+DTSTAMP;VALUE=DATE:20260113T010052
 DTSTART;VALUE=DATE:20260114
 LOCATION:Taizhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260115
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:02 日落 17:15\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 40%\n\n💨 风速 5 m/s\n🚩 南偏东 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:02 日落 17:15\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 31%\n\n💨 风速 3 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ 7°/18°
+SUMMARY;LANGUAGE=en:☁️ 7°/18°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260115@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
+DTSTAMP;VALUE=DATE:20260113T010052
 DTSTART;VALUE=DATE:20260115
 LOCATION:Taizhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260116
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 7:02 日落 17:16\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 34%\n\n💨 风速 3 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:02 日落 17:16\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 27%\n\n💨 风速 3 m/s\n🚩 东南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 6°/15°
+SUMMARY;LANGUAGE=en:☁️ 6°/19°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260116@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
+DTSTAMP;VALUE=DATE:20260113T010052
 DTSTART;VALUE=DATE:20260116
 LOCATION:Taizhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260117
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:02 日落 17:17\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 42%\n\n💨 风速 3 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:02 日落 17:17\n\n⚡️ 气压 1019 hPa\n\n💧 湿度 35%\n\n💨 风速 5 m/s\n🚩 东南 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 5°/12°
+SUMMARY;LANGUAGE=en:☁️ 9°/18°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260117@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
+DTSTAMP;VALUE=DATE:20260113T010052
 DTSTART;VALUE=DATE:20260117
 LOCATION:Taizhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260118
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:01 日落 17:18\n\n⚡️ 气压 1024 hPa\n\n💧 湿度 56%\n\n💨 风速 7 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:01 日落 17:18\n\n⚡️ 气压 1020 hPa\n\n💧 湿度 64%\n\n💨 风速 5 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 6°/11°
+SUMMARY;LANGUAGE=en:☁️ 6°/18°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260118@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
+DTSTAMP;VALUE=DATE:20260113T010052
 DTSTART;VALUE=DATE:20260118
 LOCATION:Taizhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260119
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:01 日落 17:19\n\n⚡️ 气压 1022 hPa\n\n💧 湿度 67%\n\n💨 风速 6 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:01 日落 17:19\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 66%\n\n💨 风速 8 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:⛈️ -0°/8°
+SUMMARY;LANGUAGE=en:⛈️ -2°/5°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260119@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
+DTSTAMP;VALUE=DATE:20260113T010052
 DTSTART;VALUE=DATE:20260119
 LOCATION:Taizhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260120
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:⛈️ Rain and snow\n\n🌅 日出 7:01 日落 17:20\n\n⚡️ 气压 1027 hPa\n\n💧 湿度 83%\n\n💨 风速 7 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:⛈️ 小雪\n\n🌅 日出 7:01 日落 17:20\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 70%\n\n💨 风速 8 m/s\n🚩 北偏东 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:⛈️ -7°/1°
+SUMMARY;LANGUAGE=en:⛈️ -3°/0°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260120@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
+DTSTAMP;VALUE=DATE:20260113T010052
 DTSTART;VALUE=DATE:20260120
 LOCATION:Taizhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260121
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:⛈️ 小雪\n\n🌅 日出 7:00 日落 17:21\n\n⚡️ 气压 1038 hPa\n\n💧 湿度 59%\n\n💨 风速 7 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:⛈️ 小雪\n\n🌅 日出 7:00 日落 17:21\n\n⚡️ 气压 1035 hPa\n\n💧 湿度 74%\n\n💨 风速 7 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ -9°/2°
+SUMMARY;LANGUAGE=en:☀️ -7°/-0°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260121@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
+DTSTAMP;VALUE=DATE:20260113T010052
 DTSTART;VALUE=DATE:20260121
 LOCATION:Taizhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260122
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:00 日落 17:22\n\n⚡️ 气压 1035 hPa\n\n💧 湿度 51%\n\n💨 风速 4 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:00 日落 17:22\n\n⚡️ 气压 1035 hPa\n\n💧 湿度 50%\n\n💨 风速 6 m/s\n🚩 北偏西 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ -7°/3°
+SUMMARY;LANGUAGE=en:☁️ -9°/0°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260122@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
+DTSTAMP;VALUE=DATE:20260113T010052
 DTSTART;VALUE=DATE:20260122
 LOCATION:Taizhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260123
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 7:00 日落 17:22\n\n⚡️ 气压 1034 hPa\n\n💧 湿度 26%\n\n💨 风速 3 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:00 日落 17:22\n\n⚡️ 气压 1036 hPa\n\n💧 湿度 21%\n\n💨 风速 5 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -5°/5°
+SUMMARY;LANGUAGE=en:☀️ -7°/3°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260123@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
+DTSTAMP;VALUE=DATE:20260113T010052
 DTSTART;VALUE=DATE:20260123
 LOCATION:Taizhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260124
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:59 日落 17:23\n\n⚡️ 气压 1037 hPa\n\n💧 湿度 26%\n\n💨 风速 4 m/s\n🚩 北偏东 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:59 日落 17:23\n\n⚡️ 气压 1033 hPa\n\n💧 湿度 42%\n\n💨 风速 5 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ -3°/6°
+SUMMARY;LANGUAGE=en:☀️ -5°/6°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260124@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
+DTSTAMP;VALUE=DATE:20260113T010052
 DTSTART;VALUE=DATE:20260124
 LOCATION:Taizhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260125
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:59 日落 17:24\n\n⚡️ 气压 1035 hPa\n\n💧 湿度 39%\n\n💨 风速 3 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:59 日落 17:24\n\n⚡️ 气压 1032 hPa\n\n💧 湿度 28%\n\n💨 风速 5 m/s\n🚩 西北偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ -2°/8°
+SUMMARY;LANGUAGE=en:☀️ -4°/8°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260125@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
+DTSTAMP;VALUE=DATE:20260113T010052
 DTSTART;VALUE=DATE:20260125
 LOCATION:Taizhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260126
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 6:59 日落 17:25\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 40%\n\n💨 风速 3 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:59 日落 17:25\n\n⚡️ 气压 1034 hPa\n\n💧 湿度 41%\n\n💨 风速 4 m/s\n🚩 西北 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ -1°/9°
+SUMMARY;LANGUAGE=en:☀️ -2°/10°
  
 X-FUNAMBOL-ALLDAY:1 
 UID:20260126@vejnoe.dk 
-DTSTAMP;VALUE=DATE:20260111T011029
+DTSTAMP;VALUE=DATE:20260113T010052
 DTSTART;VALUE=DATE:20260126
 LOCATION:Taizhou
  
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
 DTEND;VALUE=DATE:20260127
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:58 日落 17:26\n\n⚡️ 气压 1033 hPa\n\n💧 湿度 33%\n\n💨 风速 3 m/s\n🚩 北 ↓\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 6:58 日落 17:26\n\n⚡️ 气压 1031 hPa\n\n💧 湿度 41%\n\n💨 风速 3 m/s\n🚩 西北偏西 ↘\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☁️ -1°/11°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260127@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260113T010052
+DTSTART;VALUE=DATE:20260127
+LOCATION:Taizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260128
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 6:58 日落 17:27\n\n⚡️ 气压 1028 hPa\n\n💧 湿度 33%\n\n💨 风速 7 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 3°/7°
+ 
+X-FUNAMBOL-ALLDAY:1 
+UID:20260128@vejnoe.dk 
+DTSTAMP;VALUE=DATE:20260113T010052
+DTSTART;VALUE=DATE:20260128
+LOCATION:Taizhou
+ 
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE 
+DTEND;VALUE=DATE:20260129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC 
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 6:57 日落 17:28\n\n⚡️ 气压 1030 hPa\n\n💧 湿度 73%\n\n💨 风速 7 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
