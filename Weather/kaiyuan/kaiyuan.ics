@@ -5,195 +5,195 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 10°/21°
-X-FUNAMBOL-ALLDAY:1
-UID:20260123@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
-DTSTART;VALUE=DATE:20260123
-LOCATION:Kaiyuan
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTEND;VALUE=DATE:20260124
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:50 日落 18:46\n\n⚡️ 气压 1018 hPa\n\n💧 湿度 49%\n\n💨 风速 3 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 9°/23°
-X-FUNAMBOL-ALLDAY:1
-UID:20260124@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
-DTSTART;VALUE=DATE:20260124
-LOCATION:Kaiyuan
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTEND;VALUE=DATE:20260125
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:50 日落 18:47\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 49%\n\n💨 风速 4 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 9°/25°
+SUMMARY;LANGUAGE=en:☀️ 10°/25°
 X-FUNAMBOL-ALLDAY:1
 UID:20260125@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
+DTSTAMP;VALUE=DATE:20260125T011108
 DTSTART;VALUE=DATE:20260125
 LOCATION:Kaiyuan
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260126
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:49 日落 18:47\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 35%\n\n💨 风速 4 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:49 日落 18:47\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 32%\n\n💨 风速 4 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 10°/25°
+SUMMARY;LANGUAGE=en:☀️ 10°/24°
 X-FUNAMBOL-ALLDAY:1
 UID:20260126@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
+DTSTAMP;VALUE=DATE:20260125T011108
 DTSTART;VALUE=DATE:20260126
 LOCATION:Kaiyuan
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260127
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:49 日落 18:48\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 33%\n\n💨 风速 3 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:49 日落 18:48\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 46%\n\n💨 风速 4 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 12°/25°
+SUMMARY;LANGUAGE=en:☁️ 11°/24°
 X-FUNAMBOL-ALLDAY:1
 UID:20260127@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
+DTSTAMP;VALUE=DATE:20260125T011108
 DTSTART;VALUE=DATE:20260127
 LOCATION:Kaiyuan
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260128
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:49 日落 18:49\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 36%\n\n💨 风速 3 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:49 日落 18:49\n\n⚡️ 气压 1017 hPa\n\n💧 湿度 52%\n\n💨 风速 3 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 12°/25°
+SUMMARY;LANGUAGE=en:🌤️ 11°/24°
 X-FUNAMBOL-ALLDAY:1
 UID:20260128@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
+DTSTAMP;VALUE=DATE:20260125T011108
 DTSTART;VALUE=DATE:20260128
 LOCATION:Kaiyuan
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260129
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:49 日落 18:50\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 38%\n\n💨 风速 5 m/s\n🚩 南偏西 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 7:49 日落 18:50\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 41%\n\n💨 风速 4 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 12°/27°
+SUMMARY;LANGUAGE=en:☀️ 12°/26°
 X-FUNAMBOL-ALLDAY:1
 UID:20260129@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
+DTSTAMP;VALUE=DATE:20260125T011108
 DTSTART;VALUE=DATE:20260129
 LOCATION:Kaiyuan
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260130
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:48 日落 18:50\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 32%\n\n💨 风速 7 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:48 日落 18:50\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 32%\n\n💨 风速 5 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 12°/27°
+SUMMARY;LANGUAGE=en:☁️ 12°/26°
 X-FUNAMBOL-ALLDAY:1
 UID:20260130@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
+DTSTAMP;VALUE=DATE:20260125T011108
 DTSTART;VALUE=DATE:20260130
 LOCATION:Kaiyuan
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260131
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:48 日落 18:51\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 24%\n\n💨 风速 6 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:48 日落 18:51\n\n⚡️ 气压 1012 hPa\n\n💧 湿度 28%\n\n💨 风速 5 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 11°/26°
+SUMMARY;LANGUAGE=en:☁️ 13°/25°
 X-FUNAMBOL-ALLDAY:1
 UID:20260131@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
+DTSTAMP;VALUE=DATE:20260125T011108
 DTSTART;VALUE=DATE:20260131
 LOCATION:Kaiyuan
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260201
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:48 日落 18:52\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 26%\n\n💨 风速 4 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:48 日落 18:52\n\n⚡️ 气压 1014 hPa\n\n💧 湿度 37%\n\n💨 风速 4 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 12°/27°
+SUMMARY;LANGUAGE=en:☁️ 13°/23°
 X-FUNAMBOL-ALLDAY:1
 UID:20260201@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
+DTSTAMP;VALUE=DATE:20260125T011108
 DTSTART;VALUE=DATE:20260201
 LOCATION:Kaiyuan
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260202
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:47 日落 18:52\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 27%\n\n💨 风速 8 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:47 日落 18:52\n\n⚡️ 气压 1016 hPa\n\n💧 湿度 54%\n\n💨 风速 4 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ 12°/27°
+SUMMARY;LANGUAGE=en:☁️ 13°/22°
 X-FUNAMBOL-ALLDAY:1
 UID:20260202@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
+DTSTAMP;VALUE=DATE:20260125T011108
 DTSTART;VALUE=DATE:20260202
 LOCATION:Kaiyuan
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260203
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 7:47 日落 18:53\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 18%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:47 日落 18:53\n\n⚡️ 气压 1015 hPa\n\n💧 湿度 58%\n\n💨 风速 5 m/s\n🚩 南偏东 ↖\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 12°/28°
+SUMMARY;LANGUAGE=en:🌤️ 12°/27°
 X-FUNAMBOL-ALLDAY:1
 UID:20260203@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
+DTSTAMP;VALUE=DATE:20260125T011108
 DTSTART;VALUE=DATE:20260203
 LOCATION:Kaiyuan
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260204
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:46 日落 18:54\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 15%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 7:46 日落 18:54\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 33%\n\n💨 风速 6 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 12°/28°
 X-FUNAMBOL-ALLDAY:1
 UID:20260204@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
+DTSTAMP;VALUE=DATE:20260125T011108
 DTSTART;VALUE=DATE:20260204
 LOCATION:Kaiyuan
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260205
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:46 日落 18:54\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 17%\n\n💨 风速 6 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:46 日落 18:54\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 24%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 12°/27°
+SUMMARY;LANGUAGE=en:☀️ 12°/28°
 X-FUNAMBOL-ALLDAY:1
 UID:20260205@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
+DTSTAMP;VALUE=DATE:20260125T011108
 DTSTART;VALUE=DATE:20260205
 LOCATION:Kaiyuan
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260206
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:45 日落 18:55\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 23%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:45 日落 18:55\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 16%\n\n💨 风速 6 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 12°/27°
+SUMMARY;LANGUAGE=en:☁️ 12°/27°
 X-FUNAMBOL-ALLDAY:1
 UID:20260206@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
+DTSTAMP;VALUE=DATE:20260125T011108
 DTSTART;VALUE=DATE:20260206
 LOCATION:Kaiyuan
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260207
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:45 日落 18:56\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 18%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:45 日落 18:56\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 30%\n\n💨 风速 5 m/s\n🚩 南 ↑\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 11°/26°
+SUMMARY;LANGUAGE=en:☀️ 13°/26°
 X-FUNAMBOL-ALLDAY:1
 UID:20260207@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260123T010547
+DTSTAMP;VALUE=DATE:20260125T011108
 DTSTART;VALUE=DATE:20260207
 LOCATION:Kaiyuan
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260208
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:44 日落 18:56\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 20%\n\n💨 风速 6 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:44 日落 18:56\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 28%\n\n💨 风速 5 m/s\n🚩 南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 13°/28°
+X-FUNAMBOL-ALLDAY:1
+UID:20260208@vejnoe.dk
+DTSTAMP;VALUE=DATE:20260125T011108
+DTSTART;VALUE=DATE:20260208
+LOCATION:Kaiyuan
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTEND;VALUE=DATE:20260209
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:44 日落 18:57\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 23%\n\n💨 风速 8 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:☀️ 12°/29°
+X-FUNAMBOL-ALLDAY:1
+UID:20260209@vejnoe.dk
+DTSTAMP;VALUE=DATE:20260125T011108
+DTSTART;VALUE=DATE:20260209
+LOCATION:Kaiyuan
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTEND;VALUE=DATE:20260210
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:43 日落 18:58\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 15%\n\n💨 风速 6 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
