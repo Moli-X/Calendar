@@ -5,195 +5,195 @@ X-WR-CALNAME:天气订阅
 X-APPLE-CALENDAR-COLOR:#ffffff
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 11°/22°
-X-FUNAMBOL-ALLDAY:1
-UID:20260221@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
-DTSTART;VALUE=DATE:20260221
-LOCATION:Kunming
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTEND;VALUE=DATE:20260222
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:39 日落 19:06\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 19%\n\n💨 风速 7 m/s\n🚩 西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 11°/22°
-X-FUNAMBOL-ALLDAY:1
-UID:20260222@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
-DTSTART;VALUE=DATE:20260222
-LOCATION:Kunming
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTEND;VALUE=DATE:20260223
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:38 日落 19:07\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 17%\n\n💨 风速 8 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 13°/22°
+SUMMARY;LANGUAGE=en:☀️ 10°/21°
 X-FUNAMBOL-ALLDAY:1
 UID:20260223@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
+DTSTAMP;VALUE=DATE:20260223T011818
 DTSTART;VALUE=DATE:20260223
 LOCATION:Kunming
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260224
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:37 日落 19:07\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 21%\n\n💨 风速 9 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:37 日落 19:07\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 21%\n\n💨 风速 8 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 10°/21°
+SUMMARY;LANGUAGE=en:🌤️ 11°/22°
 X-FUNAMBOL-ALLDAY:1
 UID:20260224@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
+DTSTAMP;VALUE=DATE:20260223T011818
 DTSTART;VALUE=DATE:20260224
 LOCATION:Kunming
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260225
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:36 日落 19:08\n\n⚡️ 气压 1008 hPa\n\n💧 湿度 17%\n\n💨 风速 6 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 7:36 日落 19:08\n\n⚡️ 气压 1010 hPa\n\n💧 湿度 15%\n\n💨 风速 6 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 12°/21°
+SUMMARY;LANGUAGE=en:☁️ 13°/22°
 X-FUNAMBOL-ALLDAY:1
 UID:20260225@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
+DTSTAMP;VALUE=DATE:20260223T011818
 DTSTART;VALUE=DATE:20260225
 LOCATION:Kunming
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260226
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:36 日落 19:08\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 28%\n\n💨 风速 8 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 多云\n\n🌅 日出 7:36 日落 19:08\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 21%\n\n💨 风速 7 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 11°/21°
+SUMMARY;LANGUAGE=en:☀️ 12°/22°
 X-FUNAMBOL-ALLDAY:1
 UID:20260226@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
+DTSTAMP;VALUE=DATE:20260223T011818
 DTSTART;VALUE=DATE:20260226
 LOCATION:Kunming
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260227
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:35 日落 19:09\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 21%\n\n💨 风速 8 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:35 日落 19:09\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 20%\n\n💨 风速 7 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 11°/21°
 X-FUNAMBOL-ALLDAY:1
 UID:20260227@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
+DTSTAMP;VALUE=DATE:20260223T011818
 DTSTART;VALUE=DATE:20260227
 LOCATION:Kunming
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260228
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:34 日落 19:09\n\n⚡️ 气压 1001 hPa\n\n💧 湿度 21%\n\n💨 风速 7 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:34 日落 19:09\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 21%\n\n💨 风速 7 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌤️ 12°/20°
+SUMMARY;LANGUAGE=en:☁️ 12°/22°
 X-FUNAMBOL-ALLDAY:1
 UID:20260228@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
+DTSTAMP;VALUE=DATE:20260223T011818
 DTSTART;VALUE=DATE:20260228
 LOCATION:Kunming
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260301
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:🌤️ 少量云\n\n🌅 日出 7:33 日落 19:10\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 28%\n\n💨 风速 6 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:33 日落 19:10\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 24%\n\n💨 风速 9 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en:☀️ 12°/23°
 X-FUNAMBOL-ALLDAY:1
 UID:20260301@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
+DTSTAMP;VALUE=DATE:20260223T011818
 DTSTART;VALUE=DATE:20260301
 LOCATION:Kunming
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260302
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:32 日落 19:10\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 22%\n\n💨 风速 8 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:32 日落 19:10\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 18%\n\n💨 风速 8 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 12°/22°
+SUMMARY;LANGUAGE=en:☀️ 13°/23°
 X-FUNAMBOL-ALLDAY:1
 UID:20260302@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
+DTSTAMP;VALUE=DATE:20260223T011818
 DTSTART;VALUE=DATE:20260302
 LOCATION:Kunming
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260303
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:31 日落 19:11\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 24%\n\n💨 风速 7 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:31 日落 19:11\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 18%\n\n💨 风速 8 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 12°/23°
+SUMMARY;LANGUAGE=en:☀️ 15°/23°
 X-FUNAMBOL-ALLDAY:1
 UID:20260303@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
+DTSTAMP;VALUE=DATE:20260223T011818
 DTSTART;VALUE=DATE:20260303
 LOCATION:Kunming
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260304
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:30 日落 19:11\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 26%\n\n💨 风速 6 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:30 日落 19:11\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 21%\n\n💨 风速 10 m/s\n🚩 西南偏西 →\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 12°/24°
+SUMMARY;LANGUAGE=en:☀️ 11°/21°
 X-FUNAMBOL-ALLDAY:1
 UID:20260304@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
+DTSTAMP;VALUE=DATE:20260223T011818
 DTSTART;VALUE=DATE:20260304
 LOCATION:Kunming
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260305
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:29 日落 19:12\n\n⚡️ 气压 1001 hPa\n\n💧 湿度 22%\n\n💨 风速 6 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:29 日落 19:12\n\n⚡️ 气压 1011 hPa\n\n💧 湿度 28%\n\n💨 风速 6 m/s\n🚩 东 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 13°/24°
+SUMMARY;LANGUAGE=en:☁️ 9°/22°
 X-FUNAMBOL-ALLDAY:1
 UID:20260305@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
+DTSTAMP;VALUE=DATE:20260223T011818
 DTSTART;VALUE=DATE:20260305
 LOCATION:Kunming
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260306
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:28 日落 19:12\n\n⚡️ 气压 1004 hPa\n\n💧 湿度 22%\n\n💨 风速 5 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 部分多云\n\n🌅 日出 7:28 日落 19:12\n\n⚡️ 气压 1007 hPa\n\n💧 湿度 33%\n\n💨 风速 5 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☀️ 13°/24°
+SUMMARY;LANGUAGE=en:☁️ 11°/24°
 X-FUNAMBOL-ALLDAY:1
 UID:20260306@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
+DTSTAMP;VALUE=DATE:20260223T011818
 DTSTART;VALUE=DATE:20260306
 LOCATION:Kunming
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260307
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☀️ 晴\n\n🌅 日出 7:27 日落 19:13\n\n⚡️ 气压 1002 hPa\n\n💧 湿度 23%\n\n💨 风速 7 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:27 日落 19:13\n\n⚡️ 气压 1005 hPa\n\n💧 湿度 31%\n\n💨 风速 7 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:☁️ 9°/24°
+SUMMARY;LANGUAGE=en:☁️ 12°/23°
 X-FUNAMBOL-ALLDAY:1
 UID:20260307@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
+DTSTAMP;VALUE=DATE:20260223T011818
 DTSTART;VALUE=DATE:20260307
 LOCATION:Kunming
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260308
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:26 日落 19:13\n\n⚡️ 气压 1003 hPa\n\n💧 湿度 25%\n\n💨 风速 7 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:☁️ 局部多云\n\n🌅 日出 7:26 日落 19:13\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 31%\n\n💨 风速 7 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=en:🌦️ 5°/13°
+SUMMARY;LANGUAGE=en:🌦️ 12°/25°
 X-FUNAMBOL-ALLDAY:1
 UID:20260308@vejnoe.dk
-DTSTAMP;VALUE=DATE:20260221T011334
+DTSTAMP;VALUE=DATE:20260223T011818
 DTSTART;VALUE=DATE:20260308
 LOCATION:Kunming
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTEND;VALUE=DATE:20260309
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:25 日落 19:14\n\n⚡️ 气压 1013 hPa\n\n💧 湿度 48%\n\n💨 风速 4 m/s\n🚩 东偏东北 ←\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:25 日落 19:14\n\n⚡️ 气压 1006 hPa\n\n💧 湿度 30%\n\n💨 风速 6 m/s\n🚩 西南偏西 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 12°/21°
+X-FUNAMBOL-ALLDAY:1
+UID:20260309@vejnoe.dk
+DTSTAMP;VALUE=DATE:20260223T011818
+DTSTART;VALUE=DATE:20260309
+LOCATION:Kunming
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTEND;VALUE=DATE:20260310
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:24 日落 19:14\n\n⚡️ 气压 1009 hPa\n\n💧 湿度 54%\n\n💨 风速 4 m/s\n🚩 西南 ↗\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en:🌦️ 6°/12°
+X-FUNAMBOL-ALLDAY:1
+UID:20260310@vejnoe.dk
+DTSTAMP;VALUE=DATE:20260223T011818
+DTSTART;VALUE=DATE:20260310
+LOCATION:Kunming
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTEND;VALUE=DATE:20260311
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+DESCRIPTION;LANGUAGE=en:🌦️ 小雨\n\n🌅 日出 7:23 日落 19:15\n\n⚡️ 气压 1021 hPa\n\n💧 湿度 82%\n\n💨 风速 5 m/s\n🚩 东偏东北 ↙\n\n其他城市天气订阅 https://github.com/Moli-X/Calendar/tree/main/Weather\n\n🙌 更多日历订阅请点击 https://github.com/Moli-X/Calendar
 END:VEVENT
 END:VCALENDAR
